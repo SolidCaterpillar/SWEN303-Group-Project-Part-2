@@ -26,6 +26,14 @@ Tests will be conducted remotely, with participants located in a quiet environme
 
 ### Procedure
 
+Test participants will be asked to complete testing in a quiet environment, preferably at their workstation or desk. The test facilitator and note taker will then join a participant in a voice call, and the participant will be sent the system prototype through a Figma link which they can open in a browser without downloading additional software.
+
+The test facilitator will then introduce the system to the participant and their role in testing. To ensure honest answers are obtained from the participant, it is important to ensure them that it is the system being evaluated, not their proficiency. Additionally, the facilitator will inform the user that personal information such as their name will not be used outside of identifying them for the testing procedure and analysis. The facilitator will then give a quick overview of the purpose and function of the system with reference to the prototype.
+
+The facilitator will then ask test participants to read aloud each task before completing it, voicing their thought process as they do so. After each task, the facilitator will ask the participant for their general thoughts on the process. Another person present in the call will be the note taker who will record notes on the participant's response to each task, as well as their thoughts during completion. Notes on time taken, any potential errors in the system, and differences in expectation by the user and the actual system will be recorded also. 
+
+After all tasks are completed, the users will be asked to complete a Google form questionnaire independently. This questionnaire will ask users to evaluate system function through the performance of each task and overall, as well as questions on general function and their interaction with it.
+
 
 # Script
 #### Introduction and Consent
