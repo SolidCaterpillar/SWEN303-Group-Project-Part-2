@@ -12,9 +12,42 @@ This study will be primarily focused on the experience of University Students. T
 
 
 # Methodology
+## Participants
+#### Selection Criteria
+Participants for this usability test are software engineering students from Victoria University enrolled in the SWEN303 course. These participants were selected through group pairings suggested by the course lecturer. The participants' average skill level with software systems is assumed to be relatively high, given their background, which may influence their interaction with the prototype. This selection aims to ensure that participants can complete the set tasks effectively, though their advanced skill level should be considered when analyzing test results.
+
+#### Participant Details
+- **Number of Participants**: Six
+- **Background**: Software engineering students with experience in using and evaluating software systems
+- **Skill Level**: Relatively high, given their academic background and familiarity with technology
+
+### Environment
+Tests will be conducted remotely, with participants located in a quiet environment, ideally at their workstation or desk. This setup aims to minimize distractions and simulate a typical user environment. The test facilitator and note taker will join the participants in a voice call, and the participants will access the system prototype via a Figma link, which can be opened in a web browser without additional software installation.
+
+### Procedure
 
 
 # Script
+#### Introduction and Consent
+1. **Welcome and Briefing**: 
+   - The facilitator will welcome the participants and provide a brief overview of the test's purpose, emphasizing that the focus is on evaluating the system, not the participants.
+   - Participants will be assured that their personal information will remain confidential and only used for identifying them during the testing process.
+
+2. **Consent Form**: 
+   - Participants will be asked to read and sign a consent form, which outlines their role in the test, the nature of the tasks, and their rights as participants.
+
+#### Testing of Prototypes
+1. **Working with the Prototype**:
+   - Participants will then go through the task list for our prototype. They will be accompanied by a facilitator/note-taker who will help direct them through the various tasks and record information. We will be recording the user to later conduct sentiment analysis on the users.
+   - Key findings will focus on points of confusion while navigating the application.
+
+2. **Collecting Quantitative Data**:
+   - Users will then be asked to fill out a survey consisting of SUS questions. This will be collected in a google form for later evaluation.
+
+#### Focus Group Evaluation
+1. **Splitting Groups**:
+   - Participants will be split into two groups of three, we will then use that to conduct a focus group consisting of five questions. 
+   - Key goals from this consist of trying to understand emotional feelings and undertones as they navigate the app, as well as future recomendations.    
 
 
 # Roles
