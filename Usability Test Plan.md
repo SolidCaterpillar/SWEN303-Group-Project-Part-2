@@ -266,6 +266,18 @@ We will export the results of the SUS Google Form and use a Python script to rec
 We will record the test subjects, with note taking to aid in sentiment analysis. We are hoping for a mostly positive response, but constructive feedback for places we can improve upon. 
 <hr>
 
+<hr>
+
 # Problem Severity
 
+We are using the severity rating for a usability problem base on Jakob Nielsen:
 
+- 0 = I don’t agree that this is a usability problem at all
+- 1 = Cosmetic problem only: need not be fixed unless extra time is available on project
+- 2 = Minor usability problem: fixing this should be given low priority
+- 3 = Major usability problem: important to fix, so should be given high priority
+- 4 = Usability catastrophe: imperative to fix this before product can be released
+
+
+We choose this because we have used it in the previous part of the group project to evaluate our team’s wireframe. We going use it to evaluate to the different team members on our group’s prototype. 
+<hr>
