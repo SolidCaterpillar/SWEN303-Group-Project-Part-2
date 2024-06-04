@@ -134,15 +134,7 @@ Test Subject: ???
 3. Change the view to display monthly insights.
 4. Analyse the data presented in graphs and tables for accuracy and completeness.
 
-### Task 5: Review the main dashboard for an overview of upcoming payments and overall balance.
-
-**Steps**:
-1. Navigate to the "Dashboard/Home" section.
-2. Review the overview of upcoming payments and overall owing.
-3. Click the dropdown button for the upcoming payments card.
-4. Click the dropdown button for the pay-up card to view all outstanding payments.
-
-### Task 6: Test the customization options for display and accessibility to ensure usability for all users.
+### Task 5: Test the customization options for display and accessibility to ensure usability for all users.
 
 **Steps**:
 1. Open the hamburger menu and navigate to "App Settings."
@@ -150,7 +142,7 @@ Test Subject: ???
 3. Adjust accessibility settings (e.g., colour scheme, contrast).
 4. Verify that the changes are applied and improve usability.
 
-### Task 7: Test the help and support functionalities, ensuring users can find information and contact support if needed.
+### Task 6: Test the help and support functionalities, ensuring users can find information and contact support if needed.
 
 **Steps**:
 1. Open the hamburger menu and navigate to "App Settings."
