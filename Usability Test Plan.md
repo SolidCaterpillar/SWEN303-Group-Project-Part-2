@@ -90,7 +90,7 @@ Test Subject: ???
 
 Test Subject: ???
 - Facilitator: Risheet Peri
-- Recorder: Hamish ???
+- Recorder: Hamish Burke
 
 # Tasks
 
