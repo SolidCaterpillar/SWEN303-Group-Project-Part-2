@@ -170,73 +170,76 @@ After all tasks are completed, the users will be asked to complete a Google Form
 
 We decided on both quantitative and qualitative metrics so that the test subject is not limited to ratings as feedback. The metrics will be evaluated both during the testing and post the testing so that we can get results unaffected by the Hawthorne effect. Therefore, even if the Hawthorne effect deemed metrics taken during the study less applicable, we can use post-study tests, immediately after the study, to gain an insight into the test subject’s experience of the prototype. We will have a mix of objective and subjective metrics so that we can measure their correlation.
 
-## During the Test/Synchronous
+-  ## During the Test/Synchronous
 
-### Quantitative
+    - ### Quantitative
 
-#### Speed of Navigation
+      - #### Speed of Navigation
 
-We will start the timer as soon as we reveal the task to the test subject and lap the time it takes for the test subject to reach the next wireframe, i.e., the test subject finishes the sub-task. This time would involve the processes of understanding the sub-task, locating the appropriate button, and pressing it. The faster the response time, the more intuitive the user interface of our prototype is what we are assuming. However, there may be a lot of bias and a small sample group to be able to use these results for accurate testing. This is an example of an objective metric.
+        We will start the timer as soon as we reveal the task to the test subject and lap the time it takes for the test subject to reach the next wireframe, i.e., the test subject finishes the sub-task. This time would involve the processes of understanding the sub-task, locating the appropriate button, and pressing it. The faster the response time, the more intuitive the user interface of our prototype is what we are assuming. However, there may be a lot of bias and a small sample group to be able to use these results for accurate testing. This is an example of an objective metric.
 
-### Qualitative
+   - ### Qualitative
 
-#### Sentiment Analysis
+      - #### Sentiment Analysis
 
-We will record the test subjects' responses as they evaluate the prototype synchronously and asynchronously in the focus groups. We will use AI tools like OpenAI’s Whisper to receive an accurate transcript, but we will remove the sections where the test-giver speaks. We will divide this transcript by each sub-task. We will upload these mini transcripts to a CSV file along with the task and sub-task ID. We will then use Python libraries like NLTK Vader and Roberto to calculate the sentiment analysis scores (positive, neutral, and negative). The responses by the test subjects themselves will be qualitative, but the Python libraries mentioned can convert them to quantitative responses which we can analyse and visualise using graphs using Python’s NumPy, Pandas, and Matplotlib libraries. This is a subjective, but an AI data-driven metric.
+         We will record the test subjects' responses as they evaluate the prototype synchronously and asynchronously in the focus groups. We will use AI tools like OpenAI’s Whisper to receive an accurate transcript, but we will remove the sections where the test-giver speaks. We will divide this transcript by each sub-task. We will upload these mini transcripts to a CSV file along with the task and sub-task ID. We will then use Python libraries like NLTK Vader and Roberto to calculate the sentiment analysis scores (positive, neutral, and negative). The responses by the test subjects themselves will be qualitative, but the Python libraries mentioned can convert them to quantitative responses which we can analyse and visualise using graphs using Python’s NumPy, Pandas, and Matplotlib libraries. This is a subjective, but an AI data-driven metric.
 
-## Post Test/Asynchronous
+- ## Post Test/Asynchronous
 
-### Quantitative
+   - ### Quantitative
 
-#### SUS (System Usability Scale)
+      - #### SUS (System Usability Scale)
 
-We will give the test subject a Google Form with ten questions to give a rating to. We felt this was more relevant to our purpose than the NASA TLX since the NASA TLX focuses on hardware testing as well, which is not applicable to our prototypes. We will analyse the responses by using the number ratings input. This is a subjective metric.
+         We will give the test subject a Google Form with ten questions to give a rating to. We felt this was more relevant to our purpose than the NASA TLX since the NASA TLX focuses on hardware testing as well, which is not applicable to our prototypes. We will analyse the responses by using the number ratings input. This is a subjective metric.
 
-### Qualitative
+   - ### Qualitative
 
-#### Focus Group
+      - #### Focus Group
 
-We will also ask more qualitative or subjective questions out of scope for the SUS metric to the test subjects in a small group, that would stimulate discussion and agreement between the test subjects. We will record their responses and evaluate our prototype. This is a subjective metric.
+         We will also ask more qualitative or subjective questions out of scope for the SUS metric to the test subjects in a small group, that would stimulate discussion and agreement between the test subjects. We will record their responses and evaluate our prototype. This is a subjective metric.
 
 # Usability Goals
 
-## During the Test/Synchronous
+We have decided thresholds, that if met, means that our prototype passed our user testing phase. We have decided separate Usability Goals for each Metric identified.
 
-### Quantitative
+- ## During the Test/Synchronous
 
-#### Speed of Navigation
+   - ### Quantitative
 
-We will want each task to be finished within 1 minute since only then we can assume that the task can be completed in a user-friendly manner. Each sub-task should take no more than 10 seconds since we are assuming 5-6 sub-tasks within a task.
+      - #### Speed of Navigation
 
-### Qualitative
+         We will want each task to be finished within 1 minute since only then we can assume that the task can be completed in a user-friendly manner. Each sub-task should take no more than 10 seconds since we are assuming 5-6 sub-tasks within a task.
 
-#### Sentiment Analysis
+   - ### Qualitative
 
-Each sentiment will get a rating from 0-1 for a negative, neutral, and positive factor. We will use the maximum of these ratings to determine the overall sentiment, but we will use the numerical value to plot the trend in user-friendliness per wireframe. We used two different models—Vader (which uses Bag-of-Words without previous context) and Roberto (which is more accurate since it uses context)—to help us clearly identify any anomalies. The actual sentiment analysis will take place after the test, but the recording of the live reaction/responses is synchronous to the test. We decided that over 0.7 for one aspect, with more than 0.3 difference with the other aspects, is a significant result, using the Roberto model. We will aim for over 70% being positive responses.
+      - #### Sentiment Analysis
 
-## Post Test/Asynchronous
+         Each sentiment will get a rating from 0-1 for a negative, neutral, and positive factor. We will use the maximum of these ratings to determine the overall sentiment, but we will use the numerical value to plot the trend in user-friendliness per wireframe. We used two different models—Vader (which uses Bag-of-Words without previous context) and Roberto (which is more accurate since it uses context)—to help us clearly identify any anomalies. The actual sentiment analysis will take place after the test, but the recording of the live reaction/responses is synchronous to the test. We decided that over 0.7 for one aspect, with more than 0.3 difference with the other aspects, is a significant result, using the Roberto model. We will aim for over 70% being positive responses.
 
-### Quantitative
+- ## Post Test/Asynchronous
 
-#### SUS (System Usability Scale)
+   - ### Quantitative
 
-We will export the results of the SUS Google Form and use a Python script to receive a rating as follows:
+      - #### SUS (System Usability Scale)
 
-1. For each question, calculate the sub-score:
-   - Odd-numbered statements: User_Response - 1
-   - Even-numbered statements: 5 - User_Response
-2. Sum all the sub-scores to get the SUS score for each user
-3. Normalise the SUS score (out of 100): SUS_Score * 2.5
-4. According to the Interaction Design Foundation, a normalised SUS Score:
-   - ≥ 70 is considered good
-   - ≥ 85 is considered excellent
-5. Since our prototype is not a finished application, we will be aiming for an average SUS Score of 65 with none less than 50.
+         We will export the results of the SUS Google Form and use a Python script to receive a rating as follows:
 
-### Qualitative
+      1. For each question, calculate the sub-score:
+         - Odd-numbered statements: User_Response - 1
+         - Even-numbered statements: 5 - User_Response
+      2. Sum all the sub-scores to get the SUS score for each user
+      3. Normalise the SUS score (out of 100): SUS_Score * 2.5
+      4. According to the Interaction Design Foundation, a normalised SUS Score:
+         - ≥ 70 is considered good
+         - ≥ 85 is considered excellent
+      5. Since our prototype is not a finished application, we will be aiming for an average SUS Score of 65 with none less than 50.
+   <br>
 
-#### Focus Group
+   - ### Qualitative
 
-We will record the test subjects, with note-taking to aid in sentiment analysis. We are hoping for a mostly positive response, but constructive feedback for places we can improve upon.
+      - #### Focus Group
+
+         We will record the test subjects, with note-taking to aid in sentiment analysis. We are hoping for a mostly positive response, but constructive feedback for places we can improve upon.
 
 # Problem Severity
 
