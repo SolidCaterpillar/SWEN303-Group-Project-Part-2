@@ -161,21 +161,10 @@ After all tasks are completed, the users will be asked to complete a Google Form
 # Focus Group Questions
 
 1. What were your first impressions of the app?
-2. How did you feel when you first started using the app?
-3. What did you like about the app?
-4. What did you like least about the app?
-5. How easy/difficult was it to navigate the app?
-6. Were there any parts of the wireframe that you found confusing or hard to use?
-7. How intuitive was the navigation of the app?
-8. What would you change about the app?
-9. What do you think about the overall design of the app
-
-?
-10. Were there any design aspects/components that stood out to you (in good or bad ways)?
-11. How did you feel about the colour scheme of the app?
-12. What tasks did you find easiest and hardest to complete, and why?
-13. If this were a real app, would you use it? Why or why not?
-14. Is there anything else you would like to add?
+3. Describe your experience as you navigated the app?
+4. Were there any parts of the app that you found confusing or hard to use?
+5. How did you feel about the colour scheme of the app?
+6. If this were a real app, would you use it? Why or why not?
 
 # Metrics
 
