@@ -69,7 +69,7 @@ After all tasks are completed, the users will be asked to complete a Google Form
 ## Role Definitions
 
 - **Facilitator**: The facilitator is responsible for guiding the test subject through the test plan and answering any questions the test subject might have.
-- **Recorder**: The recorder is responsible for documenting the test subject's responses, feedback, and any interactions between the facilitator and the test subject.
+- **Recorder**: The recorder is responsible for documenting the test subject's responses, feedback, and any interactions between the facilitator and the test subject. They are also responsible for ensuring that data is processesed and placed into the repository.
 - **Test Subject**: The test subject is the person who will be interacting with the system being tested.
 
 ## Role Assignments
