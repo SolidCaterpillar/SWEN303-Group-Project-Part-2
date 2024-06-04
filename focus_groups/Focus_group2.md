@@ -11,15 +11,22 @@ Participants:
 -------------------------------------------
 
 
-Responses:
-Kayi: did not like the colours
+Responses: 
+
+Kayi: 
+
+* did not like the colours
 * Was a bit swampy
 * Confused with pay up
 * Accesability was good - dark mode was good
+
 Baxter:
+
 * Home page was over crowded
 * Dark mode better than normal colours
+
 Hugo:
+
 * Focus on either past or future
 
 
