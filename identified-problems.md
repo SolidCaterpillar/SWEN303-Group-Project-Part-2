@@ -4,13 +4,25 @@
 
 #### Task 1:
 
+**Problem**: Expense creation broke the first time. Create button did not work.
+
+**Severity Scale**:
+
+**Problem**: Rent form was confusing for the user
+
+**Severity Scale**:
+
 **Problem**:
 
 **Severity Scale**:
 
 #### Task 2:
 
-**Problem**:
+**Problem**: User initially tried clicking pay card on homepage, only then did they press the pay icon.
+
+**Severity Scale**:
+
+**Problem**: No feedback on homepage or pay-up page, confused.
 
 **Severity Scale**:
 
@@ -20,13 +32,33 @@
 
 **Severity Scale**:
 
-#### Task 4:
+**Problem**:
+
+**Severity Scale**:
 
 **Problem**:
 
 **Severity Scale**:
 
+#### Task 4:
+
+**Problem**: Used the fab at the top and looked at the pie chart for all insights. Did not access the category
+
+**Severity Scale**:
+
 #### Task 5:
+
+**Problem**: User was confused, expected system to be the default setting for colour.
+
+**Severity Scale**:
+
+**Problem**: High contrast had issues with text. Noticed in the homepage and FAQ.
+
+**Severity Scale**:
+
+**Problem**:
+
+**Severity Scale**:
 
 **Problem**:
 
@@ -38,6 +70,17 @@
 
 **Severity Scale**:
 
+**Problem**:
+
+**Severity Scale**:
+
+**Problem**:
+
+**Severity Scale**:
+
+**Problem**:
+
+**Severity Scale**:
 
 ## Focus Group
 
