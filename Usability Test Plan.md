@@ -1,42 +1,47 @@
 # Testing Overview
-The following test plan describes the objectives of our testing of our working prototype created in Part One of the Project. This involved the creation of a Flat Expenses Management App.
 
-Our key objectives from User testing are to evaluate the following:
-* Handling of **“Core Functionalities”** offered by the working prototype. This includes Creation of expenses, paying relevant users, viewing past/future expenses, managing insights and modifying settings. We will primarily be observing the usability of our app for the test subjects
+The following test plan describes the objectives of our testing of the working prototype created in Part One of the Project. This involved the creation of a Flat Expenses Management App.
+
+Our key objectives from user testing are to evaluate the following:
+
+* Handling of **“Core Functionalities”** offered by the working prototype. This includes creation of expenses, paying relevant users, viewing past/future expenses, managing insights, and modifying settings. We will primarily be observing the usability of our app for the test subjects.
 * Identify any **bugs** or **pain points** in the design experienced by users.
-* Understand the overall **emotional feeling** as users use our app. As we are handling something as delicate as finances. We want to ensure that users are confident in their decisions to reduce stress on them. (THIS IS OPTIONAL)
+* Understand the overall **emotional feeling** as users use our app. As we are handling something as delicate as finances, we want to ensure that users are confident in their decisions to reduce stress on them. (THIS IS OPTIONAL)
 * Collect **general feedback** and **satisfaction** from test subjects.
 
-With these objectives in mind, we will collect and analyse user experience of the app through the use metrics. From these metrics, we will then classify them by severity, giving us and understanding of how will prioritise changes in future iterations.
-This study will be primarily focused on the experience of University Students. They will be 6 SWEN303 Students at Victoria University. While it is good that we are doing User testing, this does not cover the needs for all our intended userbase. Future testing must be done for a broader picture on the usability of our application.
-
+With these objectives in mind, we will collect and analyse user experience of the app through the use of metrics. From these metrics, we will then classify them by severity, giving us an understanding of how to prioritise changes in future iterations. This study will be primarily focused on the experience of university students. They will be 6 SWEN303 students at Victoria University. While it is good that we are doing user testing, this does not cover the needs of all our intended user base. Future testing must be done for a broader picture of the usability of our application.
 
 # Methodology
+
 ## Participants
+
 #### Selection Criteria
-Participants for this usability test are software engineering students from Victoria University enrolled in the SWEN303 course. These participants were selected through group pairings suggested by the course lecturer. The participants' average skill level with software systems is assumed to be relatively high, given their background, which may influence their interaction with the prototype. This selection aims to ensure that participants can complete the set tasks effectively, though their advanced skill level should be considered when analyzing test results.
+Participants for this usability test are software engineering students from Victoria University enrolled in the SWEN303 course. These participants were selected through group pairings suggested by the course lecturer. The participants' average skill level with software systems is assumed to be relatively high, given their background, which may influence their interaction with the prototype. This selection aims to ensure that participants can complete the set tasks effectively, though their advanced skill level should be considered when analysing test results.
 
 #### Participant Details
+
 - **Number of Participants**: Six
 - **Background**: Software engineering students with experience in using and evaluating software systems
 - **Skill Level**: Relatively high, given their academic background and familiarity with technology
 
 ### Environment
-Tests will be conducted remotely, with participants located in a quiet environment, ideally at their workstation or desk. This setup aims to minimize distractions and simulate a typical user environment. The test facilitator and note taker will join the participants in a voice call, and the participants will access the system prototype via a Figma link, which can be opened in a web browser without additional software installation.
+
+Tests will be conducted remotely, with participants located in a quiet environment, ideally at their workstation or desk. This setup aims to minimise distractions and simulate a typical user environment. The test facilitator and note-taker will join the participants in a voice call, and the participants will access the system prototype via a Figma link, which can be opened in a web browser without additional software installation.
 
 ### Procedure
 
-Test participants will be asked to complete testing in a quiet environment, preferably at their workstation or desk. The test facilitator and note taker will then join a participant in a voice call, and the participant will be sent the system prototype through a Figma link which they can open in a browser without downloading additional software.
+Test participants will be asked to complete testing in a quiet environment, preferably at their workstation or desk. The test facilitator and note-taker will then join a participant in a voice call, and the participant will be sent the system prototype through a Figma link which they can open in a browser without downloading additional software.
 
-The test facilitator will then introduce the system to the participant and their role in testing. To ensure honest answers are obtained from the participant, it is important to ensure them that it is the system being evaluated, not their proficiency. Additionally, the facilitator will inform the user that personal information such as their name will not be used outside of identifying them for the testing procedure and analysis. The facilitator will then give a quick overview of the purpose and function of the system with reference to the prototype.
+The test facilitator will then introduce the system to the participant and their role in testing. To ensure honest answers are obtained from the participant, it is important to assure them that it is the system being evaluated, not their proficiency. Additionally, the facilitator will inform the user that personal information such as their name will not be used outside of identifying them for the testing procedure and analysis. The facilitator will then give a quick overview of the purpose and function of the system with reference to the prototype.
 
-The facilitator will then ask test participants to read aloud each task before completing it, voicing their thought process as they do so. After each task, the facilitator will ask the participant for their general thoughts on the process. Another person present in the call will be the note taker who will record notes on the participant's response to each task, as well as their thoughts during completion. Notes on time taken, any potential errors in the system, and differences in expectation by the user and the actual system will be recorded also. 
+The facilitator will then ask test participants to read aloud each task before completing it, voicing their thought process as they do so. After each task, the facilitator will ask the participant for their general thoughts on the process. Another person present in the call will be the note-taker who will record notes on the participant's response to each task, as well as their thoughts during completion. Notes on time taken, any potential errors in the system, and differences in expectation by the user and the actual system will be recorded also.
 
-After all tasks are completed, the users will be asked to complete a Google form questionnaire independently. This questionnaire will ask users to evaluate system function through the performance of each task and overall, as well as questions on general function and their interaction with it.
-
+After all tasks are completed, the users will be asked to complete a Google Form questionnaire independently. This questionnaire will ask users to evaluate system function through the performance of each task and overall, as well as questions on general function and their interaction with it.
 
 # Script
+
 #### Introduction and Consent
+
 1. **Welcome and Briefing**: 
    - The facilitator will welcome the participants and provide a brief overview of the test's purpose, emphasizing that the focus is on evaluating the system, not the participants.
    - Participants will be assured that their personal information will remain confidential and only used for identifying them during the testing process.
@@ -45,53 +50,53 @@ After all tasks are completed, the users will be asked to complete a Google form
    - Participants will be asked to read and sign a consent form, which outlines their role in the test, the nature of the tasks, and their rights as participants.
 
 #### Testing of Prototypes
+
 1. **Working with the Prototype**:
    - Participants will then go through the task list for our prototype. They will be accompanied by a facilitator/note-taker who will help direct them through the various tasks and record information. We will be recording the user to later conduct sentiment analysis on the users.
    - Key findings will focus on points of confusion while navigating the application.
 
 2. **Collecting Quantitative Data**:
-   - Users will then be asked to fill out a survey consisting of SUS questions. This will be collected in a google form for later evaluation.
+   - Users will then be asked to fill out a survey consisting of SUS questions. This will be collected in a Google Form for later evaluation.
 
 #### Focus Group Evaluation
+
 1. **Splitting Groups**:
    - Participants will be split into two groups of three, we will then use that to conduct a focus group consisting of five questions. 
-   - Key goals from this consist of trying to understand emotional feelings and undertones as they navigate the app, as well as future recomendations.    
-
+   - Key goals from this consist of trying to understand emotional feelings and undertones as they navigate the app, as well as future recommendations.
 
 # Roles
 
 ## Role Definitions
 
-- Facilitator: The facilitator is responsible for guiding the test subject through the test plan and answering any questions the test subject might have
-- Recorder: The recorder is responsible for documenting the test subject's responses, feedback and any interactions between the facilitator and the test subject
-- Test Subject: The test subject is the person who will be interacting with the system being tested
+- **Facilitator**: The facilitator is responsible for guiding the test subject through the test plan and answering any questions the test subject might have.
+- **Recorder**: The recorder is responsible for documenting the test subject's responses, feedback, and any interactions between the facilitator and the test subject.
+- **Test Subject**: The test subject is the person who will be interacting with the system being tested.
 
 ## Role Assignments
 
+- **Test Subject: Rachel Correa**
+  - Facilitator: Mazen Khallaf
+  - Recorder: Z'Arn Payne
 
-Test Subject: Rachel Correa
-- Facilitator: Mazen Khallaf
-- Recorder: Z'Arn Payne
+- **Test Subject: Kadir Kayi Erol-Watt**
+  - Facilitator: Z'Arn Payne
+  - Recorder: Mazen Khallaf
 
-Test Subject: Kadir Kayi Erol-Watt
-- Facilitator: Z'Arn Payne
-- Recorder: Mazen Khallaf
+- **Test Subject: Arianna Case**
+  - Facilitator: Alvien Salvador
+  - Recorder: Ricky Fong
 
-Test Subject: Arianna Case
-- Facilitator: Alvien Salvador
-- Recorder: Ricky Fong
+- **Test Subject: Baxter Alexander**
+  - Facilitator: Ricky Fong
+  - Recorder: Alvien Salvador
 
-Test Subject: Baxter Alexander
-- Facilitator: Ricky Fong
-- Recorder: Alvien Salvador
+- **Test Subject: Keira Malan**
+  - Facilitator: Hamish Burke
+  - Recorder: Risheet Peri
 
-Test Subject: Keira Malan
-- Facilitator: Hamish Burke
-- Recorder: Risheet Peri
-
-Test Subject: Hugo Blair
-- Facilitator: Risheet Peri
-- Recorder: Hamish ???
+- **Test Subject: Hugo Blair**
+  - Facilitator: Risheet Peri
+  - Recorder: Hamish ???
 
 # Tasks
 
@@ -113,7 +118,7 @@ Test Subject: Hugo Blair
 ### Task 2: Ensure the functionality of paying an existing expense and verify its removal from the list.
 
 **Steps**:
-1. Navigate to the "Pay up" section.
+1. Navigate to the "Pay Up" section.
 2. Open the dropdown for Alex to view all outstanding payments.
 3. Select the expense for Power ($80.25).
 4. Confirm the payment.
@@ -153,8 +158,8 @@ Test Subject: Hugo Blair
 5. Complete the support form and submit it.
 6. Verify receipt of the support request and the response process.
 
-
 # Focus Group Questions
+
 1. What were your first impressions of the app?
 2. How did you feel when you first started using the app?
 3. What did you like about the app?
@@ -163,100 +168,95 @@ Test Subject: Hugo Blair
 6. Were there any parts of the wireframe that you found confusing or hard to use?
 7. How intuitive was the navigation of the app?
 8. What would you change about the app?
-9. What do you think about the overall design of the app?
-10. Were there any design aspects/components that stood out to you (in good or bad ways)
-11. How did you feel about the color scheme of the app?
+9. What do you think about the overall design of the app
+
+?
+10. Were there any design aspects/components that stood out to you (in good or bad ways)?
+11. How did you feel about the colour scheme of the app?
 12. What tasks did you find easiest and hardest to complete, and why?
 13. If this were a real app, would you use it? Why or why not?
 14. Is there anything else you would like to add?
 
 # Metrics
 
-We decided on both quantitative and qualitative metrics, so that the test subject is not limited to ratings as feedback. The metrics will be evaluated both during the testing and post the testing, so that we can get results unaffected by the Hawthorne effect. Therefore, even if the Hawthorne effect deemed metrics taken during the study less applicable, we can use post-study tests, immediately after the study, to gain an insight of the test subject’s experience of the prototype. We will have a mix of objective and subjective metrics so that we can measure their correlation.
+We decided on both quantitative and qualitative metrics so that the test subject is not limited to ratings as feedback. The metrics will be evaluated both during the testing and post the testing so that we can get results unaffected by the Hawthorne effect. Therefore, even if the Hawthorne effect deemed metrics taken during the study less applicable, we can use post-study tests, immediately after the study, to gain an insight into the test subject’s experience of the prototype. We will have a mix of objective and subjective metrics so that we can measure their correlation.
 
-- ## During the Test/ Synchronous
-
-### Quantitative
-### Speed of Navigation:
-We will start the timer as soon as we reveal the task to the test subject and lap the time it takes for the test subject to reach the next wireframe i.e, the test subject finishes the sub-task. This time would involve the processes of understanding the sub-task, locating the appropriate button and pressing it. The faster the response time, the more intuitive the user interface of our prototype, is what we are assuming. However, there may be a lot of bias and a small sample group to be able to use these results for accurate testing.This is an example of an objective metric.
-
-<hr>
-
-### Qualitative
-### Sentiment Analysis:
-We will record the test subjects' responses as they evaluate the prototype synchronously and asynchronously in the Focus Groups. We will use AI tools like OpenAI’s Whisper to receive an accurate transcript, but we will remove the sections where the test-giver speaks. We will divide this transcript by each sub-task. We will upload these mini transcripts to a csv file along with the task and sub-task ID. We will then use Python Libraries like NLTK Vader and Roberto to calculate the sentiment analysis scores (positive, neutral and negative). 
-The responses by the test subjects themselves will be qualitative, but the python libraries mentioned can convert them to quantitative responses which we can analyse and visualise using graphs using Python’s Numpy, Pandas and MatPlotLib libraries. This is a subjective, but an AI data-driven metric.
-
-<hr>
-<br>
-
-- ## Post Test/ Asynchronous
+## During the Test/Synchronous
 
 ### Quantitative
-### SUS (System Usability Scale):
-We will give the test subject a google form with ten questions to give a rating to. We felt this was more relevant to our purpose than the NASA TLX since the NASA TLX focusses on hardware testing as well, which is not applicable to our prototypes. We will analyse the responses by using the number ratings input. This is a subjective metric.
 
-<hr>
+#### Speed of Navigation
+
+We will start the timer as soon as we reveal the task to the test subject and lap the time it takes for the test subject to reach the next wireframe, i.e., the test subject finishes the sub-task. This time would involve the processes of understanding the sub-task, locating the appropriate button, and pressing it. The faster the response time, the more intuitive the user interface of our prototype is what we are assuming. However, there may be a lot of bias and a small sample group to be able to use these results for accurate testing. This is an example of an objective metric.
 
 ### Qualitative
-### Focus Group:
+
+#### Sentiment Analysis
+
+We will record the test subjects' responses as they evaluate the prototype synchronously and asynchronously in the focus groups. We will use AI tools like OpenAI’s Whisper to receive an accurate transcript, but we will remove the sections where the test-giver speaks. We will divide this transcript by each sub-task. We will upload these mini transcripts to a CSV file along with the task and sub-task ID. We will then use Python libraries like NLTK Vader and Roberto to calculate the sentiment analysis scores (positive, neutral, and negative). The responses by the test subjects themselves will be qualitative, but the Python libraries mentioned can convert them to quantitative responses which we can analyse and visualise using graphs using Python’s NumPy, Pandas, and Matplotlib libraries. This is a subjective, but an AI data-driven metric.
+
+## Post Test/Asynchronous
+
+### Quantitative
+
+#### SUS (System Usability Scale)
+
+We will give the test subject a Google Form with ten questions to give a rating to. We felt this was more relevant to our purpose than the NASA TLX since the NASA TLX focuses on hardware testing as well, which is not applicable to our prototypes. We will analyse the responses by using the number ratings input. This is a subjective metric.
+
+### Qualitative
+
+#### Focus Group
+
 We will also ask more qualitative or subjective questions out of scope for the SUS metric to the test subjects in a small group, that would stimulate discussion and agreement between the test subjects. We will record their responses and evaluate our prototype. This is a subjective metric.
-
-<br>
 
 # Usability Goals
 
-- ## During the Test/ Synchronous
+## During the Test/Synchronous
 
 ### Quantitative
-### Speed of Navigation:
-We will want each task to be finished within 1 minute, since only then we can assume that the task can be completed in a user-friendly manner.
-Each sub-task should take no more than 10 seconds, since we are assuming 5-6 sub-task within a task.
-<hr>
+
+#### Speed of Navigation
+
+We will want each task to be finished within 1 minute since only then we can assume that the task can be completed in a user-friendly manner. Each sub-task should take no more than 10 seconds since we are assuming 5-6 sub-tasks within a task.
 
 ### Qualitative
-### Sentiment Analysis:
-Each sentiment will get a rating from 0-1 for a negative, neutral and positive factor. We will use the maximum of these ratings to determine the overall sentiment, but we will use the numerical value to plot the trend in user-friendliness per wireframe. We used 2 different models- Vader (which uses Bag-of-Words without previous context) and Roberto (which is more accurate since it uses context), to help us clearly identify any anomalies. The actual sentiment analysis will take place after the test, but the recording of the live reaction/responses is synchronous to the test. We decided that over 0.7 for one aspect, with more than 0.3 difference with the other aspects is a significant result, using the Roberto model. We will aim for over 70% being positive responses.
 
-<br>
-<hr>
+#### Sentiment Analysis
 
-- ## Post Test/ Asynchronous
+Each sentiment will get a rating from 0-1 for a negative, neutral, and positive factor. We will use the maximum of these ratings to determine the overall sentiment, but we will use the numerical value to plot the trend in user-friendliness per wireframe. We used two different models—Vader (which uses Bag-of-Words without previous context) and Roberto (which is more accurate since it uses context)—to help us clearly identify any anomalies. The actual sentiment analysis will take place after the test, but the recording of the live reaction/responses is synchronous to the test. We decided that over 0.7 for one aspect, with more than 0.3 difference with the other aspects, is a significant result, using the Roberto model. We will aim for over 70% being positive responses.
+
+## Post Test/Asynchronous
 
 ### Quantitative
-### SUS (System Usability Scale):
+
+#### SUS (System Usability Scale)
+
 We will export the results of the SUS Google Form and use a Python script to receive a rating as follows:
 
 1. For each question, calculate the sub-score:
-- Odd-numbered statements: User_Response - 1
-- Even-numbered statements: 5 - User_Response
+   - Odd-numbered statements: User_Response - 1
+   - Even-numbered statements: 5 - User_Response
 2. Sum all the sub-scores to get the SUS score for each user
 3. Normalise the SUS score (out of 100): SUS_Score * 2.5
-4. According to the Interaction Design Foundation [a], a normalised SUS Score:
-- ≥ 70 is considered good
-- ≥ 85 is considered excellent
+4. According to the Interaction Design Foundation, a normalised SUS Score:
+   - ≥ 70 is considered good
+   - ≥ 85 is considered excellent
 5. Since our prototype is not a finished application, we will be aiming for an average SUS Score of 65 with none less than 50.
 
-<hr>
-
 ### Qualitative
-### Focus Group:
 
-We will record the test subjects, with note taking to aid in sentiment analysis. We are hoping for a mostly positive response, but constructive feedback for places we can improve upon. 
-<hr>
+#### Focus Group
 
-<hr>
+We will record the test subjects, with note-taking to aid in sentiment analysis. We are hoping for a mostly positive response, but constructive feedback for places we can improve upon.
 
 # Problem Severity
 
-We are using the severity rating for a usability problem base on Jakob Nielsen:
+We are using the severity rating for a usability problem based on Jakob Nielsen:
 
 - 0 = I don’t agree that this is a usability problem at all
 - 1 = Cosmetic problem only: need not be fixed unless extra time is available on project
 - 2 = Minor usability problem: fixing this should be given low priority
 - 3 = Major usability problem: important to fix, so should be given high priority
-- 4 = Usability catastrophe: imperative to fix this before product can be released
+- 4 = Usability catastrophe: imperative to fix this before the product can be released
 
-
-We choose this because we have used it in the previous part of the group project to evaluate our team’s wireframe. We going use it to evaluate to the different team members on our group’s prototype. 
-<hr>
+We chose this because we have used it in the previous part of the group project to evaluate our team’s wireframe. We are going to use it to evaluate the different team members on our group’s prototype.
