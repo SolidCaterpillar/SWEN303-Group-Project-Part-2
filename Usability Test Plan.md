@@ -94,9 +94,7 @@ Test Subject: ???
 
 # Tasks
 
-### Task 1: Create a New Expense
-
-**Objective**: Verify the functionality of adding a new recurring expense and splitting it among household members.
+### Task 1: Verify the functionality of adding a new recurring expense and splitting it among household members.
 
 **Steps**:
 1. Navigate to the home page.
@@ -111,9 +109,7 @@ Test Subject: ???
 4. Save the expense.
 5. Verify the expense is correctly listed with the appropriate details and split.
 
-### Task 2: Pay an Existing Expense
-
-**Objective**: Ensure the functionality of paying an existing expense and verify its removal from the list.
+### Task 2: Ensure the functionality of paying an existing expense and verify its removal from the list.
 
 **Steps**:
 1. Navigate to the "Pay up" section.
@@ -122,9 +118,7 @@ Test Subject: ???
 4. Confirm the payment.
 5. Verify the expense is removed from the list and updates are reflected in the expense records.
 
-### Task 3: View Past Expenses
-
-**Objective**: Confirm the ability to view past expenses and verify payment history.
+### Task 3: Confirm the ability to view past expenses and verify payment history.
 
 **Steps**:
 1. Navigate to the "Expenses" section.
@@ -132,9 +126,7 @@ Test Subject: ???
 3. Locate the expense for garbage from the previous week.
 4. Verify the details of who paid for the garbage expense.
 
-### Task 4: Manage Insights
-
-**Objective**: Validate the insights feature for the rent category and ensure accurate data visualisation.
+### Task 4: Validate the insights feature for the rent category and ensure accurate data visualisation.
 
 **Steps**:
 1. Navigate to the "Insights" page.
@@ -142,9 +134,7 @@ Test Subject: ???
 3. Change the view to display monthly insights.
 4. Analyse the data presented in graphs and tables for accuracy and completeness.
 
-### Task 5: View Dashboard/Home
-
-**Objective**: Review the main dashboard for an overview of upcoming payments and overall balance.
+### Task 5: Review the main dashboard for an overview of upcoming payments and overall balance.
 
 **Steps**:
 1. Navigate to the "Dashboard/Home" section.
@@ -152,9 +142,7 @@ Test Subject: ???
 3. Click the dropdown button for the upcoming payments card.
 4. Click the dropdown button for the pay-up card to view all outstanding payments.
 
-### Task 6: Change Display and Accessibility Options
-
-**Objective**: Test the customization options for display and accessibility to ensure usability for all users.
+### Task 6: Test the customization options for display and accessibility to ensure usability for all users.
 
 **Steps**:
 1. Open the hamburger menu and navigate to "App Settings."
@@ -162,9 +150,7 @@ Test Subject: ???
 3. Adjust accessibility settings (e.g., colour scheme, contrast).
 4. Verify that the changes are applied and improve usability.
 
-### Task 7: View FAQ and Contact Support
-
-**Objective**: Test the help and support functionalities, ensuring users can find information and contact support if needed.
+### Task 7: Test the help and support functionalities, ensuring users can find information and contact support if needed.
 
 **Steps**:
 1. Open the hamburger menu and navigate to "App Settings."
