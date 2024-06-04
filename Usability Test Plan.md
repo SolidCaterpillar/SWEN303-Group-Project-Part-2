@@ -85,7 +85,7 @@ Test Subject: ???
 - Recorder: Alvien Salvador
 
 Test Subject: ???
-- Facilitator: Hamish ???
+- Facilitator: Hamish Burke
 - Recorder: Risheet Peri
 
 Test Subject: ???
