@@ -68,15 +68,16 @@ After all tasks are completed, the users will be asked to complete a Google form
 
 ## Role Assignments
 
-Test Subject: ???
+
+Test Subject: Rachel Correa
 - Facilitator: Mazen Khallaf
 - Recorder: Z'Arn Payne
 
-Test Subject: ???
+Test Subject: 
 - Facilitator: Z'Arn Payne
 - Recorder: Mazen Khallaf
 
-Test Subject: ???
+Test Subject: Arianna Case
 - Facilitator: Alvien Salvador
 - Recorder: Ricky Fong
 
@@ -84,13 +85,13 @@ Test Subject: ???
 - Facilitator: Ricky Fong
 - Recorder: Alvien Salvador
 
-Test Subject: ???
+Test Subject: Keira Malan
 - Facilitator: Hamish Burke
 - Recorder: Risheet Peri
 
 Test Subject: ???
 - Facilitator: Risheet Peri
-- Recorder: Hamish Burke
+- Recorder: Hamish ???
 
 # Tasks
 
