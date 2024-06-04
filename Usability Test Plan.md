@@ -72,31 +72,44 @@ After all tasks are completed, the users will be asked to complete a Google Form
 - **Recorder**: The recorder is responsible for documenting the test subject's responses, feedback, and any interactions between the facilitator and the test subject. They are also responsible for ensuring that data is processesed and placed into the repository.
 - **Test Subject**: The test subject is the person who will be interacting with the system being tested.
 
-## Role Assignments
+# Roles 
 
-- **Test Subject: Rachel Correa**
-  - Facilitator: Mazen Khallaf
-  - Recorder: Z'Arn Payne
+### Cognitive Assignments 
+Test Subject: Rachel Correa
+- Facilitator: Mazen Khallaf
+- Recorder: Z'Arn Payne 
 
-- **Test Subject: Kadir Kayi Erol-Watt**
-  - Facilitator: Z'Arn Payne
-  - Recorder: Mazen Khallaf
+Test Subject: Kadir Kayi Erol-Watt 
+- Facilitator: Z'Arn Payne 
+- Recorder: Mazen Khallaf 
 
-- **Test Subject: Arianna Case**
-  - Facilitator: Alvien Salvador
-  - Recorder: Ricky Fong
+Test Subject: Arianna Case 
+- Facilitator: Alvien Salvador 
+- Recorder: Ricky Fong 
 
-- **Test Subject: Baxter Alexander**
-  - Facilitator: Ricky Fong
-  - Recorder: Alvien Salvador
+Test Subject: Baxter Alexander 
+- Facilitator: Ricky Fong 
+- Recorder: Alvien Salvador 
 
-- **Test Subject: Keira Malan**
-  - Facilitator: Hamish Burke
-  - Recorder: Risheet Peri
+Test Subject: Keira Malan 
+- Facilitator: Hamish Burke 
+- Recorder: Risheet Peri 
 
-- **Test Subject: Hugo Blair**
-  - Facilitator: Risheet Peri
-  - Recorder: Hamish Burke
+Test Subject: Hugo Blair 
+- Facilitator: Risheet Peri 
+- Recorder: Hamish Burke 
+
+### Focus Group Assignments 
+
+Z'arn Payne: Facilitator 
+Risheet Peri: Recorder 
+Hamish Burke: Recorder 
+Test Subjects: Rachel Correa, Arianna Case, Keira Malan
+
+Mazen Khallaf: Facilitator 
+Alvien Salvador: Recorder 
+Ricky Fong: Recorder
+Test Subjects: Baxter Alexander, Hugo Blair, Kayer Kayi Erol-Watt
 
 # Tasks
 
