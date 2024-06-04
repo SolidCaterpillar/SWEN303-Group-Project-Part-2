@@ -10,7 +10,11 @@
 **Severity Scale**: 
 
 **Problem**: Unable to verify the addition of the expense due to unclear location\
-**Severity Scale**: )
+**Severity Scale**: 
+
+**Problem**: Found trouble with interacting with the form (Could be a figma issues)
+
+**Severity Scale**:
 
 ### Task 2:
 **Problem**: User initially tried clicking pay card on homepage, only then did they press the pay icon.\
@@ -47,7 +51,7 @@
 **Severity Scale**: 
 
 ### Task 6:
-**Problem**: User confused due to a non-functional help and support button in hamburger menu.\
+**Problem**: User confused due to a non-functional help and support button in hamburger menu.(Baxter too)\ 
 **Severity Scale**: 
 
 **Problem**: Difficulty in finding support resources.\
@@ -65,21 +69,73 @@
 **Problem**: The navigation bar was considered too dark, and low contrast between the icons and the background.\
 **Severity Scale**: 
 
+**Problem**: Thought that the overall colour scheme was a bit too "swampy"
+
+**Severity Scale**:
+
+**Problem**: considered the homepage too crowed
+
+**Severity Scale**:
+
+**Problem**: Did not like the past/future on the expense page
+
+**Severity Scale**:
+
 ### Describe your experience as you navigated the app?
 **Problem**: The help and support button in the hamburger menu did not function.\
 **Severity Scale**: 
 
+**Problem**: Considered the "insight" name confusing
+
+**Severity Scale**:
+
+**Problem**: Would want more "insight" stuff on the home page
+
+**Severity Scale**:
+
 ### Were there any parts of the app that you found confusing or hard to use?
 **Problem**: In dark mode, some text was not visible.\
+
 **Severity Scale**: 
+
+**Problem**: Pay up was confusing -> incoming and upcoming are in separate places could be in one place
+
+**Severity Scale**:
+
+**Problem**: The help and support tab was separate in the settings
+
+**Severity Scale**:
+
+**Problem**: Was confused between household settings and app settings
+
+**Severity Scale**:
 
 ### How did you feel about the colour scheme of the app?
 **Problem**: The colours used in the navigation bar and header were not appealing, and participants suggested removing the blue colour.\
 **Severity Scale**: 
 
+**Problem**: The color was swampy
+
+**Severity Scale**:
+
+**Problem**: The different tones was good but green overall was not bad -> could be better
+
+**Severity Scale**:
+
+**Problem**: blue is too dark(on the add expenses)
+
+**Severity Scale**:
+
+
 ### If this were a real app, would you use it? Why or why not?
 **Problem**: Lack of intuitive design elements.\
+
 **Severity Scale**: 
+
+
+**Problem**: pay up was unclear, did not know what that meant
+
+**Severity Scale**:
 
 ## Sentiment
 
