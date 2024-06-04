@@ -50,6 +50,7 @@ After all tasks are completed, the users will be asked to complete a Google Form
 #### Testing of Prototypes
 
 1. **Working with the Prototype**:
+   - The recorder will start the recording and ensure that the prototype is working on the phone.
    - Participants will then go through the task list for our prototype. They will be accompanied by a facilitator/note-taker who will help direct them through the various tasks and record information. We will be recording the user to later conduct sentiment analysis on the users.
    - Key findings will focus on points of confusion while navigating the application.
 
@@ -179,7 +180,7 @@ Test Subjects: Baxter Alexander, Hugo Blair, Kayi Erol-Watt
 
 # Metrics
 
-We decided on both quantitative and qualitative metrics so that the test subject is not limited to ratings as feedback. The metrics will be evaluated both during the testing and post the testing so that we can get results unaffected by the Hawthorne effect. Therefore, even if the Hawthorne effect deemed metrics taken during the study less applicable, we can use post-study tests, immediately after the study, to gain an insight into the test subject’s experience of the prototype. We will have a mix of objective and subjective metrics so that we can measure their correlation.
+We decided on both quantitative and qualitative metrics so that the test subject is not limited to ratings as feedback. The metrics will be evaluated both during the testing and post the testing so that we can get results unaffected by the Hawthorne effect (people's change in behavour when observed). Therefore, even if the Hawthorne effect deemed metrics taken during the study less applicable, we can use post-study tests, immediately after the study, to gain an insight into the test subject’s experience of the prototype. We will have a mix of objective and subjective metrics so that we can measure their correlation.
 
 -  ## During the Test/Synchronous
 
@@ -193,7 +194,7 @@ We decided on both quantitative and qualitative metrics so that the test subject
 
       - #### Sentiment Analysis
 
-         We will record the test subjects' responses as they evaluate the prototype synchronously and asynchronously in the focus groups. We will use AI tools like OpenAI’s Whisper to receive an accurate transcript, but we will remove the sections where the test-giver speaks. We will divide this transcript by each sub-task. We will upload these mini transcripts to a CSV file along with the task and sub-task ID. We will then use Python libraries like NLTK Vader and Roberto to calculate the sentiment analysis scores (positive, neutral, and negative). The responses by the test subjects themselves will be qualitative, but the Python libraries mentioned can convert them to quantitative responses which we can analyse and visualise using graphs using Python’s NumPy, Pandas, and Matplotlib libraries. This is a subjective, but an AI data-driven metric.
+         We will record the test subjects' responses as they evaluate the prototype synchronously and asynchronously in the focus groups. We will use AI tools like OpenAI’s Whisper to receive an accurate transcript, but we will remove the sections where the test-giver speaks. We will divide this transcript by each sub-task. We will upload these mini transcripts to a CSV file along with the task and sub-task ID. We will then use Python libraries like NLTK Vader and Roberto to calculate the sentiment analysis scores (positive, neutral, and negative). The responses by the test subjects themselves will be qualitative, but the Python libraries mentioned can convert them to quantitative responses which we can analyse and visualise using graphs using Python’s NumPy, Pandas, and Matplotlib libraries. This is a subjective, but an AI data-driven metric. This is important as it reduces the inconsistency in our evaluation of data.
 
 - ## Post Test/Asynchronous
 
@@ -203,11 +204,13 @@ We decided on both quantitative and qualitative metrics so that the test subject
 
          We will give the test subject a Google Form with ten questions to give a rating to. We felt this was more relevant to our purpose than the NASA TLX since the NASA TLX focuses on hardware testing as well, which is not applicable to our prototypes. We will analyse the responses by using the number ratings input. This is a subjective metric.
 
+         When processing the data, we will prioritise the use of robust statistics such as median and IQR. This is to prevent our data from being skewed by outliers, given the small sample. We will use the mean and range as secondary measures, especially given our goals to have a minimum usability score from our data.
+
    - ### Qualitative
 
       - #### Focus Group
 
-         We will also ask more qualitative or subjective questions out of scope for the SUS metric to the test subjects in a small group, that would stimulate discussion and agreement between the test subjects. We will record their responses and evaluate our prototype. This is a subjective metric.
+         We will also ask more qualitative or subjective questions out of scope for the SUS metric to the test subjects in a small group, that would stimulate discussion and agreement between the test subjects. We will record their responses and evaluate our prototype. This is a subjective metric, which is is something we would need to account for it by discussing it as a group and giving it consideration.
 
 # Usability Goals
 
@@ -262,4 +265,4 @@ We are using the severity rating for a usability problem based on Jakob Nielsen:
 - 3 = Major usability problem: important to fix, so should be given high priority
 - 4 = Usability catastrophe: imperative to fix this before the product can be released
 
-We chose this because we have used it in the previous part of the group project to evaluate our team’s wireframe. We are going to use it to evaluate the different team members on our group’s prototype.
+We chose this because we have used it in the previous part of the group project to evaluate our team’s wireframe. We are going to use it to evaluate the different team members on our group’s prototype. We will be using the frequency that people ran into paint points/confusion and factor them into our decision.
