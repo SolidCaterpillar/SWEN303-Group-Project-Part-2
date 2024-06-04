@@ -96,7 +96,7 @@ After all tasks are completed, the users will be asked to complete a Google Form
 
 - **Test Subject: Hugo Blair**
   - Facilitator: Risheet Peri
-  - Recorder: Hamish ???
+  - Recorder: Hamish Burke
 
 # Tasks
 
