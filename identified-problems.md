@@ -1,24 +1,46 @@
 # Identified Problems
 
+We are using the severity rating for a usability problem based on Jakob Nielsen:
+
+0 = I don’t agree that this is a usability problem at all
+1 = Cosmetic problem only: need not be fixed unless extra time is available on project
+2 = Minor usability problem: fixing this should be given low priority
+3 = Major usability problem: important to fix, so should be given high priority
+4 = Usability catastrophe: imperative to fix this before the product can be released
+
+We chose this because we have used it in the previous part of the group project to evaluate our team’s wireframe. We are going to use it to evaluate the different team members on our group’s prototype. We will be using the frequency that people ran into paint points/confusion and factor them into our decision.
+
+I believe that anything is a purely Figma issue should be a 1. We will keep these in mind if they come up in future prototypes, especially ones using different technologies.
+
 ## Cognitive
 
 ### Task 1:
 **Problem**: Expense creation broke the first time. Create button did not work.\
- **Severity Scale**: 
+**Severity Scale**: 1
 
-**Problem**: Rent form was confusing for the user\
-**Severity Scale**: 
+Felt like more of a Figma issue. 
+
+**Problem**: Expense form was confusing for the user. They wanted to split everything immediately and got lost when they had to split\
+**Severity Scale**: 2
+
+Not immediately clear that there's splitting, and that it is scrollable.\
+The team should look into solutions where there are visual indicators for the user. These include: down arrows, scroll bars etc.
 
 **Problem**: Unable to verify the addition of the expense due to unclear location\
-**Severity Scale**: 
+**Severity Scale**: 2 (mainly because they double clicked)
 
-**Problem**: Found trouble with interacting with the form (Could be a figma issues)
+Double clicked, getting past the confirmation dialague. Then got confused.
+Buttom bar alart to allow user's to be linked to the new expense.
 
-**Severity Scale**:
+**Problem**: Found trouble with interacting with the form (Could be a figma issues)\
+**Severity Scale**: 1 (same as firt problem)
 
 ### Task 2:
 **Problem**: User initially tried clicking pay card on homepage, only then did they press the pay icon.\
-**Severity Scale**: 
+**Frequency**: 2 
+**Severity Scale**: 3
+
+Makes sense, did not respond well to feedback. 
 
 **Problem**: No feedback on homepage or pay-up page, confused.\
 **Severity Scale**: 
