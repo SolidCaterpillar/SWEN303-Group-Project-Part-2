@@ -50,6 +50,7 @@ Baxter:
 * Swiping was good
 * Splitting between bar and nav bar was good
 * When navigating to the add new expense, pressed the "pay" button instead of the "add new expense"
+
 Hugo:
 
 * Did not know swiping good
@@ -68,13 +69,14 @@ Kayi:
 
 * Pay up was confusing -> incoming and upcoming are in separate places could be in one place
 * The help and support tab was separate in the settings
-* * Did not know between household settings and app settings
+* Did not know between household settings and app settings
 * Was not clear between the functions
 * Name makes it more confusing
 
 Baxter:
 
 * Each component should be clicked on the home expense card
+
 Hugo:
 
 * Was expecting that the expense card on home page would be clickable
@@ -118,6 +120,7 @@ Kayi:
 * Use calendar to show when to pay	
 * Make datas larger
 * Make summative page more accesable
+
 Baxter:
 
 * “If using app wants more visual representation”
