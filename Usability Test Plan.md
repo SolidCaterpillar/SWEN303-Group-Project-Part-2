@@ -81,7 +81,7 @@ Test Subject: Arianna Case
 - Facilitator: Alvien Salvador
 - Recorder: Ricky Fong
 
-Test Subject: ???
+Test Subject: Baxter Alexander
 - Facilitator: Ricky Fong
 - Recorder: Alvien Salvador
 
@@ -89,7 +89,7 @@ Test Subject: Keira Malan
 - Facilitator: Hamish Burke
 - Recorder: Risheet Peri
 
-Test Subject: ???
+Test Subject: Hugo Blair
 - Facilitator: Risheet Peri
 - Recorder: Hamish ???
 
