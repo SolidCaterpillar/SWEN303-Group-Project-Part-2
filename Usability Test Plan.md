@@ -6,14 +6,12 @@ Our key objectives from user testing are to evaluate the following:
 
 * Handling of **“Core Functionalities”** offered by the working prototype. This includes creation of expenses, paying relevant users, viewing past/future expenses, managing insights, and modifying settings. We will primarily be observing the usability of our app for the test subjects.
 * Identify any **bugs** or **pain points** in the design experienced by users.
-* Understand the overall **emotional feeling** as users use our app. As we are handling something as delicate as finances, we want to ensure that users are confident in their decisions to reduce stress on them. (THIS IS OPTIONAL)
+* Understand the overall **emotional feeling** as users use our app. As we are handling something as delicate as finances, we want to ensure that users are confident in their decisions to reduce stress on them. From our sentiment analysis, we will ensure that there is overall neutral feeling while interacting with the app.
 * Collect **general feedback** and **satisfaction** from test subjects.
 
 With these objectives in mind, we will collect and analyse user experience of the app through the use of metrics. From these metrics, we will then classify them by severity, giving us an understanding of how to prioritise changes in future iterations. This study will be primarily focused on the experience of university students. They will be 6 SWEN303 students at Victoria University. While it is good that we are doing user testing, this does not cover the needs of all our intended user base. Future testing must be done for a broader picture of the usability of our application.
 
 # Methodology
-
-## Participants
 
 #### Selection Criteria
 Participants for this usability test are software engineering students from Victoria University enrolled in the SWEN303 course. These participants were selected through group pairings suggested by the course lecturer. The participants' average skill level with software systems is assumed to be relatively high, given their background, which may influence their interaction with the prototype. This selection aims to ensure that participants can complete the set tasks effectively, though their advanced skill level should be considered when analysing test results.
@@ -68,7 +66,7 @@ After all tasks are completed, the users will be asked to complete a Google Form
 
 ## Role Definitions
 
-- **Facilitator**: The facilitator is responsible for guiding the test subject through the test plan and answering any questions the test subject might have.
+- **Facilitator**: The facilitator is responsible for guiding the test subject through the test plan and answering any questions the test subject might have. In focus groups they will lead the discussion and dleve into ideas brought up by participants.
 - **Recorder**: The recorder is responsible for documenting the test subject's responses, feedback, and any interactions between the facilitator and the test subject. They are also responsible for ensuring that data is processesed and placed into the repository.
 - **Test Subject**: The test subject is the person who will be interacting with the system being tested.
 
@@ -79,7 +77,7 @@ Test Subject: Rachel Correa
 - Facilitator: Mazen Khallaf
 - Recorder: Z'Arn Payne 
 
-Test Subject: Kadir Kayi Erol-Watt 
+Test Subject: Kayi Erol-Watt 
 - Facilitator: Z'Arn Payne 
 - Recorder: Mazen Khallaf 
 
@@ -101,15 +99,15 @@ Test Subject: Hugo Blair
 
 ### Focus Group Assignments 
 
+Test Subjects: Rachel Correa, Arianna Case, Keira Malan
 Z'arn Payne: Facilitator 
 Risheet Peri: Recorder 
 Hamish Burke: Recorder 
-Test Subjects: Rachel Correa, Arianna Case, Keira Malan
 
+Test Subjects: Baxter Alexander, Hugo Blair, Kayi Erol-Watt
 Mazen Khallaf: Facilitator 
 Alvien Salvador: Recorder 
 Ricky Fong: Recorder
-Test Subjects: Baxter Alexander, Hugo Blair, Kayer Kayi Erol-Watt
 
 # Tasks
 
