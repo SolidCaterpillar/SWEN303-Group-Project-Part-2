@@ -12,7 +12,7 @@
 
 **Severity Scale**:
 
-**Problem**:
+**Problem**: Unable to verify the addition of the expense due to unclear location
 
 **Severity Scale**:
 
@@ -66,7 +66,7 @@
 
 #### Task 6:
 
-**Problem**:
+**Problem**: User confused due to a non-functional help and support button in hamburger menu.
 
 **Severity Scale**:
 
@@ -85,22 +85,22 @@
 ## Focus Group
 
 #### What were your first impressions of the app?
-**Problem**:
+**Problem**: The navigation bar was considered too dark, and low contrast between the icons and the background.
 
 **Severity Scale**:
 
 #### Describe your experience as you navigated the app?
-**Problem**:
+**Problem**: The help and support button in the hamburger menu did not function.
 
 **Severity Scale**:
 #### Were there any parts of the app that you found confusing or hard to use?
-**Problem**:
+**Problem**: In dark mode, some text was not visible.
 
 **Severity Scale**:
 
 #### How did you feel about the colour scheme of the app?
 
-**Problem**:
+**Problem**: The colours used in the navigation bar and header were not appealing, and participants suggested removing the blue colour.
 
 **Severity Scale**:
 
@@ -113,12 +113,12 @@
 ## Sentiment
 
 
-**Problem**:
+**Problem**: The layout of the payments page was well-received, but users had issues with the colour scheme and navigation functionality.
 
 **Severity Scale**:
 
 
 
-**Problem**:
+**Problem**: The lack of an onboarding process made it difficult for users to discover certain features, like swiping between pages.
 
 **Severity Scale**:
