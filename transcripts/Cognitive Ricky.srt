@@ -1,0 +1,460 @@
+1
+00:00:00,000 --> 00:00:03,920
+And yeah, just one
+
+2
+00:00:08,440 --> 00:00:10,440
+Do you want me to like
+
+3
+00:00:13,980 --> 00:00:16,100
+You'll get a roar and filtered bullets
+
+4
+00:00:21,160 --> 00:00:26,720
+Good okay, you gotta test our abs to see if you understand the tusks, okay?
+
+5
+00:00:30,000 --> 00:00:32,000
+Okay
+
+6
+00:00:33,840 --> 00:00:39,120
+Of adding a new recruit expense and splitting it amongst the household members
+
+7
+00:00:39,160 --> 00:00:45,820
+So add a new expense and then split it. Yep. Okay, so we'll go to the ad expense button. That's in the bottom
+
+8
+00:00:46,120 --> 00:00:48,120
+Yeah, and it will come up
+
+9
+00:00:48,680 --> 00:00:52,880
+Enter the name. Is this the name for the expense? Yep
+
+10
+00:00:53,880 --> 00:00:55,880
+Is there cheese great?
+
+11
+00:00:56,960 --> 00:00:58,960
+Try to follow the details rent
+
+12
+00:00:59,800 --> 00:01:01,800
+Mm-hmm 1200
+
+13
+00:01:02,440 --> 00:01:04,620
+The baby is 31st of May
+
+14
+00:01:05,680 --> 00:01:07,680
+repeat weekly
+
+15
+00:01:10,200 --> 00:01:12,200
+31st of May
+
+16
+00:01:13,160 --> 00:01:15,160
+It's coming up as different values
+
+17
+00:01:16,720 --> 00:01:20,600
+Try to click again, it's not interactable
+
+18
+00:01:28,960 --> 00:01:30,960
+Oh
+
+19
+00:01:37,200 --> 00:01:39,640
+Yeah, it's coming up with cheese and then hello and in
+
+20
+00:01:42,160 --> 00:01:44,160
+Just keep going yeah repeat
+
+21
+00:01:44,640 --> 00:01:50,960
+Did you want to weekly repeat sweet and then split with everybody wasn't it? Oh three three. Yeah, sweet
+
+22
+00:01:50,960 --> 00:01:52,960
+So all of them
+
+23
+00:01:53,160 --> 00:01:56,520
+And then create the expense using the button down here
+
+24
+00:01:57,520 --> 00:02:02,320
+Okay, it's coming up is there wasn't anything there it's a good era
+
+25
+00:02:03,280 --> 00:02:04,800
+Letting me know
+
+26
+00:02:04,800 --> 00:02:06,800
+So we wanted it for rent
+
+27
+00:02:07,720 --> 00:02:09,720
+the immense
+
+28
+00:02:10,840 --> 00:02:15,580
+1200 okay, it's coming up as 10 and in the repeat was weekly
+
+29
+00:02:20,400 --> 00:02:25,240
+And we want it to be with Sam as well because we want it to be split with three people, let's see what happens
+
+30
+00:02:26,520 --> 00:02:28,160
+a
+
+31
+00:02:28,160 --> 00:02:30,280
+Very funky blue cheese so flat true
+
+32
+00:02:39,440 --> 00:02:41,440
+Okay, I'm assuming that the name
+
+33
+00:02:44,560 --> 00:02:50,560
+Okay, try well maybe I can exit out and yeah, let's try again let's go at expense
+
+34
+00:02:51,880 --> 00:02:53,880
+We're entering the name
+
+35
+00:02:54,600 --> 00:02:56,600
+Cheese still
+
+36
+00:03:01,560 --> 00:03:08,060
+Yeah, and we go ran into the amount is there it's coming up as hello
+
+37
+00:03:08,060 --> 00:03:10,060
+Oh
+
+38
+00:03:11,180 --> 00:03:12,780
+Sure
+
+39
+00:03:12,780 --> 00:03:14,780
+weekly
+
+40
+00:03:17,900 --> 00:03:19,300
+Description
+
+41
+00:03:19,300 --> 00:03:24,420
+Let's try and create it. Okay, it's coming up with an error here. Let's try again
+
+42
+00:03:25,780 --> 00:03:31,180
+Rinse inter amount is 10 select values weekly
+
+43
+00:03:38,860 --> 00:03:40,860
+Okay
+
+44
+00:03:41,460 --> 00:03:43,460
+Creating itself
+
+45
+00:03:43,820 --> 00:03:47,020
+Don't quite know what's up with that. Okay. Okay, we move in next
+
+46
+00:03:50,740 --> 00:03:53,820
+It just wouldn't create an expense it would when
+
+47
+00:03:54,780 --> 00:03:57,060
+the first values were entered
+
+48
+00:03:57,780 --> 00:04:02,780
+It would then give error messages saying some of the values were blank
+
+49
+00:04:03,380 --> 00:04:08,020
+Even though they were filled out and then on filling them out again
+
+50
+00:04:08,780 --> 00:04:12,340
+Clicking the create expense button would just not do something. I wouldn't do anything
+
+51
+00:04:14,460 --> 00:04:16,460
+Okay, we move to the second task
+
+52
+00:04:17,300 --> 00:04:22,460
+The second test is to ensure the functionality of payment and existing expense
+
+53
+00:04:23,220 --> 00:04:31,060
+And verify it removed from the list. Okay, so we're paying an expense. I want to go into the pay up section
+
+54
+00:04:31,500 --> 00:04:36,540
+And I will guess pay the click the pay button, okay
+
+55
+00:04:38,580 --> 00:04:39,900
+Open
+
+56
+00:04:39,900 --> 00:04:47,080
+Alex and you select the power the power cool. Yeah, I'm here. I see the Alex categories
+
+57
+00:04:47,080 --> 00:04:51,640
+I see the power I will click pay their pay for power. Yes
+
+58
+00:04:52,300 --> 00:04:57,300
+It is now disappeared from the list and I imagine if I go to home. Yeah
+
+59
+00:04:57,580 --> 00:04:59,580
+Okay
+
+60
+00:04:59,580 --> 00:05:07,040
+Okay, the next task is to confirm the ability to view past expense and verify payment history, okay payment
+
+61
+00:05:07,040 --> 00:05:12,740
+So there's an expenses tab. This is going into yeah, I can see the history from today
+
+62
+00:05:13,300 --> 00:05:17,620
+The past week and the past month. Okay. Yeah, so you had to locate
+
+63
+00:05:18,420 --> 00:05:25,220
+Garbage garbage and verify the detail who paid the coverage for that. Okay, so garbage was paid in the past week
+
+64
+00:05:26,060 --> 00:05:31,460
+$380, you know, it was paid by person one and person two on the 27th of May. Okay, sweet
+
+65
+00:05:33,220 --> 00:05:35,220
+The next task is to
+
+66
+00:05:35,220 --> 00:05:40,500
+Verify the inside features for the rent category and ensure equity data visualization
+
+67
+00:05:40,620 --> 00:05:46,060
+Okay, so we'll go into the insights tab. I can see a very nice pie chart here. Yeah
+
+68
+00:05:46,580 --> 00:05:53,260
+We've got the top categories for rent, which is indeed the top category power is next. Yeah, then it should be broadband
+
+69
+00:05:53,260 --> 00:05:57,460
+Yep, and food and other. Yeah. Yeah, so I want you to
+
+70
+00:05:58,140 --> 00:06:05,140
+Click the event category. The rent category is being clicked. I now have a bar chart with the week. Okay
+
+71
+00:06:05,820 --> 00:06:11,880
+So you had to view the monthly the monthly I now have the bar chart with four values on it
+
+72
+00:06:11,880 --> 00:06:19,500
+It was paid consistently it seems with consistent rent. So they're all the same value. Yep, all 450. Yep. Looks good
+
+73
+00:06:19,540 --> 00:06:24,500
+Okay, your next step is to test the customization option for display and accessibility
+
+74
+00:06:25,300 --> 00:06:26,740
+ensure
+
+75
+00:06:26,740 --> 00:06:33,560
+Usability for all users. Okay, so that will probably be in the three bar menu. I'm thinking we're going in here
+
+76
+00:06:34,080 --> 00:06:36,080
+probably app settings
+
+77
+00:06:36,780 --> 00:06:38,780
+And we wanted to do
+
+78
+00:06:38,800 --> 00:06:39,860
+accessibility
+
+79
+00:06:39,860 --> 00:06:44,160
+Which isn't quite here, but it's probably on the display. Yes
+
+80
+00:06:45,160 --> 00:06:50,960
+And then there's dark mode system and different contrasts so we wanted accessibility
+
+81
+00:06:50,960 --> 00:06:56,560
+So let's say we go colorblind friendly. It does indeed change the colors
+
+82
+00:06:57,640 --> 00:06:59,140
+Okay
+
+83
+00:06:59,140 --> 00:07:02,400
+Yeah, and it stays as you go through that. Yep. I
+
+84
+00:07:03,380 --> 00:07:05,380
+Want you to try other?
+
+85
+00:07:05,640 --> 00:07:08,900
+Accessibility see what you see. Okay, let's go back into
+
+86
+00:07:09,820 --> 00:07:17,420
+Display so there's the dark mode. Yeah, that works nicely. We've got high contrast which does that as well?
+
+87
+00:07:18,460 --> 00:07:20,460
+The system do something. I
+
+88
+00:07:21,200 --> 00:07:23,200
+imagine
+
+89
+00:07:27,380 --> 00:07:29,260
+All works well
+
+90
+00:07:29,260 --> 00:07:32,900
+Okay, your last time is to help test the help and support spontaneity
+
+91
+00:07:33,500 --> 00:07:38,860
+Open support ensuring user can find information and contact support if needed perfect
+
+92
+00:07:38,900 --> 00:07:45,940
+That will again probably be in the three bar menu help and supports right there. Good. It's not showing as interactable
+
+93
+00:07:50,860 --> 00:07:56,660
+Try app setting app settings if we go into absent. Yep. Okay. There is a helping sport thing in app settings
+
+94
+00:07:57,020 --> 00:07:59,900
+That could be one thing to just have as a little issue
+
+95
+00:08:00,540 --> 00:08:02,540
+It's in two different places
+
+96
+00:08:03,140 --> 00:08:05,140
+So we'd want to contact support
+
+97
+00:08:05,620 --> 00:08:07,620
+Yeah, and then we'd want to fill out our information
+
+98
+00:08:08,220 --> 00:08:13,780
+Our email the message that we have and then we could send it and it comes up with the confirmation
+
+99
+00:08:21,020 --> 00:08:27,700
+No, it was all very intuitive yeah, no, it was easy to move around the buttons made sense
+
+100
+00:08:28,460 --> 00:08:32,060
+There was good contrast with the interactable areas
+
+101
+00:08:32,060 --> 00:08:34,060
+I
+
+102
+00:08:34,620 --> 00:08:38,620
+Didn't have to second-guess myself on anything it all made sense to use
+
+103
+00:08:40,460 --> 00:08:45,500
+The only thing that kind of went wrong was just a figma issue which the figma was better
+
+104
+00:08:45,500 --> 00:08:49,460
+I imagine it wouldn't have gone wrong in the first place and it would have worked as it was intended
+
+105
+00:08:50,020 --> 00:08:52,920
+So I didn't really have any negative feedback to give
+
+106
+00:08:53,620 --> 00:08:55,620
+Okay, what about us one any?
+
+107
+00:08:57,340 --> 00:08:59,940
+Yeah expense one the expense stuff made sense
+
+108
+00:09:00,940 --> 00:09:07,140
+But I had coated you know, yeah, that's just the figma thing it'll kind of make sense to use
+
+109
+00:09:09,540 --> 00:09:13,460
+Good functionalities in there you had your history with all the information
+
+110
+00:09:14,180 --> 00:09:17,780
+Yeah, I like the bear with the variety you guys have in there
+
+111
+00:09:17,780 --> 00:09:21,740
+I think the the traversal options you have is good. I like the tabs
+
+112
+00:09:21,820 --> 00:09:25,300
+Did I see that it was part of it was swipeable and some like that
+
+113
+00:09:25,300 --> 00:09:29,660
+Yeah, so you've got some swipe functionality which I think is really cool
+
+114
+00:09:31,780 --> 00:09:36,020
+That like yet you've got good headers you've got all that it's all in there
+
+115
+00:09:37,220 --> 00:09:40,020
+Yeah, okay. Okay. Thank you. Thank you
+

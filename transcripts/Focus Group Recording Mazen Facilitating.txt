@@ -1,0 +1,564 @@
+Awesome, now if we can just quickly get our names so Ricky, Ricky over there, Mazin, Alvean,
+and then Hugo, Paxton, Caillou, okay so question one, what were your first impressions of the
+game?
+Yeah.
+It wasn't very pretty.
+It wasn't very pretty?
+It didn't like colours.
+It didn't like colours.
+Sorry.
+Okay, that's fair.
+It's completely valid feedback.
+Alright, so the colours in question, what did you like about them?
+Just a bit swampy.
+Swampy?
+A bit dark.
+Okay.
+Alright.
+I didn't notice the colours as much, I did think that the opening home page, there was
+quite a lot going on.
+So overcrowded?
+Yeah, more so that like there was a lot going on there so that limited the size that everything
+could be to try and fit it onto the screen, so I feel like it could have benefited from
+maybe prioritising some things, making a few things a little bit bigger, just so it was
+kind of more obvious what was there rather than trying to just put all of it on there
+kind of limited the way that the things could breathe and be a little bit more isolated.
+I probably would have focused on like one, either like your past expenses or like paying
+new expenses instead of having them both on that screen.
+There's not too much going on.
+I did actually, I had a moment of confusion as to what pay up was, I was looking at it
+thinking, am I paying there, who's paying here, is this shit that needs to be paid soon
+or is this actually I can pay it right here?
+Okay, that's good.
+Alright.
+Did you find that the colour settings were any use of changing how you felt about the
+whole swampy feel?
+Oh, that was just like accessibility stuff, so yeah, that was fine, that was good, I got
+my problems there.
+Did you like the alternatives colour scheme more or?
+What was it?
+The dark mode version?
+Yeah, yeah, that was good.
+I think the dark mode worked better with the greens and like blues that were on there.
+You felt the dark mode looked better with the greens and blues?
+I do like a dark mode though, so I might be biased, but yeah, I did like the other alternatives.
+Alright, sweet.
+Thank you very much.
+We'll move on to the next question, assuming no one has any other first impressions of
+the app that they want to share?
+No.
+Awesome.
+Second question.
+Shoot, I'm pulling on the wrong questions, where did we actually put the actual, I'm
+going to pause this for a second.
+Yeah, awesome, thank you very much, good for catching that.
+As I was saying, the next question is, describe your experience as you navigated the app,
+so we're sort of taking a focus on navigation here, how you felt while you were going through,
+that kind of thing.
+Take a moment to think.
+I don't know, I was a bit, it's pretty easy to get through the task, to be honest.
+Pretty easy?
+I'm just going to beg for forgiveness on Figma being Figma, so just try and take it
+on how the design actually should have looked.
+I thought the navigation was good with it, I liked the separation that you had into your
+tabs at the bottom, I thought that was good.
+I thought the way that you implemented the swiping functionality was really cool.
+I thought that the splitting you did between the stuff that was in your three bar menu
+and the stuff that was found elsewhere along the bottom and on the home screen, I thought
+that was intuitive.
+When asked to do a task that was like, oh, go into the settings or whatever, I was like,
+okay, there's not a settings tab at the bottom, it'll be in the three bar menu.
+Yeah, and it was there.
+Agreed.
+I didn't really realise that swiping even existed.
+Oh, could you swipe across?
+Yeah.
+Oh no, that was sick.
+There was one where you could swipe down and the scrolling was good as well.
+Something came up and you could swipe it away, I thought that was weird.
+I thought the insights tab had a bit of an ambiguous name, it would have been better
+to be like analysis or I don't know.
+So did that give you any confusion when you were going through?
+Well, I didn't really know that it was going to be charts and stuff.
+I suppose the icon does say, or does show a chart, but you know, it almost would have
+been better to have the insights on the home page instead of so much detail.
+Maybe, I don't know.
+What was the question again?
+The question is about navigation, how did you feel about your experiences while navigating
+it?
+So the fact that you didn't notice there was swiping is a valid part of the navigation
+thing, that is a valid thing to bring up.
+Any other comments on navigation?
+Navigation is pretty smooth.
+I like it.
+But just a little confusion on the pay up thing and on the insights being.
+I didn't actually ever use the icon that's at the bottom that's for the pay one.
+I never used it, I used the pay button that was on the home screen.
+You pressed the pay button that was on the home screen rather than the one at the bottom.
+I noticed it later when I was going to insights, I was like, does it actually do the same thing?
+I wasn't sure.
+We'll go on to the next question then.
+The next question which is, were there any parts of the app that you found confusing
+or hard to use?
+Yeah, it was that.
+I mean it wasn't confusing but pay up on the front then pay up down the bottom.
+Upcoming payments and pay up are two separate things as well.
+So upcoming payments and then pay up right below, you felt that was a bit confusing between
+those two?
+Upcoming payment, why?
+Do you need me to slow down?
+No.
+Is the upcoming payments, are they interactable there or is that purely informative?
+Like in your idea for the...
+They should be.
+Click on the bottom.
+Let's just try the arrow.
+It'll do something.
+The arrow, yes, the arrow will make it expand.
+I don't think the individual groceries or like the individual things are.
+So you think it would have made sense for the...
+When you're showing something that's in like upcoming payments, in my head I go, okay,
+that's upcoming, I should deal with it right now.
+I should click on it and then pay from it from there.
+Rather than having to go to a different area and then click that.
+So you think that the upcoming payments, each payment should be clickable and should take
+you to that payment?
+Yeah, I feel like that would be, and it would even consolidate potentially some of the...
+I think it's supposed to work that way.
+I don't know if that's just Figma, I can't remember.
+It could just be that it wasn't implemented.
+Even if it is meant to be done that way, it would have been good to have like some dots
+or like a pencil or anything.
+A pencil, something that indicates edit or click on it?
+Yeah.
+Okay, yeah.
+All right.
+So you think that the editing stuff should...
+For the payout, you wouldn't click on it, right?
+Like that doesn't...
+Doesn't seem to allow clicking right now.
+Whether that's supposed to happen or not, I can't remember.
+But I'm supposed to go to pay when you do that.
+Yeah.
+Okay.
+So anything else then?
+Any other thoughts that you felt were confusing on how to use?
+There was one part for me within the three bar menu.
+The three bar menu?
+Let's bring that up real quick.
+Yeah.
+There was the help and support tab there.
+But then there was also help and support within the app settings.
+And my first reaction was to click that, which wasn't implemented.
+And then I was like, oh, app settings, help and support.
+So it felt like there was potentially two areas
+where the help and support was going to be
+that weren't going to lead to each other.
+Makes sense.
+So you felt it was confusing to have a help and support section
+in the hamburger menu and also any side of the app settings.
+Yeah.
+Okay, cool.
+That's great feedback.
+Anyone else?
+Any other aspects that you felt were confusing or hard to use?
+When I was doing it over there and I had to get the display settings up.
+Remember I didn't know which one to click?
+Yeah, that's a good point.
+You went with how you weren't sure between household and app settings, yeah?
+So I just went to app settings.
+What would you say we could do better on that front?
+What are these even in household settings?
+Oh, is that like the flat household?
+Oh, okay.
+So something that would have made it clear that the household was in a flat.
+Yeah, like manage household.
+Yeah, like manage household.
+Management or something.
+Okay.
+Because I don't know what you want to have with your app,
+but to me managing what would be in a tab like that
+is like managing the members that are in the household
+or like the flat payments that you're having in there.
+To me that's less of a setting and more of like a thing.
+So settings perhaps is what kind of...
+Yeah, settings to me is like app functionality,
+which I don't quite think is up there.
+Awesome.
+All right, anything else?
+Any other aspects you felt were confusing or hard to use?
+Nothing.
+Sweet.
+Let's move on to the next question.
+How did you feel about the color scheme of the app?
+It's a swampy answer.
+We've had one person talk about the swampy answer.
+Anyone have anything else?
+We can bring up sort of the color scheme across different pages here.
+I don't mind the greens.
+We'll just wait for the latte.
+So you don't like the greens?
+No, I don't mind the greens.
+You don't mind the greens?
+I don't mind like the way that you have the toning of the greens.
+They've got the lighter one, and then they've got the even lighter one,
+and then they've got the darker one.
+I think the color theory stuff that they've done is good.
+Okay.
+They could have chosen some other colors.
+But I don't dislike this color.
+I would use it still.
+But I acknowledge that there could be a better one.
+Okay, what other colors would you say are better than swampy green?
+I reckon it could have been better, but it's making all the icons white.
+What's that?
+Making all the icons and text on the dark green and white.
+Making the icons on the dark green and white.
+So right now we're seeing obviously that Payup and the hamburger
+and the bottom bar are all in black.
+Or blue if that's the kind of selected one.
+But you're saying those should be white to better contrast the dark green background?
+Yeah.
+Okay.
+There is also on the homepage, there's the pay button that's on the green.
+To me, I don't like the way that the blue interacts with the green there.
+I don't like how the blue pay button is on the light green.
+That could just be...
+Feels too much of a contrast maybe?
+I think that blue is just a little bit darker.
+Too dark?
+Too dark.
+Because you've got a nice pastel kind of lightish green.
+And you have like a navy heavy blue.
+And you've got the darker green for your header and footer.
+And then the navy is even darker.
+Which to me suggests that it's like...
+The things that are in between the header and footer to me
+should be lighter than the header and footer.
+Gotcha.
+Kind of like the borders.
+That's very good feedback.
+All right.
+And then while we're on that subject, we may as well talk about the dark mode equivalent.
+So let's jump over to app settings.
+Let's go to display settings.
+And let's switch it over to dark mode.
+So with that in mind, what are you guys thinking for the dark mode settings?
+How does that look to you guys?
+Thoughts on the color scheme in dark mode?
+See, I never went to here.
+I never went back.
+I can't lie.
+That one I think someone might have messed up with using the right variables.
+Yeah, it is just a little bit dark.
+I don't mind the black background.
+And I think it works kind of nicely with the lighter green for the header and footer.
+I like that the text is now white and the icons are now white as well.
+Yeah.
+With the dark mode, this should be like contrast.
+Like a lot of contrast.
+Yeah, I think it's just the colors for the bubbles and where it says broadband and stuff.
+I can't see that it's separated.
+I can't differentiate that that's on a different layer than the background.
+Yeah.
+You can't differentiate that that's on a different layer than this background.
+Like the color that is here is very similar to the black that's in the background where
+it's kind of hard from the distance that I'm at of not even quite a meter, I can't tell
+it apart.
+Okay.
+All right.
+I'm just going to other pages sort of thing.
+Yeah.
+I think.
+Yes, no.
+I mean, at least you've got the important information.
+The blue button is a bit too much.
+It's a little bit.
+It definitely pops out as like an interactable button.
+Yeah.
+But it doesn't look nice with the...
+It doesn't quite work with it.
+Okay.
+So in the payoff, the blue button, the pay buttons for each of these kind of stand out
+too much.
+They're like a little bit of an eyesore.
+Yeah.
+It feels a bit disjointed from the other color scheme.
+Yeah.
+Yeah.
+Okay.
+And then expenses.
+Yeah.
+This is also just like...
+Oh.
+Someone didn't use the right variables, I think.
+So in the expenses future section, someone obviously might have made a mistake there.
+But all right.
+Trumpage.
+So yeah.
+You can't read those.
+You can't read those.
+It's the dark text on the dark background as well.
+The dark text on the dark background?
+The text is white.
+I could read it.
+So on the home page in dark mode, the upcoming payments.
+Yeah.
+The dark text on the green.
+Like the fact that the actual number for $100.
+I can read that.
+Perfect.
+Yeah.
+And I can read upcoming payments.
+I just can't read what's below it.
+Makes sense.
+Because it's black on really dark color.
+Is it an accident or is it...
+I'm pretty sure it's an accident.
+Yeah.
+But awesome.
+All right.
+We'll jump over to app settings.
+See, actually this looks good.
+This probably looks good.
+You like how the app settings look like in dark mode?
+It looks great in dark mode.
+Yeah.
+I do like that.
+And then in light mode, do you think it looks all right?
+Yeah.
+It looks fine to me.
+Yeah.
+It looks fine in dark mode.
+All right.
+Sweet.
+We'll move on to the next and final question.
+If this were a real app, would you use it?
+Why or why not?
+No.
+Probably not.
+No.
+Probably not.
+Nah, dude.
+Sorry.
+I mean, when you guys come to us, you cannot fucking slay us.
+Honestly, we want it.
+No.
+Listen.
+We want you to listen.
+Going to the home page?
+Dark or light mode?
+Light mode.
+I think if I was using an app, I would want more visual representation.
+You have your Insights tab, which has the pie chart and the graphs and stuff.
+I'd want more of a focus on that kind of summative kind of visual.
+So you want more insights?
+Even if it was more visual, more graphs?
+Yeah.
+Something that I can see quickly and be like, oh, okay.
+Here's my summary.
+Here's my thing.
+How about bar graphs?
+Bar graph?
+I thought it was kind of funny with the rent that there was a bar graph because it's just
+the same value the whole time.
+That's fair.
+I think that bar graphs, in terms of weekly representations, I think that's good.
+I think food is a better example, I think.
+Yeah.
+I like that because it's a good way of tracking your history.
+If there was some summative feature on the homepage or something.
+On the homepage.
+Something that I open your app, I see it immediately.
+I don't need to go to the Insights tab.
+Some sort of indicator.
+The same way we have a preview of expenses and a preview of payouts.
+The homepage, to me, should have a summary of the app.
+It should have, here are your most pressing payments, which you have with the upcoming payments.
+Here's what you need to pay.
+And then here's a little summary of where you're at monetarily.
+So what would you want on the homepage in terms of the insights?
+What kind of insight would you want immediately in your face?
+Just kind of like the pie chart you have is good.
+Here's your little piece.
+We cleaned total expenses.
+I know, but we created something that I like.
+The point to make is that you can use a calendar to just remind yourself when you need to pay bills.
+So the app has to have some sort of functionality beyond that.
+And if you want to manage your expenses, you want to see all of the money.
+Where it's going.
+What is being spent on.
+So when you say all of the money, are you referring to all of the money or all of the money related to the flat stuff?
+All of the flat stuff.
+How much is being paid to wear each week.
+Right. We're kind of getting a bit messy now.
+We're questioning the value of the entire app.
+That's fair. That's the point of the question.
+So you wouldn't use this to manage flat expenses with other people?
+Probably not, dude.
+I can remember rent stealing on a Tuesday every week.
+And I do it now with my own flat.
+But if someone pays for, I don't know, say toiletries or something and they say,
+Oh yeah, chuck me like $20 for this.
+You don't want that to be sort of built into the app?
+Or have an app for it?
+I mean, yeah, but...
+Or do you reckon that's just not worth it?
+You're just like, yeah, sure, they said $20, I'll give them $20, done.
+Well, I guess the point of that is to cater for that, right?
+I mean, in my current flat, I'm not doing that.
+If someone buys toiletries, they say, send me $20, and I do it.
+But the point of this app is to incorporate that, right?
+So the idea behind the pay-ups.
+We're somewhat in the market for an app of this type.
+Yeah, but go back to the main page.
+The home page?
+Yeah, the home page.
+There's total owing, upcoming payments.
+It doesn't say who's paid, or it doesn't pay up.
+In pay-up, we do see the people who have paid certain expenses.
+Are those the people that have already paid?
+I thought those were the things you had to pay.
+Well, the idea is someone has paid for it, and you have to pay them for it.
+Pay them back for it.
+Like, say, for example, Alex has paid for rent, and butter, and power.
+And so now your job is to pay your share of that.
+So I'd go over here, and I'd say, yep.
+I'd go to here, and I'd say, I want to pay $80.25 for his power.
+And I pay for that.
+Or say that I paid for that.
+Those are bills that Alex has put up.
+Those are bills that Alex has paid for already.
+That you need to pay your share for.
+It's like if Alex goes and pays the rent, it's like, all right, cool.
+I just paid $2,000 in rent.
+You guys can each chuck me $500.
+To be honest, I'd almost just scrap paying on the home screen.
+I'd just make it so you could only pay here.
+So you would not want to see things you need to pay still?
+No, I'd want to see things.
+Isn't that up?
+Isn't that in the upcoming payments?
+Aren't they almost the same thing?
+You're saying that upcoming payments and pay up are almost the same thing?
+I don't know.
+What's the difference?
+Wouldn't you like to see what you need to pay?
+Sorry, let me rephrase.
+Upcoming payments is meant to represent expenses that nobody has paid yet.
+Things that will need to be paid.
+Whereas pay up is meant to be, you know, a flatmate has already paid for this.
+Now you need to pay them your share.
+Okay.
+So the upcoming payments are assigned, are they?
+The upcoming payments are sort of more like recurring things that need to happen over time.
+It's dated to the whole flat, right?
+Everyone on the flat needs to pay groceries.
+And then if you go down into pay up, Alex has already paid rent.
+And you need to pay Alex back for what they paid for your section.
+Although in this case, that would be like rent for next month.
+Whereas that would be rent like for last month or whatever.
+And you still have to pay him for last month.
+But the idea is that rent is coming up again and someone needs to pay for that.
+Yep.
+But you felt like that wasn't intuitive?
+I feel like this whole sort of conversation has proven that.
+That's fair.
+If it's not intuitive enough, that's a glaring flaw.
+It's hard to, because with the above section, the upcoming payments.
+I feel like that might make more sense if it was stuff that was specific to the user, the current user.
+Because that seems like groceries is that $30 in total for the flat.
+Who's the person that's going to pay that?
+Do you then need to like talk outside of the app and be like, okay, I'll pay that and then you pay me back in the app.
+Makes sense.
+Whereas like you could potentially add in an expense and then assign that to one of the flat members.
+And then you'd only see the ones that you needed to pay in that upcoming payment.
+Rather than everything.
+So you would still want to merge the two then wouldn't you?
+Potentially no.
+It's just more of like with the upcoming payments with like how I'm understanding it currently.
+Those are expenses for the flat in its entirety.
+Yes.
+Which means that like anyone who's in the flat could just pick one and pay it and pay it now.
+Yes.
+Because I feel like on like my home screen I'd want to see payments that are for me.
+Not like because I might not be paying the food.
+So like I don't really need to be seeing that because that's not my responsibility at the moment.
+Whereas like I would want to see they're like, okay, I'm in charge of groceries this week.
+There's my groceries payment.
+And then I'd scroll down to pay up and I'd say, okay, they paid for the food this this week.
+Let me chuck it across.
+Okay.
+Awesome.
+All right.
+Is there anything else they want to add?
+I'd probably make this almost like a drop down.
+Like instead of upcoming payments being the total, just have it so like each individual upcoming payment.
+You can see like, oh, John's paid this for it.
+Bob's paid this.
+Oh, like the groceries.
+Yeah.
+You drop down from the groceries and it'll tell you who's paying it or who's paying it.
+So each item in upcoming payments you would say John has paid this much.
+Yeah.
+I mean, regardless, it is quite a lot of like space just for like text that doesn't really sort of do anything in a way.
+In the middle of space you mean?
+Yeah.
+Like on your home screen, I feel like it should have some extra sort of functionality in a way.
+Okay.
+I've got a sort of just like pain in the ass thing, but probably just make the dates a bit bigger.
+The dates?
+Oh yeah, that's fair.
+I mean, to be fair, this is meant to be on a phone that's meant to be closer.
+Obviously I'm showing it to you on my laptop, but like it is meant to be like in your face
+a little bit more, but yeah, I can see that it's pretty small.
+That's it for me.
+I got nothing else.
+Awesome.
+No, no, awesome.
+These are the kinds of things.
+This is what I expect from you.
+The more you give, the more I can cut away and leave the good parts.
+Absolutely.
+We're trying to give you some issues.
+Be as nit-picky as you like.
+The more issues you can solve, the better you're going to do on that part, right?
+Exactly, yeah.
+So anyone got anything else they want to mention?
+No?
+No other overall feedback?
+Just like overall make summative information more accessible.
+Well not accessible information, more of a main sort of...
+Yeah, I feel like the app's pretty easy to use when you're like given the tasks that
+you've got to do.
+It's just when like, like here, we talk about the whole thing.
+That sort of...
+Yeah, it's when you open it up and you have to figure it out yourself.
+Yeah, and you're sort of overthinking it in a way.
+I wasn't confused when I was using it at the start, but then...
+Awesome.
+Yeah, when you start to think about it, it's like, wait a minute.
+Yeah.
+Alright, we've given you 20 minutes where we are going.
+I think we should stop.
+Yeah, that's probably good enough.
+Awesome.
+Thank you very much.
+Amazing.
+Thank you.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.

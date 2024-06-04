@@ -1,0 +1,251 @@
+Yeah, and we can also screen card all the phones to see where they're testing and stuff.
+Fuck, that's not a bad idea.
+Are you guys just doing it on your laptop?
+I don't know, yeah, that was our plan.
+I mean, you can just download the Figma app.
+Just download the Figma app, as long as you have the flows.
+Screen recording's good.
+It doesn't really matter too much for usability.
+You have to record that.
+For the testing, you can see how long it takes for each one.
+I suppose you can record on the laptop as well.
+Yeah, I'm not using my laptop, I'm using my phone.
+Oh, yeah, you can use that.
+So, officially we're going to start now.
+So, welcome to this testing, I guess.
+We're going to be testing our prototype, which is for a Flatmates Expense app.
+Really?
+Yeah, it is.
+So, just go through the app.
+I'm going to be giving you some tasks which you have to go through and try and complete them.
+Make sure you say what you're thinking and just go through your step, take your time.
+But just make sure you can tell me what you're thinking about in each step.
+Right, so I'm assuming you filled the consent form earlier, so that's all good.
+And we will be recording the voice and also your inputs, I guess, for this test for future use.
+But we will be leaving the data after the assignment is done, so that's all that.
+So, I'm just going to be setting this up.
+It's just going to take a minute.
+It's all good, just keep recording.
+We're just bashing you.
+Okay, okay, that's fine.
+Yeah, that's why we are here.
+I would go for the seat form.
+Yeah, I was confused for a second.
+And the screen recording will also record your voice and the things you answer.
+It's pretty cool, Figma, because that's how it looks.
+Okay, so I'm going to be starting the recording now, and I'm going to hand you the phone.
+So, this is the testing we're just going to start, and your first task will be verify the functionality of adding a new recurring expense.
+So, you'll be adding a new recurring expense and verifying that it has actually been added.
+And when adding the recurring expense, you'll be splitting it among household members.
+Okay, so I'm clicking add expense, because that's like the standard Google thing.
+I'm just making this up, right?
+Read.
+Category.
+What did you say it was again?
+Just any expense.
+1,200? I don't think any of ours work in that way either.
+There we go, there's our date done.
+And repeat. Did you say how often?
+It doesn't say how often, but just choose your favorite.
+Every week. I'm going to split it with Sam and Alex and me.
+My description.
+Whatever it says for me.
+I'm going to click create.
+Sweet.
+And then I'm done.
+I'm going to go into expenses and look at future expenses.
+And then, I can't remember what I even set it to.
+Just verify it's been added, I guess.
+What was it? 1,200 or something.
+I assume it would be there.
+Okay, that's fine.
+That's the first task which is done, so let's just go back to the homepage.
+The next task is to ensure the functionality of paying an existing expense and removing it from the list.
+Basically, there's going to be an existing expense which you already paid, but you're going to be paying up the expense to another person.
+Just making sure it's already been done.
+What would you be doing in this case?
+I assume these are my most recent expenses, so I'll go pay up.
+Then I'll pay Alex back for his rent.
+Okay.
+I'll click pay.
+What is it? Just the bottom one that works. Pay.
+Then I'm paying for power.
+Yep.
+And then what was the last bit?
+Just make sure it's been removed.
+It's been removed?
+Yep.
+Well, I'd just look in there.
+Okay, that's nice.
+Then go back to the homepage.
+Your third task is just view the past expenses and verify the payment history.
+How would you be doing that?
+Go expenses.
+Yep.
+Then verify payment history.
+Just verifying payment.
+Just looking through.
+Let's say you want to locate the expense for the garbage from the previous week.
+Yep.
+So how would you be doing that?
+I'd look through. I'd go into the past week section.
+Then look and open it.
+There we go. That's all our garbage info.
+Yeah.
+Nice. Okay.
+Now let's go back to the homepage again.
+Going to the fourth task.
+The fourth task is just look at the insights feature for the rent category.
+Is this still going to keep on recording while that's calling?
+I don't know if it's going to keep on recording or not.
+Sorry about that.
+The fourth task is just looking at the insights for the rent category
+and just making sure you can see a visual representation for the rent category.
+Okay, so I'm going to go to insights at the bottom.
+And then there's rent. That's the amount.
+And then at the top there's what percentage of it it is.
+And what if you want to go specifically and view the insights for rent itself?
+Can I just click on it?
+There we go.
+That's our week's rent or our month's rent.
+That's nice. Okay.
+And task five is just test the customizability.
+So test display accessibility features.
+So how would you be doing that?
+I'm going to click up here where I'm going to find, hopefully, settings or something.
+Yeah.
+Go in there, then app settings, then display settings.
+Then display settings.
+I'm going to change it to dark mode if that works.
+Okay.
+You actually coded that, don't you?
+So you can look at other features as well in the display settings.
+We've got contact, FAQs, managing categories.
+I'm not sure what week start day does.
+That's fine.
+Okay, so let's go back to the homepage again.
+Genuine hope, sorry.
+Yeah, yeah.
+I believe it was light mode.
+Yeah.
+Right.
+So now your sixth task, which I believe it's the last task, it's test the help and support functionalities.
+So imagine you require some help with the app.
+You want to look for some help within the app.
+So what would you be doing in that case?
+I'm going to go to the hamburger bar again.
+Yeah.
+What do you actually call that?
+I think it's a hamburger.
+Yeah, it is.
+It is called a hamburger.
+Okay, I'm going to go help and support.
+No, I'm going to go app settings.
+Okay.
+But we're going to assume that it did just take you there.
+So I assume that just wasn't coded in.
+Absolutely.
+Yeah.
+Then I'm going to look at the frequently asked questions.
+And then here's some of my answers.
+I don't know what I'm looking for, but I found it.
+That's nice.
+Or I'm going to contact support and send them an email.
+How would you send them the email?
+I'm going to put in my first name, Cassie.
+That's me.
+My email and my message.
+There we go.
+Sweet.
+Right.
+They'll get in contact with me.
+Right.
+So those were all the six tasks.
+I hope you remember how to go back to the homepage.
+Yeah.
+Yeah.
+Okay.
+Okay, that's fine.
+That's fine.
+Yeah.
+So how was your experience?
+Were there any sort of pain points or points you got confused?
+I mean, there's a couple of buttons that sort of just don't work.
+Can you remember which ones they were?
+Like, like there.
+Help and support.
+Yeah.
+Help and support.
+That doesn't do anything.
+Yeah.
+When you're, or some of the other ones.
+I've now just forgotten them all.
+Oh, it's just a little bit funky how like when you're putting in text it just auto fills
+it, but it's more of a like, like prototype type of thing.
+Yeah.
+It just doesn't have that functionality there.
+Yeah.
+Which one of the tasks do you think was the most like easiest, easiest to do?
+Like intuitive to do?
+Probably adding an expense.
+Adding expense.
+It's just right there.
+And which one of them was more difficult to kind of understand and do?
+Probably pay up because I could have gone in here.
+Like I never even went into the screen.
+I just did it on the home screen, but I'm guessing that the functionality is essentially
+the same.
+You can do it if you want.
+Yeah.
+I can just click pay and then pay for power.
+Yeah.
+So it's sort of the exact same, but in a way it's good that there's multiple ways to do
+it.
+That is one of the heuristics.
+That's nice.
+And then like, yeah, in this power screen, like only the bottom.
+Yeah.
+Only the bottom one actually works.
+Yeah.
+Do you have any sort of like visual details or like anything you didn't quite like?
+Regarding like the appearance or the colors used?
+The colors are fine.
+It's good to have like the, what should we call it?
+Like all the display settings and stuff.
+Yeah.
+Damn.
+I'm surprised you coded those.
+I only did one of mine.
+But yeah, so you can change the colors for like accessibility and all that.
+Yeah.
+That's nice.
+Okay.
+Yeah.
+So overall thoughts?
+It's pretty decent.
+Right.
+Yeah.
+Especially for a prototype, like obviously some things would have to be like kind of
+polished, but like that's sort of not what you're looking for, is it?
+It's just, it does everything you need to.
+The only thing that it's obviously missing is, yeah, just like an easy way to add like
+flatmates and stuff in, but that's more of a like setup type of thing than a day to day
+thing.
+Like we're kind of assuming this is already, you've been using it for a while, right?
+Yeah.
+That makes sense.
+Yes.
+But you've got the setting there, so it's not like it's hard to find or anything.
+Okay.
+That makes it nice.
+Yeah.
+I don't know.
+Right.
+Thank you for that.
+Thank you for giving us your time and to test our prototype.
+Thanks.
+Thanks for joining us and hope you have a nice day.
+Yeah.
+Not like you won't be getting big in five minutes time.
+Doing the exact same thing.
+That's exactly ten minutes.

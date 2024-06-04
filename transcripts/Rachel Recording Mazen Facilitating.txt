@@ -1,0 +1,227 @@
+All right, so you have the app in front of you now.
+Your first task will be to add a new recurring expense
+and split it among household members.
+So please begin.
+Once you get to the point, the expense in question
+is a rent expense.
+Let's say it's about $1,200.
+The date is maybe the 31st of March.
+And let's say you want to repeat it weekly.
+And select the three household members that it applies to.
+Just tell me when you feel you're done.
+OK, I'm done.
+Should I click Create?
+Yes.
+Can you just voice what's happening now?
+OK, I can't seem to click on the Create button
+to go to the next page, I guess.
+Could you put something in the description for me?
+Can I type it?
+I don't think you can.
+OK, that's broken.
+Take my breaks.
+Interesting.
+OK, I'm scrolling out.
+Cancel out of here.
+OK.
+Do you want to just quickly try and do that again?
+Sure.
+Please can.
+Let's see if it doesn't break.
+Name, category, let's go rent.
+$1,200, 31st of March, weekly, three household members.
+Maybe just try and put a description in there.
+Oh, OK.
+I think I was waiting for the description.
+OK, and just press Create.
+And interesting, it reset the rent and amount and repeat.
+No, it is not.
+Do you want to just add Sam again?
+Oh, never mind.
+It's not even reset them.
+It's jumped to cheese.
+Oh, I think it's because you made a new expense.
+All right, we're going to cancel the,
+yeah, we can stop the screen recording there, I think.
+That's fine.
+Just continue with the next task.
+Yeah, no, for the other task.
+All right, we'll continue with the next task,
+which is to pay an existing expense
+and then confirm that it's been removed.
+So the expense in question is an expense that Alex has paid
+and that you need to now pay him for, them, them for.
+That was the power expense, about $80 or so, probably.
+Can you verify that that exists?
+Oh, food?
+Yeah.
+Food is $80.
+Rent is that much.
+Do you want to try expanding?
+Yes.
+Yes, there we go.
+$80.
+Perfect.
+Can you pay that for me?
+Can you confirm, has it been paid?
+Should I go back to the home page?
+If you'd like to.
+Because I'm not sure what's going on.
+Fair enough.
+I still have the power?
+OK, no worries.
+That's all right.
+That's fine.
+We'll continue with the next task.
+Right, yes, that's right.
+Talk more about what's going on.
+Yes, feel free to voice what's happening, your confusions,
+your concerns, what's happening in general, what you tried to do,
+what happened instead, that kind of thing.
+So in this case, you.
+Well, I tried to pay the power.
+And it disappeared from the pay section.
+Well, it's still here.
+But when you went to the home page, it was still there.
+I'm not 100% sure whether it did pay.
+Could you jump over to the pay section and check for me?
+Yes.
+Is it there still?
+It's the first one, yeah.
+All right, good to know.
+Should I click the pay button again?
+No, let's move on to the next task.
+OK, I'll go back to home now.
+Sounds good.
+All right, next up, I'd like you to look at a past expense.
+Let's say garbage from last week.
+And can you just tell me who paid that garbage expense
+last week?
+First, should I go to expense tab?
+You say you want to go to the expense tab, OK.
+And then what do you want to do?
+The past week.
+Is that what you said?
+Yes, last week.
+Last week.
+So garbage was 380, flatmate person one and person two.
+Awesome.
+Thank you very much.
+So flatmate person one and person two.
+All right, thank you very much.
+The next task is to, I'd like you
+to look at the insights for rent over the past month or so,
+or just look at the monthly insights for rent.
+And just tell me what you think of it.
+What do you see?
+Well, I see a pie chart, which clearly describes rent
+being 70% of my expenses, and it totaling to $1,800 monthly.
+OK, good to know.
+Can we move on to task five?
+Sorry, do we want to have her correct or not?
+OK.
+Do we want to move on to task five?
+Task five is, I'd like you to enable,
+I'd like you to adjust the color scheme of the app,
+and maybe the contrast too, if you'd like.
+And just sort of talk about what
+you're doing as you're doing that, what the outcome is.
+Let's go back.
+OK, I went to the, when I go to the, oh, what's up here?
+Clicked on the navigation three bars.
+Went to app settings, display settings,
+and assume I can go to the dark mode.
+Oh, shit, that's pretty cool.
+OK.
+And high contrast, oh, wow.
+That's pretty cool.
+What does system mean?
+Is it just like?
+OK, good to know.
+Typically, the system, the app, the mobile device
+is either set to dock or level, so we
+can try and learn from that.
+So then shouldn't that be the default one?
+That's some very useful feedback, thank you.
+All right, but can you just change some settings
+and tell me what you changed and what you think of it?
+Contact and support.
+I can.
+Sorry, I meant accessibility settings.
+Oh, accessibility.
+Yes.
+That you changed.
+Oh, the color themes.
+Just need to read.
+Yes.
+Well, I changed to dark mode and to high contrast.
+All right, and do those work well?
+Yes, those work well.
+Visibly changed across the page.
+Awesome.
+We'll move on to the next task now,
+which is I'd like you to get some help from the app.
+I'd like you to go and see the FAQ section, perhaps,
+and have a look at some of the frequently asked questions.
+OK.
+I'm on the frequently asked questions,
+and I can click on the questions available
+and quickly read through them.
+OK.
+Well, the first one anyways.
+Awesome.
+Let's continue.
+Let's I'd like you to click on the call.
+I'd like you to find contact support
+and fill out a support form for me.
+Tapped out the first.
+I think I've already, hmm, one second.
+I can't seem to click on, let me just, like that.
+Could I just get you to speak up a little bit
+from the microphone, especially since there's background noise?
+Yes.
+I just changed my whole set up to light mode,
+just to see if I can, yep.
+So basically, when I was on the dark mode on high contrast,
+I couldn't see the name.
+OK.
+All right, thank you very much.
+And now I just click the name, click the email.
+OK, could you submit a contact support form for me?
+Yeah, I'm just going to click on the message.
+I don't know if that types up.
+OK, it's sent through.
+Could you just confirm that it's been sent through?
+Yeah, you just need to smack it a few times.
+OK, there you go.
+Take my issues.
+Yeah.
+Sent.
+Oh, message sent.
+Perfect.
+Thank you very much.
+And it also has a clear message saying
+that I will be able to, like, feed back to you after 24,
+48 hours.
+Awesome.
+Thank you very much.
+I believe that is all of the questions, of the tasks.
+I will now turn off the recording.
+OK.
+Thank you very much.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.

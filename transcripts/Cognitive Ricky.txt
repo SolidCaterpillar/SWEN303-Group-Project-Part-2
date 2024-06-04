@@ -1,0 +1,115 @@
+And yeah, just one
+Do you want me to like
+You'll get a roar and filtered bullets
+Good okay, you gotta test our abs to see if you understand the tusks, okay?
+Okay
+Of adding a new recruit expense and splitting it amongst the household members
+So add a new expense and then split it. Yep. Okay, so we'll go to the ad expense button. That's in the bottom
+Yeah, and it will come up
+Enter the name. Is this the name for the expense? Yep
+Is there cheese great?
+Try to follow the details rent
+Mm-hmm 1200
+The baby is 31st of May
+repeat weekly
+31st of May
+It's coming up as different values
+Try to click again, it's not interactable
+Oh
+Yeah, it's coming up with cheese and then hello and in
+Just keep going yeah repeat
+Did you want to weekly repeat sweet and then split with everybody wasn't it? Oh three three. Yeah, sweet
+So all of them
+And then create the expense using the button down here
+Okay, it's coming up is there wasn't anything there it's a good era
+Letting me know
+So we wanted it for rent
+the immense
+1200 okay, it's coming up as 10 and in the repeat was weekly
+And we want it to be with Sam as well because we want it to be split with three people, let's see what happens
+a
+Very funky blue cheese so flat true
+Okay, I'm assuming that the name
+Okay, try well maybe I can exit out and yeah, let's try again let's go at expense
+We're entering the name
+Cheese still
+Yeah, and we go ran into the amount is there it's coming up as hello
+Oh
+Sure
+weekly
+Description
+Let's try and create it. Okay, it's coming up with an error here. Let's try again
+Rinse inter amount is 10 select values weekly
+Okay
+Creating itself
+Don't quite know what's up with that. Okay. Okay, we move in next
+It just wouldn't create an expense it would when
+the first values were entered
+It would then give error messages saying some of the values were blank
+Even though they were filled out and then on filling them out again
+Clicking the create expense button would just not do something. I wouldn't do anything
+Okay, we move to the second task
+The second test is to ensure the functionality of payment and existing expense
+And verify it removed from the list. Okay, so we're paying an expense. I want to go into the pay up section
+And I will guess pay the click the pay button, okay
+Open
+Alex and you select the power the power cool. Yeah, I'm here. I see the Alex categories
+I see the power I will click pay their pay for power. Yes
+It is now disappeared from the list and I imagine if I go to home. Yeah
+Okay
+Okay, the next task is to confirm the ability to view past expense and verify payment history, okay payment
+So there's an expenses tab. This is going into yeah, I can see the history from today
+The past week and the past month. Okay. Yeah, so you had to locate
+Garbage garbage and verify the detail who paid the coverage for that. Okay, so garbage was paid in the past week
+$380, you know, it was paid by person one and person two on the 27th of May. Okay, sweet
+The next task is to
+Verify the inside features for the rent category and ensure equity data visualization
+Okay, so we'll go into the insights tab. I can see a very nice pie chart here. Yeah
+We've got the top categories for rent, which is indeed the top category power is next. Yeah, then it should be broadband
+Yep, and food and other. Yeah. Yeah, so I want you to
+Click the event category. The rent category is being clicked. I now have a bar chart with the week. Okay
+So you had to view the monthly the monthly I now have the bar chart with four values on it
+It was paid consistently it seems with consistent rent. So they're all the same value. Yep, all 450. Yep. Looks good
+Okay, your next step is to test the customization option for display and accessibility
+ensure
+Usability for all users. Okay, so that will probably be in the three bar menu. I'm thinking we're going in here
+probably app settings
+And we wanted to do
+accessibility
+Which isn't quite here, but it's probably on the display. Yes
+And then there's dark mode system and different contrasts so we wanted accessibility
+So let's say we go colorblind friendly. It does indeed change the colors
+Okay
+Yeah, and it stays as you go through that. Yep. I
+Want you to try other?
+Accessibility see what you see. Okay, let's go back into
+Display so there's the dark mode. Yeah, that works nicely. We've got high contrast which does that as well?
+The system do something. I
+imagine
+All works well
+Okay, your last time is to help test the help and support spontaneity
+Open support ensuring user can find information and contact support if needed perfect
+That will again probably be in the three bar menu help and supports right there. Good. It's not showing as interactable
+Try app setting app settings if we go into absent. Yep. Okay. There is a helping sport thing in app settings
+That could be one thing to just have as a little issue
+It's in two different places
+So we'd want to contact support
+Yeah, and then we'd want to fill out our information
+Our email the message that we have and then we could send it and it comes up with the confirmation
+No, it was all very intuitive yeah, no, it was easy to move around the buttons made sense
+There was good contrast with the interactable areas
+I
+Didn't have to second-guess myself on anything it all made sense to use
+The only thing that kind of went wrong was just a figma issue which the figma was better
+I imagine it wouldn't have gone wrong in the first place and it would have worked as it was intended
+So I didn't really have any negative feedback to give
+Okay, what about us one any?
+Yeah expense one the expense stuff made sense
+But I had coated you know, yeah, that's just the figma thing it'll kind of make sense to use
+Good functionalities in there you had your history with all the information
+Yeah, I like the bear with the variety you guys have in there
+I think the the traversal options you have is good. I like the tabs
+Did I see that it was part of it was swipeable and some like that
+Yeah, so you've got some swipe functionality which I think is really cool
+That like yet you've got good headers you've got all that it's all in there
+Yeah, okay. Okay. Thank you. Thank you

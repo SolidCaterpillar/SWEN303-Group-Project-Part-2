@@ -1,0 +1,908 @@
+1
+00:00:00,000 --> 00:00:02,840
+All right, so you have the app in front of you now.
+
+2
+00:00:02,840 --> 00:00:08,240
+Your first task will be to add a new recurring expense
+
+3
+00:00:08,240 --> 00:00:11,880
+and split it among household members.
+
+4
+00:00:11,880 --> 00:00:15,280
+So please begin.
+
+5
+00:00:15,280 --> 00:00:19,480
+Once you get to the point, the expense in question
+
+6
+00:00:19,480 --> 00:00:21,000
+is a rent expense.
+
+7
+00:00:21,000 --> 00:00:25,320
+Let's say it's about $1,200.
+
+8
+00:00:25,320 --> 00:00:28,360
+The date is maybe the 31st of March.
+
+9
+00:00:28,360 --> 00:00:30,360
+And let's say you want to repeat it weekly.
+
+10
+00:00:33,600 --> 00:00:37,400
+And select the three household members that it applies to.
+
+11
+00:00:45,660 --> 00:00:47,400
+Just tell me when you feel you're done.
+
+12
+00:00:47,400 --> 00:00:48,920
+OK, I'm done.
+
+13
+00:00:48,920 --> 00:00:50,120
+Should I click Create?
+
+14
+00:00:50,120 --> 00:00:50,620
+Yes.
+
+15
+00:00:55,960 --> 00:00:57,880
+Can you just voice what's happening now?
+
+16
+00:00:57,880 --> 00:01:02,160
+OK, I can't seem to click on the Create button
+
+17
+00:01:02,160 --> 00:01:05,720
+to go to the next page, I guess.
+
+18
+00:01:05,720 --> 00:01:08,560
+Could you put something in the description for me?
+
+19
+00:01:08,560 --> 00:01:09,200
+Can I type it?
+
+20
+00:01:09,200 --> 00:01:10,120
+I don't think you can.
+
+21
+00:01:10,120 --> 00:01:11,640
+OK, that's broken.
+
+22
+00:01:11,640 --> 00:01:12,280
+Take my breaks.
+
+23
+00:01:12,280 --> 00:01:12,800
+Interesting.
+
+24
+00:01:12,800 --> 00:01:14,320
+OK, I'm scrolling out.
+
+25
+00:01:14,320 --> 00:01:15,320
+Cancel out of here.
+
+26
+00:01:15,320 --> 00:01:15,820
+OK.
+
+27
+00:01:21,640 --> 00:01:23,760
+Do you want to just quickly try and do that again?
+
+28
+00:01:23,760 --> 00:01:24,260
+Sure.
+
+29
+00:01:24,260 --> 00:01:24,760
+Please can.
+
+30
+00:01:24,760 --> 00:01:27,720
+Let's see if it doesn't break.
+
+31
+00:01:27,720 --> 00:01:31,240
+Name, category, let's go rent.
+
+32
+00:01:31,240 --> 00:01:39,080
+$1,200, 31st of March, weekly, three household members.
+
+33
+00:01:39,080 --> 00:01:40,960
+Maybe just try and put a description in there.
+
+34
+00:01:40,960 --> 00:01:41,960
+Oh, OK.
+
+35
+00:01:41,960 --> 00:01:43,880
+I think I was waiting for the description.
+
+36
+00:01:43,880 --> 00:01:45,040
+OK, and just press Create.
+
+37
+00:01:48,120 --> 00:01:55,360
+And interesting, it reset the rent and amount and repeat.
+
+38
+00:01:55,360 --> 00:01:56,480
+No, it is not.
+
+39
+00:01:56,720 --> 00:01:58,880
+Do you want to just add Sam again?
+
+40
+00:01:58,880 --> 00:01:59,560
+Oh, never mind.
+
+41
+00:01:59,560 --> 00:02:00,640
+It's not even reset them.
+
+42
+00:02:00,640 --> 00:02:02,600
+It's jumped to cheese.
+
+43
+00:02:02,600 --> 00:02:05,200
+Oh, I think it's because you made a new expense.
+
+44
+00:02:07,760 --> 00:02:11,400
+All right, we're going to cancel the,
+
+45
+00:02:11,400 --> 00:02:14,160
+yeah, we can stop the screen recording there, I think.
+
+46
+00:02:14,160 --> 00:02:14,760
+That's fine.
+
+47
+00:02:14,760 --> 00:02:16,120
+Just continue with the next task.
+
+48
+00:02:16,120 --> 00:02:17,680
+Yeah, no, for the other task.
+
+49
+00:02:17,680 --> 00:02:20,440
+All right, we'll continue with the next task,
+
+50
+00:02:20,440 --> 00:02:23,080
+which is to pay an existing expense
+
+51
+00:02:23,080 --> 00:02:25,280
+and then confirm that it's been removed.
+
+52
+00:02:25,280 --> 00:02:30,000
+So the expense in question is an expense that Alex has paid
+
+53
+00:02:30,000 --> 00:02:34,480
+and that you need to now pay him for, them, them for.
+
+54
+00:02:34,480 --> 00:02:39,680
+That was the power expense, about $80 or so, probably.
+
+55
+00:02:39,680 --> 00:02:41,160
+Can you verify that that exists?
+
+56
+00:02:41,160 --> 00:02:43,640
+Oh, food?
+
+57
+00:02:43,640 --> 00:02:45,560
+Yeah.
+
+58
+00:02:45,560 --> 00:02:48,000
+Food is $80.
+
+59
+00:02:48,000 --> 00:02:49,480
+Rent is that much.
+
+60
+00:02:49,480 --> 00:02:51,000
+Do you want to try expanding?
+
+61
+00:02:51,000 --> 00:02:51,500
+Yes.
+
+62
+00:02:56,640 --> 00:02:57,520
+Yes, there we go.
+
+63
+00:02:57,520 --> 00:02:58,160
+$80.
+
+64
+00:02:58,160 --> 00:02:58,640
+Perfect.
+
+65
+00:02:58,640 --> 00:02:59,640
+Can you pay that for me?
+
+66
+00:03:10,880 --> 00:03:12,720
+Can you confirm, has it been paid?
+
+67
+00:03:12,720 --> 00:03:15,360
+Should I go back to the home page?
+
+68
+00:03:15,360 --> 00:03:16,640
+If you'd like to.
+
+69
+00:03:16,640 --> 00:03:19,080
+Because I'm not sure what's going on.
+
+70
+00:03:19,080 --> 00:03:19,580
+Fair enough.
+
+71
+00:03:22,000 --> 00:03:25,880
+I still have the power?
+
+72
+00:03:25,880 --> 00:03:26,960
+OK, no worries.
+
+73
+00:03:26,960 --> 00:03:27,640
+That's all right.
+
+74
+00:03:27,640 --> 00:03:28,160
+That's fine.
+
+75
+00:03:28,160 --> 00:03:29,560
+We'll continue with the next task.
+
+76
+00:03:33,000 --> 00:03:34,360
+Right, yes, that's right.
+
+77
+00:03:34,360 --> 00:03:36,040
+Talk more about what's going on.
+
+78
+00:03:36,040 --> 00:03:38,480
+Yes, feel free to voice what's happening, your confusions,
+
+79
+00:03:38,480 --> 00:03:42,560
+your concerns, what's happening in general, what you tried to do,
+
+80
+00:03:42,560 --> 00:03:45,840
+what happened instead, that kind of thing.
+
+81
+00:03:45,840 --> 00:03:48,720
+So in this case, you.
+
+82
+00:03:48,720 --> 00:03:50,360
+Well, I tried to pay the power.
+
+83
+00:03:50,640 --> 00:03:54,320
+And it disappeared from the pay section.
+
+84
+00:03:54,320 --> 00:03:56,240
+Well, it's still here.
+
+85
+00:03:56,240 --> 00:03:59,120
+But when you went to the home page, it was still there.
+
+86
+00:03:59,120 --> 00:04:01,720
+I'm not 100% sure whether it did pay.
+
+87
+00:04:01,720 --> 00:04:04,240
+Could you jump over to the pay section and check for me?
+
+88
+00:04:04,240 --> 00:04:05,280
+Yes.
+
+89
+00:04:05,280 --> 00:04:08,000
+Is it there still?
+
+90
+00:04:08,000 --> 00:04:09,000
+It's the first one, yeah.
+
+91
+00:04:14,160 --> 00:04:17,200
+All right, good to know.
+
+92
+00:04:17,200 --> 00:04:19,240
+Should I click the pay button again?
+
+93
+00:04:19,280 --> 00:04:20,800
+No, let's move on to the next task.
+
+94
+00:04:20,800 --> 00:04:22,480
+OK, I'll go back to home now.
+
+95
+00:04:22,480 --> 00:04:23,680
+Sounds good.
+
+96
+00:04:23,680 --> 00:04:30,080
+All right, next up, I'd like you to look at a past expense.
+
+97
+00:04:30,080 --> 00:04:33,240
+Let's say garbage from last week.
+
+98
+00:04:33,240 --> 00:04:37,160
+And can you just tell me who paid that garbage expense
+
+99
+00:04:37,160 --> 00:04:38,840
+last week?
+
+100
+00:04:38,840 --> 00:04:40,720
+First, should I go to expense tab?
+
+101
+00:04:40,720 --> 00:04:42,760
+You say you want to go to the expense tab, OK.
+
+102
+00:04:42,760 --> 00:04:44,080
+And then what do you want to do?
+
+103
+00:04:44,080 --> 00:04:44,720
+The past week.
+
+104
+00:04:44,720 --> 00:04:45,720
+Is that what you said?
+
+105
+00:04:45,720 --> 00:04:46,480
+Yes, last week.
+
+106
+00:04:46,480 --> 00:04:47,800
+Last week.
+
+107
+00:04:47,800 --> 00:04:55,520
+So garbage was 380, flatmate person one and person two.
+
+108
+00:04:55,520 --> 00:04:56,160
+Awesome.
+
+109
+00:04:56,160 --> 00:04:57,000
+Thank you very much.
+
+110
+00:04:57,000 --> 00:04:58,760
+So flatmate person one and person two.
+
+111
+00:05:04,560 --> 00:05:08,280
+All right, thank you very much.
+
+112
+00:05:08,280 --> 00:05:12,680
+The next task is to, I'd like you
+
+113
+00:05:12,680 --> 00:05:19,200
+to look at the insights for rent over the past month or so,
+
+114
+00:05:19,200 --> 00:05:23,160
+or just look at the monthly insights for rent.
+
+115
+00:05:23,160 --> 00:05:25,240
+And just tell me what you think of it.
+
+116
+00:05:25,240 --> 00:05:26,200
+What do you see?
+
+117
+00:05:26,200 --> 00:05:29,840
+Well, I see a pie chart, which clearly describes rent
+
+118
+00:05:29,840 --> 00:05:38,920
+being 70% of my expenses, and it totaling to $1,800 monthly.
+
+119
+00:05:43,520 --> 00:05:45,160
+OK, good to know.
+
+120
+00:05:49,120 --> 00:05:52,280
+Can we move on to task five?
+
+121
+00:05:52,280 --> 00:05:55,440
+Sorry, do we want to have her correct or not?
+
+122
+00:05:55,440 --> 00:05:57,280
+OK.
+
+123
+00:05:57,280 --> 00:05:58,760
+Do we want to move on to task five?
+
+124
+00:05:58,760 --> 00:06:03,960
+Task five is, I'd like you to enable,
+
+125
+00:06:03,960 --> 00:06:07,200
+I'd like you to adjust the color scheme of the app,
+
+126
+00:06:07,200 --> 00:06:10,920
+and maybe the contrast too, if you'd like.
+
+127
+00:06:10,920 --> 00:06:12,360
+And just sort of talk about what
+
+128
+00:06:12,360 --> 00:06:14,640
+you're doing as you're doing that, what the outcome is.
+
+129
+00:06:14,640 --> 00:06:16,800
+Let's go back.
+
+130
+00:06:16,800 --> 00:06:23,240
+OK, I went to the, when I go to the, oh, what's up here?
+
+131
+00:06:23,240 --> 00:06:26,160
+Clicked on the navigation three bars.
+
+132
+00:06:26,160 --> 00:06:29,280
+Went to app settings, display settings,
+
+133
+00:06:29,280 --> 00:06:31,920
+and assume I can go to the dark mode.
+
+134
+00:06:31,920 --> 00:06:33,440
+Oh, shit, that's pretty cool.
+
+135
+00:06:33,440 --> 00:06:35,920
+OK.
+
+136
+00:06:35,920 --> 00:06:38,000
+And high contrast, oh, wow.
+
+137
+00:06:41,920 --> 00:06:43,160
+That's pretty cool.
+
+138
+00:06:43,160 --> 00:06:44,320
+What does system mean?
+
+139
+00:06:44,320 --> 00:06:45,080
+Is it just like?
+
+140
+00:06:47,680 --> 00:06:49,440
+OK, good to know.
+
+141
+00:06:49,440 --> 00:06:53,560
+Typically, the system, the app, the mobile device
+
+142
+00:06:53,560 --> 00:06:55,240
+is either set to dock or level, so we
+
+143
+00:06:55,240 --> 00:06:57,080
+can try and learn from that.
+
+144
+00:06:57,080 --> 00:07:01,320
+So then shouldn't that be the default one?
+
+145
+00:07:01,320 --> 00:07:03,400
+That's some very useful feedback, thank you.
+
+146
+00:07:03,400 --> 00:07:05,800
+All right, but can you just change some settings
+
+147
+00:07:05,800 --> 00:07:09,080
+and tell me what you changed and what you think of it?
+
+148
+00:07:11,200 --> 00:07:13,240
+Contact and support.
+
+149
+00:07:13,240 --> 00:07:14,440
+I can.
+
+150
+00:07:14,440 --> 00:07:16,160
+Sorry, I meant accessibility settings.
+
+151
+00:07:16,160 --> 00:07:17,000
+Oh, accessibility.
+
+152
+00:07:17,000 --> 00:07:17,480
+Yes.
+
+153
+00:07:21,320 --> 00:07:23,040
+That you changed.
+
+154
+00:07:23,040 --> 00:07:25,280
+Oh, the color themes.
+
+155
+00:07:25,280 --> 00:07:26,520
+Just need to read.
+
+156
+00:07:26,520 --> 00:07:27,680
+Yes.
+
+157
+00:07:27,680 --> 00:07:32,040
+Well, I changed to dark mode and to high contrast.
+
+158
+00:07:32,040 --> 00:07:34,120
+All right, and do those work well?
+
+159
+00:07:34,120 --> 00:07:35,960
+Yes, those work well.
+
+160
+00:07:35,960 --> 00:07:38,840
+Visibly changed across the page.
+
+161
+00:07:41,680 --> 00:07:43,000
+Awesome.
+
+162
+00:07:43,000 --> 00:07:44,920
+We'll move on to the next task now,
+
+163
+00:07:44,920 --> 00:07:49,400
+which is I'd like you to get some help from the app.
+
+164
+00:07:49,400 --> 00:07:54,760
+I'd like you to go and see the FAQ section, perhaps,
+
+165
+00:07:54,760 --> 00:07:59,160
+and have a look at some of the frequently asked questions.
+
+166
+00:07:59,160 --> 00:07:59,680
+OK.
+
+167
+00:07:59,680 --> 00:08:01,520
+I'm on the frequently asked questions,
+
+168
+00:08:01,520 --> 00:08:04,640
+and I can click on the questions available
+
+169
+00:08:04,640 --> 00:08:07,280
+and quickly read through them.
+
+170
+00:08:07,280 --> 00:08:08,840
+OK.
+
+171
+00:08:08,840 --> 00:08:10,440
+Well, the first one anyways.
+
+172
+00:08:10,480 --> 00:08:10,960
+Awesome.
+
+173
+00:08:10,960 --> 00:08:11,640
+Let's continue.
+
+174
+00:08:11,640 --> 00:08:15,280
+Let's I'd like you to click on the call.
+
+175
+00:08:15,280 --> 00:08:17,160
+I'd like you to find contact support
+
+176
+00:08:17,160 --> 00:08:20,440
+and fill out a support form for me.
+
+177
+00:08:20,440 --> 00:08:22,280
+Tapped out the first.
+
+178
+00:08:22,280 --> 00:08:27,000
+I think I've already, hmm, one second.
+
+179
+00:08:27,000 --> 00:08:33,400
+I can't seem to click on, let me just, like that.
+
+180
+00:08:33,400 --> 00:08:35,240
+Could I just get you to speak up a little bit
+
+181
+00:08:35,240 --> 00:08:37,800
+from the microphone, especially since there's background noise?
+
+182
+00:08:37,800 --> 00:08:38,400
+Yes.
+
+183
+00:08:39,280 --> 00:08:41,360
+I just changed my whole set up to light mode,
+
+184
+00:08:41,360 --> 00:08:43,320
+just to see if I can, yep.
+
+185
+00:08:43,320 --> 00:08:45,760
+So basically, when I was on the dark mode on high contrast,
+
+186
+00:08:45,760 --> 00:08:47,120
+I couldn't see the name.
+
+187
+00:08:47,120 --> 00:08:47,720
+OK.
+
+188
+00:08:47,720 --> 00:08:49,160
+All right, thank you very much.
+
+189
+00:08:49,160 --> 00:08:51,880
+And now I just click the name, click the email.
+
+190
+00:08:51,880 --> 00:08:54,360
+OK, could you submit a contact support form for me?
+
+191
+00:08:54,360 --> 00:08:56,520
+Yeah, I'm just going to click on the message.
+
+192
+00:08:56,520 --> 00:08:58,880
+I don't know if that types up.
+
+193
+00:08:58,880 --> 00:09:00,680
+OK, it's sent through.
+
+194
+00:09:00,680 --> 00:09:02,920
+Could you just confirm that it's been sent through?
+
+195
+00:09:02,920 --> 00:09:05,360
+Yeah, you just need to smack it a few times.
+
+196
+00:09:05,360 --> 00:09:06,840
+OK, there you go.
+
+197
+00:09:06,840 --> 00:09:07,840
+Take my issues.
+
+198
+00:09:07,840 --> 00:09:08,840
+Yeah.
+
+199
+00:09:08,840 --> 00:09:09,840
+Sent.
+
+200
+00:09:09,840 --> 00:09:10,840
+Oh, message sent.
+
+201
+00:09:10,840 --> 00:09:11,840
+Perfect.
+
+202
+00:09:11,840 --> 00:09:12,840
+Thank you very much.
+
+203
+00:09:12,840 --> 00:09:13,840
+And it also has a clear message saying
+
+204
+00:09:13,840 --> 00:09:17,200
+that I will be able to, like, feed back to you after 24,
+
+205
+00:09:17,200 --> 00:09:18,200
+48 hours.
+
+206
+00:09:18,200 --> 00:09:19,200
+Awesome.
+
+207
+00:09:19,200 --> 00:09:20,200
+Thank you very much.
+
+208
+00:09:20,200 --> 00:09:22,720
+I believe that is all of the questions, of the tasks.
+
+209
+00:09:22,720 --> 00:09:25,240
+I will now turn off the recording.
+
+210
+00:09:25,240 --> 00:09:26,240
+OK.
+
+211
+00:09:26,240 --> 00:09:27,240
+Thank you very much.
+
+212
+00:09:27,240 --> 00:09:28,240
+Thank you.
+
+213
+00:09:28,240 --> 00:09:29,240
+Thank you.
+
+214
+00:09:29,240 --> 00:09:30,240
+Thank you.
+
+215
+00:09:30,240 --> 00:09:31,240
+Thank you.
+
+216
+00:09:31,240 --> 00:09:32,240
+Thank you.
+
+217
+00:09:32,240 --> 00:09:33,240
+Thank you.
+
+218
+00:09:33,240 --> 00:09:34,240
+Thank you.
+
+219
+00:09:34,240 --> 00:09:35,240
+Thank you.
+
+220
+00:09:35,240 --> 00:09:36,240
+Thank you.
+
+221
+00:09:36,240 --> 00:09:37,240
+Thank you.
+
+222
+00:09:37,240 --> 00:09:38,240
+Thank you.
+
+223
+00:09:38,240 --> 00:09:39,240
+Thank you.
+
+224
+00:09:39,240 --> 00:09:40,240
+Thank you.
+
+225
+00:09:40,240 --> 00:09:41,240
+Thank you.
+
+226
+00:09:41,240 --> 00:09:42,240
+Thank you.
+
+227
+00:09:42,240 --> 00:09:42,740
+Thank you.
+

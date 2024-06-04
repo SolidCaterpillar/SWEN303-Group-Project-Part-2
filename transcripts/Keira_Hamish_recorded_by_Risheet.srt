@@ -1,0 +1,860 @@
+1
+00:00:00,000 --> 00:00:06,200
+Cool, okay, task one, could you verify the functionality of adding a new recurring expense
+
+2
+00:00:06,200 --> 00:00:10,920
+and splitting it amongst all of the household members?
+
+3
+00:00:10,920 --> 00:00:11,920
+Make sure you speak out loud.
+
+4
+00:00:11,920 --> 00:00:16,920
+Okay, so, is it add expense button at the bottom right, so I'm just going to go with
+
+5
+00:00:16,920 --> 00:00:17,920
+that.
+
+6
+00:00:17,920 --> 00:00:20,920
+I'm just going to add a name, it seems like it's compulsory, so I'm just going to fill
+
+7
+00:00:20,920 --> 00:00:22,920
+out the rest of the things we're all with.
+
+8
+00:00:22,920 --> 00:00:26,920
+I can't type it, but it's, does that fill something in for me, which it works, because
+
+9
+00:00:26,920 --> 00:00:28,920
+I don't want to type anyway.
+
+10
+00:00:29,840 --> 00:00:33,840
+I'm going to select rent, because it said it was rent, and I'll enter an amount.
+
+11
+00:00:33,840 --> 00:00:34,840
+I can't enter an amount?
+
+12
+00:00:34,840 --> 00:00:36,840
+Oh, it gave me an amount, fantastic.
+
+13
+00:00:36,840 --> 00:00:37,840
+That's really expensive.
+
+14
+00:00:37,840 --> 00:00:39,840
+I'm glad my rent isn't that much.
+
+15
+00:00:39,840 --> 00:00:41,840
+Alright, let me add a date.
+
+16
+00:00:41,840 --> 00:00:43,840
+I think it will add one for me again.
+
+17
+00:00:43,840 --> 00:00:45,840
+Yep, it did, fantastic.
+
+18
+00:00:45,840 --> 00:00:52,840
+And I want to make it recurring, so I'm going to select a value, and rent, for that much
+
+19
+00:00:52,840 --> 00:00:56,840
+rent, you should be paying it every month, so I'm going to go monthly, and I want to
+
+20
+00:00:56,840 --> 00:00:58,840
+split it equally with all flatmates, right?
+
+21
+00:00:59,760 --> 00:01:04,760
+So I'll select everybody, me, Alex, and Sam.
+
+22
+00:01:04,760 --> 00:01:08,760
+I'll add a description, I guess I'll let it add it for me, right for the three of us,
+
+23
+00:01:08,760 --> 00:01:09,760
+love it.
+
+24
+00:01:09,760 --> 00:01:12,760
+I'll press the create button at the bottom.
+
+25
+00:01:12,760 --> 00:01:15,760
+I'm just not letting it press it.
+
+26
+00:01:15,760 --> 00:01:16,760
+Okay.
+
+27
+00:01:16,760 --> 00:01:19,760
+It's not letting it press it.
+
+28
+00:01:19,760 --> 00:01:25,760
+Yeah, I believe that might be an issue with the app, so we can just continue from there.
+
+29
+00:01:25,760 --> 00:01:27,760
+That's all good.
+
+30
+00:01:28,680 --> 00:01:30,680
+Make note of that.
+
+31
+00:01:30,680 --> 00:01:32,680
+Cool, okay, task two.
+
+32
+00:01:32,680 --> 00:01:38,680
+Could you ensure the functionality of paying an existing expense, and verify that it's
+
+33
+00:01:38,680 --> 00:01:39,680
+removed?
+
+34
+00:01:39,680 --> 00:01:40,680
+Okay.
+
+35
+00:01:40,680 --> 00:01:45,680
+So, you're wanting to pay an amount that you're owing to somebody.
+
+36
+00:01:45,680 --> 00:01:46,680
+Okay.
+
+37
+00:01:48,680 --> 00:01:51,680
+So, I've got my upcoming, so I don't think I'm talking about that.
+
+38
+00:01:51,680 --> 00:01:56,680
+I think I'm going to pay someone who I owe money to, so I'll try pay Alex for rent,
+
+39
+00:01:57,600 --> 00:02:08,600
+not, I'm trying to click on, so I initially tried to click on the user name of the person,
+
+40
+00:02:08,600 --> 00:02:11,600
+it doesn't work, so I've pressed the pay button instead.
+
+41
+00:02:11,600 --> 00:02:14,600
+And now I've got all my list of things I need to pay, which is great.
+
+42
+00:02:14,600 --> 00:02:17,600
+So I'm going to pay rent, and then I'll press the pay button.
+
+43
+00:02:17,600 --> 00:02:19,600
+It's less than big, which is cool.
+
+44
+00:02:19,600 --> 00:02:21,600
+I don't know if I should look for it.
+
+45
+00:02:21,600 --> 00:02:25,600
+Okay, it seems like the app wants me to go with the power one, which is fine.
+
+46
+00:02:26,520 --> 00:02:27,520
+Oh, it's green.
+
+47
+00:02:27,520 --> 00:02:28,520
+It's cute.
+
+48
+00:02:28,520 --> 00:02:29,520
+Pay for power.
+
+49
+00:02:29,520 --> 00:02:30,520
+Yes.
+
+50
+00:02:30,520 --> 00:02:31,520
+I would love to do that.
+
+51
+00:02:31,520 --> 00:02:32,520
+Sweet.
+
+52
+00:02:32,520 --> 00:02:33,520
+It looks like it's been paid.
+
+53
+00:02:33,520 --> 00:02:38,520
+Now, I'm just going to see if I can confirm it.
+
+54
+00:02:38,520 --> 00:02:39,520
+Or if I can leave the screen.
+
+55
+00:02:39,520 --> 00:02:40,520
+That would also be fine.
+
+56
+00:02:40,520 --> 00:02:42,520
+I don't know if I'm allowed to do that.
+
+57
+00:02:42,520 --> 00:02:44,520
+Oh, I'm lost to my inside.
+
+58
+00:02:44,520 --> 00:02:45,520
+That's fun.
+
+59
+00:02:45,520 --> 00:02:48,520
+Can I go home from there?
+
+60
+00:02:48,520 --> 00:02:49,520
+No.
+
+61
+00:02:49,520 --> 00:02:50,520
+Cool.
+
+62
+00:02:50,520 --> 00:02:52,520
+I'm kind of stuck in this domain, I think.
+
+63
+00:02:52,520 --> 00:02:53,520
+Okay, cool.
+
+64
+00:02:53,520 --> 00:02:54,520
+So you've removed the...
+
+65
+00:02:54,520 --> 00:02:55,520
+Oh, there I go.
+
+66
+00:02:56,440 --> 00:02:57,440
+Sweet.
+
+67
+00:02:57,440 --> 00:03:00,440
+So you removed it, and then you were stuck on what screen?
+
+68
+00:03:00,440 --> 00:03:01,440
+Sorry?
+
+69
+00:03:01,440 --> 00:03:04,440
+I was stuck on the pay screen, so this screen.
+
+70
+00:03:04,440 --> 00:03:05,440
+Right.
+
+71
+00:03:05,440 --> 00:03:08,440
+Because I think for this, because the colours are kind of darker, I assumed it was blurred
+
+72
+00:03:08,440 --> 00:03:11,440
+out or in the background, so I didn't realise I could actually still interact with this
+
+73
+00:03:11,440 --> 00:03:12,440
+screen.
+
+74
+00:03:12,440 --> 00:03:13,440
+Okay.
+
+75
+00:03:13,440 --> 00:03:14,440
+That makes sense.
+
+76
+00:03:14,440 --> 00:03:15,440
+I think I would have been looking for a back button or something.
+
+77
+00:03:15,440 --> 00:03:16,440
+Yeah.
+
+78
+00:03:16,440 --> 00:03:17,440
+That makes sense.
+
+79
+00:03:17,440 --> 00:03:18,440
+Awesome.
+
+80
+00:03:18,440 --> 00:03:19,440
+Cool.
+
+81
+00:03:19,440 --> 00:03:20,440
+And if you just go back to the dashboard.
+
+82
+00:03:20,440 --> 00:03:21,440
+Awesome.
+
+83
+00:03:21,440 --> 00:03:22,440
+Cool.
+
+84
+00:03:23,360 --> 00:03:29,360
+I'm going to go back to past expenses from the previous week and find out who paid for
+
+85
+00:03:29,360 --> 00:03:30,360
+one of them.
+
+86
+00:03:30,360 --> 00:03:31,360
+Okay.
+
+87
+00:03:31,360 --> 00:03:32,360
+So I'm thinking about past expenses.
+
+88
+00:03:32,360 --> 00:03:33,360
+The first thing I look at is an expenses tab.
+
+89
+00:03:33,360 --> 00:03:34,360
+I'm going to go to that.
+
+90
+00:03:34,360 --> 00:03:35,360
+I'm looking at the past week.
+
+91
+00:03:35,360 --> 00:03:36,360
+That probably includes today as well.
+
+92
+00:03:36,360 --> 00:03:37,360
+So there's all these three.
+
+93
+00:03:37,360 --> 00:03:38,360
+Back to expenses?
+
+94
+00:03:38,360 --> 00:03:39,360
+Yeah.
+
+95
+00:03:39,360 --> 00:03:40,360
+Past week, played the garbage.
+
+96
+00:03:40,360 --> 00:03:41,360
+Paid for some food.
+
+97
+00:03:41,360 --> 00:03:42,360
+Paid for some rent.
+
+98
+00:03:42,360 --> 00:03:43,360
+Is there anything else?
+
+99
+00:03:43,360 --> 00:03:44,360
+No.
+
+100
+00:03:44,360 --> 00:03:45,360
+That's all.
+
+101
+00:03:45,360 --> 00:03:46,360
+Cool.
+
+102
+00:03:46,360 --> 00:04:03,120
+And task four is validate the insights feature for the rent category and ensure that you
+
+103
+00:04:03,120 --> 00:04:05,040
+can see the data for it.
+
+104
+00:04:05,040 --> 00:04:10,360
+So you're just viewing the rent category insights, specifically for rent.
+
+105
+00:04:10,360 --> 00:04:11,360
+Okay.
+
+106
+00:04:12,360 --> 00:04:13,360
+Oh, insights.
+
+107
+00:04:13,360 --> 00:04:14,360
+All right.
+
+108
+00:04:14,360 --> 00:04:15,360
+So insights being the bottom here.
+
+109
+00:04:15,360 --> 00:04:16,360
+All right.
+
+110
+00:04:16,360 --> 00:04:17,360
+And I want to look at the rent category.
+
+111
+00:04:17,360 --> 00:04:18,360
+So I'm going to click on rent.
+
+112
+00:04:18,360 --> 00:04:19,360
+See what happens.
+
+113
+00:04:19,360 --> 00:04:20,360
+Oh, I see it.
+
+114
+00:04:20,360 --> 00:04:24,360
+I see today I paid 50.
+
+115
+00:04:24,360 --> 00:04:27,360
+If I press on monthly, I pay 50 every week.
+
+116
+00:04:27,360 --> 00:04:29,360
+Which makes a lot of sense.
+
+117
+00:04:29,360 --> 00:04:31,360
+That's how rent works.
+
+118
+00:04:31,360 --> 00:04:32,360
+Sweet.
+
+119
+00:04:32,360 --> 00:04:33,360
+Sweet.
+
+120
+00:04:33,360 --> 00:04:34,360
+Awesome.
+
+121
+00:04:34,360 --> 00:04:38,360
+Task five, test the customization options for the display and accessibility.
+
+122
+00:04:38,360 --> 00:04:39,360
+Okay.
+
+123
+00:04:39,360 --> 00:04:40,360
+Yeah.
+
+124
+00:04:40,360 --> 00:04:43,360
+So if I'm thinking about accessibility, I'm always going to go here.
+
+125
+00:04:43,360 --> 00:04:44,360
+I see settings.
+
+126
+00:04:44,360 --> 00:04:45,360
+That's good.
+
+127
+00:04:45,360 --> 00:04:46,360
+Display settings.
+
+128
+00:04:46,360 --> 00:04:51,360
+It probably would be in display settings, I would guess.
+
+129
+00:04:51,360 --> 00:04:52,360
+Oh, yeah.
+
+130
+00:04:52,360 --> 00:04:53,360
+Accessibility.
+
+131
+00:04:53,360 --> 00:04:54,360
+High contrast and colorblind friendly.
+
+132
+00:04:54,360 --> 00:04:55,360
+Let me try high contrast.
+
+133
+00:04:55,360 --> 00:04:56,360
+Nice.
+
+134
+00:04:56,360 --> 00:04:57,360
+Dark mode.
+
+135
+00:04:57,360 --> 00:04:58,360
+I like it.
+
+136
+00:04:58,360 --> 00:04:59,360
+Colorblind friendly.
+
+137
+00:04:59,360 --> 00:05:00,360
+Oh, yeah.
+
+138
+00:05:00,360 --> 00:05:02,360
+So it's all the same color.
+
+139
+00:05:02,360 --> 00:05:04,360
+Or it's the same color scheme.
+
+140
+00:05:04,360 --> 00:05:06,360
+So there's people with color.
+
+141
+00:05:06,360 --> 00:05:07,360
+Cool.
+
+142
+00:05:07,360 --> 00:05:08,360
+Is there anything else?
+
+143
+00:05:08,360 --> 00:05:09,360
+Cool.
+
+144
+00:05:09,360 --> 00:05:10,360
+Just test the light dark mode.
+
+145
+00:05:10,360 --> 00:05:11,360
+Make sure that works.
+
+146
+00:05:11,360 --> 00:05:12,360
+Yeah.
+
+147
+00:05:12,360 --> 00:05:14,360
+Dark mode seems to work.
+
+148
+00:05:14,360 --> 00:05:15,360
+Follow system.
+
+149
+00:05:15,360 --> 00:05:16,360
+Cool.
+
+150
+00:05:16,360 --> 00:05:17,360
+Easy.
+
+151
+00:05:17,360 --> 00:05:18,360
+Cool.
+
+152
+00:05:18,360 --> 00:05:19,360
+And if you just go back to default.
+
+153
+00:05:19,360 --> 00:05:20,360
+That's okay.
+
+154
+00:05:20,360 --> 00:05:21,360
+Just on the display settings.
+
+155
+00:05:21,360 --> 00:05:22,360
+Sorry.
+
+156
+00:05:22,360 --> 00:05:23,360
+Higher.
+
+157
+00:05:23,360 --> 00:05:24,360
+Yeah.
+
+158
+00:05:24,360 --> 00:05:25,360
+That's all good.
+
+159
+00:05:25,360 --> 00:05:26,360
+Sweet.
+
+160
+00:05:26,360 --> 00:05:27,360
+Cool.
+
+161
+00:05:27,360 --> 00:05:30,360
+And just go back to the dashboard.
+
+162
+00:05:30,360 --> 00:05:31,360
+Perfect.
+
+163
+00:05:31,360 --> 00:05:32,360
+Cool.
+
+164
+00:05:32,360 --> 00:05:37,360
+Task six, test the help and support functionality.
+
+165
+00:05:37,360 --> 00:05:41,360
+So first go to the frequently answered questions and look at that.
+
+166
+00:05:41,360 --> 00:05:44,360
+And then try and submit a help request.
+
+167
+00:05:44,360 --> 00:05:45,360
+Okay.
+
+168
+00:05:45,360 --> 00:05:47,360
+I'm going to go to this menu again.
+
+169
+00:05:47,360 --> 00:05:50,360
+It's kind of always my default if I think about settings and stuff.
+
+170
+00:05:50,360 --> 00:05:52,360
+Help and support's right there.
+
+171
+00:05:52,360 --> 00:05:53,360
+So I'm going to go there.
+
+172
+00:05:53,360 --> 00:05:54,360
+I'm not allowed to click on it.
+
+173
+00:05:54,360 --> 00:05:55,360
+Cool.
+
+174
+00:05:55,360 --> 00:05:56,360
+Okay.
+
+175
+00:05:56,360 --> 00:06:00,360
+If we could continue by just go to app settings.
+
+176
+00:06:00,360 --> 00:06:01,360
+Oh, I see.
+
+177
+00:06:01,360 --> 00:06:02,360
+Okay.
+
+178
+00:06:02,360 --> 00:06:03,360
+Help and support.
+
+179
+00:06:03,360 --> 00:06:04,360
+Okay.
+
+180
+00:06:05,360 --> 00:06:09,360
+So I want to look at frequently asked questions first.
+
+181
+00:06:09,360 --> 00:06:11,360
+The purpose of it.
+
+182
+00:06:11,360 --> 00:06:12,360
+Just that one.
+
+183
+00:06:12,360 --> 00:06:13,360
+That's all good.
+
+184
+00:06:13,360 --> 00:06:16,360
+And then I want to submit a help request.
+
+185
+00:06:16,360 --> 00:06:18,360
+Contact support.
+
+186
+00:06:18,360 --> 00:06:20,360
+And just input there.
+
+187
+00:06:20,360 --> 00:06:21,360
+Do an email.
+
+188
+00:06:21,360 --> 00:06:25,360
+And my deep concern.
+
+189
+00:06:25,360 --> 00:06:26,360
+And I can send it.
+
+190
+00:06:26,360 --> 00:06:27,360
+Nice.
+
+191
+00:06:27,360 --> 00:06:28,360
+Okay, cool.
+
+192
+00:06:28,360 --> 00:06:29,360
+Awesome.
+
+193
+00:06:29,360 --> 00:06:33,360
+And any general thoughts on any of the tasks?
+
+194
+00:06:33,360 --> 00:06:35,360
+I thought they were pretty good.
+
+195
+00:06:35,360 --> 00:06:39,360
+I'm pretty impressed with what you actually put together and the time we were given.
+
+196
+00:06:39,360 --> 00:06:44,360
+I like the separation of who you have to pay and your upcoming payments.
+
+197
+00:06:44,360 --> 00:06:47,360
+I do think it's a lot for one app to do.
+
+198
+00:06:47,360 --> 00:06:50,360
+I think more often apps would work for either one thing or the other.
+
+199
+00:06:50,360 --> 00:06:53,360
+So I think it could be a little confusing to have so much functionality in one thing.
+
+200
+00:06:53,360 --> 00:06:57,360
+But if you were an experienced user and you figured out how to use it, it would be awesome.
+
+201
+00:06:57,360 --> 00:06:58,360
+Cool.
+
+202
+00:06:58,360 --> 00:07:03,360
+And any big difficulties with any of the tasks?
+
+203
+00:07:03,360 --> 00:07:04,360
+I don't think so.
+
+204
+00:07:04,360 --> 00:07:06,360
+I think probably the main thing would just be with the help thing, not being able to
+
+205
+00:07:06,360 --> 00:07:07,360
+access it there.
+
+206
+00:07:07,360 --> 00:07:10,360
+But I assume if it was a real prototype, that wouldn't be an issue.
+
+207
+00:07:10,360 --> 00:07:11,360
+Cool.
+
+208
+00:07:11,360 --> 00:07:12,360
+Awesome.
+
+209
+00:07:12,360 --> 00:07:13,360
+Sweet.
+
+210
+00:07:13,360 --> 00:07:14,360
+And that's it for now.
+
+211
+00:07:14,360 --> 00:07:15,360
+Awesome.
+
+212
+00:07:15,360 --> 00:07:16,360
+Thank you so much.
+
+213
+00:07:16,360 --> 00:07:17,360
+Thank you.
+
+214
+00:07:17,360 --> 00:07:18,360
+Hell yeah.
+
+215
+00:07:18,360 --> 00:07:18,860
+Thank you.
+

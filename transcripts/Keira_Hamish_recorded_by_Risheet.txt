@@ -1,0 +1,215 @@
+Cool, okay, task one, could you verify the functionality of adding a new recurring expense
+and splitting it amongst all of the household members?
+Make sure you speak out loud.
+Okay, so, is it add expense button at the bottom right, so I'm just going to go with
+that.
+I'm just going to add a name, it seems like it's compulsory, so I'm just going to fill
+out the rest of the things we're all with.
+I can't type it, but it's, does that fill something in for me, which it works, because
+I don't want to type anyway.
+I'm going to select rent, because it said it was rent, and I'll enter an amount.
+I can't enter an amount?
+Oh, it gave me an amount, fantastic.
+That's really expensive.
+I'm glad my rent isn't that much.
+Alright, let me add a date.
+I think it will add one for me again.
+Yep, it did, fantastic.
+And I want to make it recurring, so I'm going to select a value, and rent, for that much
+rent, you should be paying it every month, so I'm going to go monthly, and I want to
+split it equally with all flatmates, right?
+So I'll select everybody, me, Alex, and Sam.
+I'll add a description, I guess I'll let it add it for me, right for the three of us,
+love it.
+I'll press the create button at the bottom.
+I'm just not letting it press it.
+Okay.
+It's not letting it press it.
+Yeah, I believe that might be an issue with the app, so we can just continue from there.
+That's all good.
+Make note of that.
+Cool, okay, task two.
+Could you ensure the functionality of paying an existing expense, and verify that it's
+removed?
+Okay.
+So, you're wanting to pay an amount that you're owing to somebody.
+Okay.
+So, I've got my upcoming, so I don't think I'm talking about that.
+I think I'm going to pay someone who I owe money to, so I'll try pay Alex for rent,
+not, I'm trying to click on, so I initially tried to click on the user name of the person,
+it doesn't work, so I've pressed the pay button instead.
+And now I've got all my list of things I need to pay, which is great.
+So I'm going to pay rent, and then I'll press the pay button.
+It's less than big, which is cool.
+I don't know if I should look for it.
+Okay, it seems like the app wants me to go with the power one, which is fine.
+Oh, it's green.
+It's cute.
+Pay for power.
+Yes.
+I would love to do that.
+Sweet.
+It looks like it's been paid.
+Now, I'm just going to see if I can confirm it.
+Or if I can leave the screen.
+That would also be fine.
+I don't know if I'm allowed to do that.
+Oh, I'm lost to my inside.
+That's fun.
+Can I go home from there?
+No.
+Cool.
+I'm kind of stuck in this domain, I think.
+Okay, cool.
+So you've removed the...
+Oh, there I go.
+Sweet.
+So you removed it, and then you were stuck on what screen?
+Sorry?
+I was stuck on the pay screen, so this screen.
+Right.
+Because I think for this, because the colours are kind of darker, I assumed it was blurred
+out or in the background, so I didn't realise I could actually still interact with this
+screen.
+Okay.
+That makes sense.
+I think I would have been looking for a back button or something.
+Yeah.
+That makes sense.
+Awesome.
+Cool.
+And if you just go back to the dashboard.
+Awesome.
+Cool.
+I'm going to go back to past expenses from the previous week and find out who paid for
+one of them.
+Okay.
+So I'm thinking about past expenses.
+The first thing I look at is an expenses tab.
+I'm going to go to that.
+I'm looking at the past week.
+That probably includes today as well.
+So there's all these three.
+Back to expenses?
+Yeah.
+Past week, played the garbage.
+Paid for some food.
+Paid for some rent.
+Is there anything else?
+No.
+That's all.
+Cool.
+And task four is validate the insights feature for the rent category and ensure that you
+can see the data for it.
+So you're just viewing the rent category insights, specifically for rent.
+Okay.
+Oh, insights.
+All right.
+So insights being the bottom here.
+All right.
+And I want to look at the rent category.
+So I'm going to click on rent.
+See what happens.
+Oh, I see it.
+I see today I paid 50.
+If I press on monthly, I pay 50 every week.
+Which makes a lot of sense.
+That's how rent works.
+Sweet.
+Sweet.
+Awesome.
+Task five, test the customization options for the display and accessibility.
+Okay.
+Yeah.
+So if I'm thinking about accessibility, I'm always going to go here.
+I see settings.
+That's good.
+Display settings.
+It probably would be in display settings, I would guess.
+Oh, yeah.
+Accessibility.
+High contrast and colorblind friendly.
+Let me try high contrast.
+Nice.
+Dark mode.
+I like it.
+Colorblind friendly.
+Oh, yeah.
+So it's all the same color.
+Or it's the same color scheme.
+So there's people with color.
+Cool.
+Is there anything else?
+Cool.
+Just test the light dark mode.
+Make sure that works.
+Yeah.
+Dark mode seems to work.
+Follow system.
+Cool.
+Easy.
+Cool.
+And if you just go back to default.
+That's okay.
+Just on the display settings.
+Sorry.
+Higher.
+Yeah.
+That's all good.
+Sweet.
+Cool.
+And just go back to the dashboard.
+Perfect.
+Cool.
+Task six, test the help and support functionality.
+So first go to the frequently answered questions and look at that.
+And then try and submit a help request.
+Okay.
+I'm going to go to this menu again.
+It's kind of always my default if I think about settings and stuff.
+Help and support's right there.
+So I'm going to go there.
+I'm not allowed to click on it.
+Cool.
+Okay.
+If we could continue by just go to app settings.
+Oh, I see.
+Okay.
+Help and support.
+Okay.
+So I want to look at frequently asked questions first.
+The purpose of it.
+Just that one.
+That's all good.
+And then I want to submit a help request.
+Contact support.
+And just input there.
+Do an email.
+And my deep concern.
+And I can send it.
+Nice.
+Okay, cool.
+Awesome.
+And any general thoughts on any of the tasks?
+I thought they were pretty good.
+I'm pretty impressed with what you actually put together and the time we were given.
+I like the separation of who you have to pay and your upcoming payments.
+I do think it's a lot for one app to do.
+I think more often apps would work for either one thing or the other.
+So I think it could be a little confusing to have so much functionality in one thing.
+But if you were an experienced user and you figured out how to use it, it would be awesome.
+Cool.
+And any big difficulties with any of the tasks?
+I don't think so.
+I think probably the main thing would just be with the help thing, not being able to
+access it there.
+But I assume if it was a real prototype, that wouldn't be an issue.
+Cool.
+Awesome.
+Sweet.
+And that's it for now.
+Awesome.
+Thank you so much.
+Thank you.
+Hell yeah.
+Thank you.

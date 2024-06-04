@@ -1,0 +1,31 @@
+so I hope that all hear us so the whole point will give you the app I'll give
+you around six to five tasks and then try to navigate as best as you can you
+know this whole point the whole point of this thing is just to I guess just to
+improve okay okay starting the first task first task is verify the
+functionality of adding new recurring expenses and splitting it among
+household members so the the details I want you to enter it's kind of already
+fixed but the expense name is rent category is rent amount is 1,200 date is
+the 31st 3 5 slash 0 5 24 we want to repeat it weekly and then split it with
+three household members yeah that should just be that's that should be it
+actually and then going to the second task ensure the functionality of paying
+an existing tasks and verify it's removal from the list so what was your
+trouble beforehand sorry all right yeah that's yeah it's more of a figma thing I
+guess yep is it removed go perfect that's past three I'll say that's that's
+two sir so that's three is a go back to the homepage please confirm the ability
+of the ability to view past expenses and verify payment history yep and then
+you want to navigate yes that should be it yeah that's good that's very fairly
+intuitive go go back to the home page please task for validate the insights
+features for the rent category and ensure accurate data visualization
+visualization visualization okay yeah that's fairly good if you go back please
+go back to the homepage okay that's five test the customization option for
+display and X ability to ensure you suitability for all users so that
+basically means try to change the colors of the app
+can you try to put it back to the original color scheme and then test the
+help and support functionality ensuring users can find information and contact
+support if needed test the help and support functionalities ensuring users
+can find information and contact support if needed
+yes so you're supposed to navigate the settings right not that yet you are in
+the right page to try to find information and contact support yeah if
+you can try to input something yeah that should be everything actually oh thank
+you you have any I guess final remarks would be expense thank you thank you
+perfect thank you thank you for your time and that should be it

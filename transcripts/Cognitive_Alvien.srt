@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:07,740
+so I hope that all hear us so the whole point will give you the app I'll give
+
+2
+00:00:07,740 --> 00:00:13,800
+you around six to five tasks and then try to navigate as best as you can you
+
+3
+00:00:13,800 --> 00:00:20,340
+know this whole point the whole point of this thing is just to I guess just to
+
+4
+00:00:20,340 --> 00:00:27,700
+improve okay okay starting the first task first task is verify the
+
+5
+00:00:27,700 --> 00:00:32,140
+functionality of adding new recurring expenses and splitting it among
+
+6
+00:00:32,140 --> 00:00:41,080
+household members so the the details I want you to enter it's kind of already
+
+7
+00:00:41,080 --> 00:00:47,980
+fixed but the expense name is rent category is rent amount is 1,200 date is
+
+8
+00:00:47,980 --> 00:00:57,100
+the 31st 3 5 slash 0 5 24 we want to repeat it weekly and then split it with
+
+9
+00:00:57,100 --> 00:01:15,220
+three household members yeah that should just be that's that should be it
+
+10
+00:01:15,220 --> 00:01:19,820
+actually and then going to the second task ensure the functionality of paying
+
+11
+00:01:19,820 --> 00:01:47,140
+an existing tasks and verify it's removal from the list so what was your
+
+12
+00:01:47,140 --> 00:01:58,100
+trouble beforehand sorry all right yeah that's yeah it's more of a figma thing I
+
+13
+00:01:58,100 --> 00:02:07,700
+guess yep is it removed go perfect that's past three I'll say that's that's
+
+14
+00:02:07,700 --> 00:02:13,860
+two sir so that's three is a go back to the homepage please confirm the ability
+
+15
+00:02:13,860 --> 00:02:25,300
+of the ability to view past expenses and verify payment history yep and then
+
+16
+00:02:25,300 --> 00:02:36,780
+you want to navigate yes that should be it yeah that's good that's very fairly
+
+17
+00:02:36,780 --> 00:02:43,300
+intuitive go go back to the home page please task for validate the insights
+
+18
+00:02:43,300 --> 00:02:48,220
+features for the rent category and ensure accurate data visualization
+
+19
+00:02:48,220 --> 00:02:55,980
+visualization visualization okay yeah that's fairly good if you go back please
+
+20
+00:02:55,980 --> 00:03:01,380
+go back to the homepage okay that's five test the customization option for
+
+21
+00:03:01,380 --> 00:03:06,820
+display and X ability to ensure you suitability for all users so that
+
+22
+00:03:06,820 --> 00:03:12,980
+basically means try to change the colors of the app
+
+23
+00:03:12,980 --> 00:03:42,580
+can you try to put it back to the original color scheme and then test the
+
+24
+00:03:42,580 --> 00:03:46,860
+help and support functionality ensuring users can find information and contact
+
+25
+00:03:46,860 --> 00:03:55,820
+support if needed test the help and support functionalities ensuring users
+
+26
+00:03:55,820 --> 00:04:00,540
+can find information and contact support if needed
+
+27
+00:04:19,380 --> 00:04:24,780
+yes so you're supposed to navigate the settings right not that yet you are in
+
+28
+00:04:24,780 --> 00:04:32,540
+the right page to try to find information and contact support yeah if
+
+29
+00:04:32,540 --> 00:04:46,740
+you can try to input something yeah that should be everything actually oh thank
+
+30
+00:04:46,740 --> 00:05:07,140
+you you have any I guess final remarks would be expense thank you thank you
+
+31
+00:05:07,140 --> 00:05:12,020
+perfect thank you thank you for your time and that should be it
+

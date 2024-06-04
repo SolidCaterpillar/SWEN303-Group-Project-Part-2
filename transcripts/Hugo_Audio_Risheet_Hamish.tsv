@@ -1,0 +1,252 @@
+start	end	text
+0	7000	Yeah, and we can also screen card all the phones to see where they're testing and stuff.
+7000	9000	Fuck, that's not a bad idea.
+9000	11000	Are you guys just doing it on your laptop?
+11000	13000	I don't know, yeah, that was our plan.
+13000	15000	I mean, you can just download the Figma app.
+15000	18000	Just download the Figma app, as long as you have the flows.
+18000	20000	Screen recording's good.
+20000	22000	It doesn't really matter too much for usability.
+22000	24000	You have to record that.
+24000	27000	For the testing, you can see how long it takes for each one.
+27000	29000	I suppose you can record on the laptop as well.
+29000	32000	Yeah, I'm not using my laptop, I'm using my phone.
+32000	34000	Oh, yeah, you can use that.
+34000	37000	So, officially we're going to start now.
+37000	41000	So, welcome to this testing, I guess.
+41000	46000	We're going to be testing our prototype, which is for a Flatmates Expense app.
+46000	47000	Really?
+47000	48000	Yeah, it is.
+48000	52000	So, just go through the app.
+52000	57000	I'm going to be giving you some tasks which you have to go through and try and complete them.
+57000	62000	Make sure you say what you're thinking and just go through your step, take your time.
+62000	67000	But just make sure you can tell me what you're thinking about in each step.
+67000	73000	Right, so I'm assuming you filled the consent form earlier, so that's all good.
+73000	82000	And we will be recording the voice and also your inputs, I guess, for this test for future use.
+82000	87000	But we will be leaving the data after the assignment is done, so that's all that.
+87000	90000	So, I'm just going to be setting this up.
+90000	95000	It's just going to take a minute.
+95000	98000	It's all good, just keep recording.
+98000	103000	We're just bashing you.
+103000	106000	Okay, okay, that's fine.
+106000	111000	Yeah, that's why we are here.
+111000	116000	I would go for the seat form.
+116000	120000	Yeah, I was confused for a second.
+120000	136000	And the screen recording will also record your voice and the things you answer.
+136000	140000	It's pretty cool, Figma, because that's how it looks.
+140000	145000	Okay, so I'm going to be starting the recording now, and I'm going to hand you the phone.
+145000	159000	So, this is the testing we're just going to start, and your first task will be verify the functionality of adding a new recurring expense.
+159000	164000	So, you'll be adding a new recurring expense and verifying that it has actually been added.
+164000	169000	And when adding the recurring expense, you'll be splitting it among household members.
+169000	178000	Okay, so I'm clicking add expense, because that's like the standard Google thing.
+178000	181000	I'm just making this up, right?
+181000	183000	Read.
+183000	187000	Category.
+187000	189000	What did you say it was again?
+189000	196000	Just any expense.
+196000	201000	1,200? I don't think any of ours work in that way either.
+201000	204000	There we go, there's our date done.
+204000	207000	And repeat. Did you say how often?
+207000	209000	It doesn't say how often, but just choose your favorite.
+209000	214000	Every week. I'm going to split it with Sam and Alex and me.
+214000	216000	My description.
+216000	219000	Whatever it says for me.
+219000	221000	I'm going to click create.
+221000	223000	Sweet.
+223000	225000	And then I'm done.
+225000	232000	I'm going to go into expenses and look at future expenses.
+232000	236000	And then, I can't remember what I even set it to.
+236000	239000	Just verify it's been added, I guess.
+239000	241000	What was it? 1,200 or something.
+241000	243000	I assume it would be there.
+243000	246000	Okay, that's fine.
+246000	253000	That's the first task which is done, so let's just go back to the homepage.
+253000	266000	The next task is to ensure the functionality of paying an existing expense and removing it from the list.
+266000	277000	Basically, there's going to be an existing expense which you already paid, but you're going to be paying up the expense to another person.
+277000	280000	Just making sure it's already been done.
+280000	282000	What would you be doing in this case?
+283000	288000	I assume these are my most recent expenses, so I'll go pay up.
+288000	291000	Then I'll pay Alex back for his rent.
+291000	292000	Okay.
+292000	294000	I'll click pay.
+294000	298000	What is it? Just the bottom one that works. Pay.
+298000	300000	Then I'm paying for power.
+300000	302000	Yep.
+302000	304000	And then what was the last bit?
+304000	306000	Just make sure it's been removed.
+306000	307000	It's been removed?
+307000	308000	Yep.
+308000	310000	Well, I'd just look in there.
+311000	314000	Okay, that's nice.
+314000	318000	Then go back to the homepage.
+318000	326000	Your third task is just view the past expenses and verify the payment history.
+326000	328000	How would you be doing that?
+328000	330000	Go expenses.
+330000	332000	Yep.
+332000	335000	Then verify payment history.
+335000	337000	Just verifying payment.
+337000	339000	Just looking through.
+340000	345000	Let's say you want to locate the expense for the garbage from the previous week.
+345000	346000	Yep.
+346000	348000	So how would you be doing that?
+348000	351000	I'd look through. I'd go into the past week section.
+351000	353000	Then look and open it.
+353000	356000	There we go. That's all our garbage info.
+357000	358000	Yeah.
+358000	360000	Nice. Okay.
+360000	363000	Now let's go back to the homepage again.
+363000	365000	Going to the fourth task.
+365000	371000	The fourth task is just look at the insights feature for the rent category.
+371000	375000	Is this still going to keep on recording while that's calling?
+375000	378000	I don't know if it's going to keep on recording or not.
+380000	382000	Sorry about that.
+382000	387000	The fourth task is just looking at the insights for the rent category
+387000	394000	and just making sure you can see a visual representation for the rent category.
+394000	397000	Okay, so I'm going to go to insights at the bottom.
+397000	399000	And then there's rent. That's the amount.
+399000	404000	And then at the top there's what percentage of it it is.
+404000	410000	And what if you want to go specifically and view the insights for rent itself?
+410000	412000	Can I just click on it?
+412000	413000	There we go.
+413000	417000	That's our week's rent or our month's rent.
+418000	421000	That's nice. Okay.
+421000	426000	And task five is just test the customizability.
+426000	432000	So test display accessibility features.
+432000	434000	So how would you be doing that?
+434000	438000	I'm going to click up here where I'm going to find, hopefully, settings or something.
+438000	439000	Yeah.
+439000	445000	Go in there, then app settings, then display settings.
+446000	448000	Then display settings.
+448000	451000	I'm going to change it to dark mode if that works.
+451000	452000	Okay.
+452000	454000	You actually coded that, don't you?
+454000	458000	So you can look at other features as well in the display settings.
+460000	465000	We've got contact, FAQs, managing categories.
+465000	468000	I'm not sure what week start day does.
+468000	469000	That's fine.
+469000	472000	Okay, so let's go back to the homepage again.
+473000	474000	Genuine hope, sorry.
+474000	476000	Yeah, yeah.
+478000	480000	I believe it was light mode.
+480000	481000	Yeah.
+481000	482000	Right.
+482000	489000	So now your sixth task, which I believe it's the last task, it's test the help and support functionalities.
+489000	492000	So imagine you require some help with the app.
+492000	494000	You want to look for some help within the app.
+494000	496000	So what would you be doing in that case?
+496000	500000	I'm going to go to the hamburger bar again.
+500000	501000	Yeah.
+501000	502000	What do you actually call that?
+502000	503000	I think it's a hamburger.
+503000	504000	Yeah, it is.
+504000	505000	It is called a hamburger.
+505000	509000	Okay, I'm going to go help and support.
+509000	511000	No, I'm going to go app settings.
+511000	512000	Okay.
+512000	515000	But we're going to assume that it did just take you there.
+515000	517000	So I assume that just wasn't coded in.
+517000	518000	Absolutely.
+518000	519000	Yeah.
+519000	523000	Then I'm going to look at the frequently asked questions.
+523000	525000	And then here's some of my answers.
+525000	527000	I don't know what I'm looking for, but I found it.
+527000	528000	That's nice.
+528000	531000	Or I'm going to contact support and send them an email.
+531000	533000	How would you send them the email?
+533000	536000	I'm going to put in my first name, Cassie.
+536000	537000	That's me.
+537000	539000	My email and my message.
+539000	543000	There we go.
+543000	544000	Sweet.
+544000	545000	Right.
+545000	547000	They'll get in contact with me.
+547000	548000	Right.
+548000	551000	So those were all the six tasks.
+551000	553000	I hope you remember how to go back to the homepage.
+553000	554000	Yeah.
+554000	555000	Yeah.
+555000	556000	Okay.
+556000	557000	Okay, that's fine.
+557000	558000	That's fine.
+558000	559000	Yeah.
+559000	560000	So how was your experience?
+560000	564000	Were there any sort of pain points or points you got confused?
+564000	567000	I mean, there's a couple of buttons that sort of just don't work.
+567000	570000	Can you remember which ones they were?
+570000	571000	Like, like there.
+571000	572000	Help and support.
+572000	573000	Yeah.
+573000	574000	Help and support.
+574000	575000	That doesn't do anything.
+575000	576000	Yeah.
+576000	580000	When you're, or some of the other ones.
+580000	582000	I've now just forgotten them all.
+582000	586000	Oh, it's just a little bit funky how like when you're putting in text it just auto fills
+586000	590000	it, but it's more of a like, like prototype type of thing.
+590000	591000	Yeah.
+591000	593000	It just doesn't have that functionality there.
+593000	594000	Yeah.
+594000	599000	Which one of the tasks do you think was the most like easiest, easiest to do?
+599000	601000	Like intuitive to do?
+601000	602000	Probably adding an expense.
+602000	603000	Adding expense.
+603000	604000	It's just right there.
+604000	609000	And which one of them was more difficult to kind of understand and do?
+609000	613000	Probably pay up because I could have gone in here.
+613000	615000	Like I never even went into the screen.
+615000	621000	I just did it on the home screen, but I'm guessing that the functionality is essentially
+621000	622000	the same.
+622000	623000	You can do it if you want.
+623000	624000	Yeah.
+624000	626000	I can just click pay and then pay for power.
+626000	627000	Yeah.
+627000	632000	So it's sort of the exact same, but in a way it's good that there's multiple ways to do
+632000	633000	it.
+633000	634000	That is one of the heuristics.
+634000	635000	That's nice.
+635000	638000	And then like, yeah, in this power screen, like only the bottom.
+638000	639000	Yeah.
+639000	641000	Only the bottom one actually works.
+641000	642000	Yeah.
+642000	648000	Do you have any sort of like visual details or like anything you didn't quite like?
+648000	651000	Regarding like the appearance or the colors used?
+651000	653000	The colors are fine.
+653000	657000	It's good to have like the, what should we call it?
+657000	659000	Like all the display settings and stuff.
+659000	660000	Yeah.
+660000	661000	Damn.
+661000	663000	I'm surprised you coded those.
+663000	667000	I only did one of mine.
+668000	674000	But yeah, so you can change the colors for like accessibility and all that.
+674000	675000	Yeah.
+675000	676000	That's nice.
+676000	677000	Okay.
+677000	678000	Yeah.
+678000	680000	So overall thoughts?
+680000	682000	It's pretty decent.
+682000	683000	Right.
+683000	684000	Yeah.
+684000	687000	Especially for a prototype, like obviously some things would have to be like kind of
+687000	691000	polished, but like that's sort of not what you're looking for, is it?
+691000	696000	It's just, it does everything you need to.
+697000	705000	The only thing that it's obviously missing is, yeah, just like an easy way to add like
+705000	711000	flatmates and stuff in, but that's more of a like setup type of thing than a day to day
+711000	712000	thing.
+712000	715000	Like we're kind of assuming this is already, you've been using it for a while, right?
+715000	716000	Yeah.
+716000	717000	That makes sense.
+717000	718000	Yes.
+718000	722000	But you've got the setting there, so it's not like it's hard to find or anything.
+722000	723000	Okay.
+723000	725000	That makes it nice.
+725000	726000	Yeah.
+726000	727000	I don't know.
+727000	728000	Right.
+728000	729000	Thank you for that.
+729000	735000	Thank you for giving us your time and to test our prototype.
+735000	736000	Thanks.
+736000	739000	Thanks for joining us and hope you have a nice day.
+739000	740000	Yeah.
+740000	744000	Not like you won't be getting big in five minutes time.
+744000	746000	Doing the exact same thing.
+746000	748000	That's exactly ten minutes.

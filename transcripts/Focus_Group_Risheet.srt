@@ -1,0 +1,880 @@
+1
+00:00:00,000 --> 00:00:01,000
+We're all ready?
+
+2
+00:00:01,000 --> 00:00:01,500
+Yep.
+
+3
+00:00:01,500 --> 00:00:02,000
+Easy.
+
+4
+00:00:02,000 --> 00:00:02,500
+You guys are all good?
+
+5
+00:00:02,500 --> 00:00:03,000
+Yep.
+
+6
+00:00:03,000 --> 00:00:03,500
+Sweet as.
+
+7
+00:00:03,500 --> 00:00:05,000
+You have more to learn, by the way.
+
+8
+00:00:05,000 --> 00:00:05,500
+OK, yeah.
+
+9
+00:00:05,500 --> 00:00:08,000
+So just wondering, what were your first impressions
+
+10
+00:00:08,000 --> 00:00:10,000
+using the app?
+
+11
+00:00:10,000 --> 00:00:12,000
+I thought it was really intuitive.
+
+12
+00:00:12,000 --> 00:00:14,000
+It wasn't hard to find the different screens
+
+13
+00:00:14,000 --> 00:00:17,000
+that we need to navigate to or do the different ones.
+
+14
+00:00:17,000 --> 00:00:20,500
+I really like the icons that are at the bottom,
+
+15
+00:00:20,500 --> 00:00:22,500
+even across the entire page as well,
+
+16
+00:00:22,500 --> 00:00:25,000
+telling you what each thing does.
+
+17
+00:00:25,000 --> 00:00:28,000
+So it's pretty like, even if you don't read it, it's fine.
+
+18
+00:00:28,000 --> 00:00:29,500
+You can still understand what's going on.
+
+19
+00:00:29,500 --> 00:00:31,000
+OK, sweet.
+
+20
+00:00:31,000 --> 00:00:34,000
+I think the only really big issue I had with this
+
+21
+00:00:34,000 --> 00:00:36,500
+was the bottom part, the colors used.
+
+22
+00:00:36,500 --> 00:00:40,000
+I think that the green at the bottom is a bit too dark,
+
+23
+00:00:40,000 --> 00:00:42,000
+because it doesn't contrast that well with the black.
+
+24
+00:00:42,000 --> 00:00:44,000
+So it can be a little hard to read the text,
+
+25
+00:00:44,000 --> 00:00:46,000
+especially if you didn't have good vision.
+
+26
+00:00:46,000 --> 00:00:46,500
+I see.
+
+27
+00:00:46,500 --> 00:00:48,500
+So the bottom part kind of had an issue,
+
+28
+00:00:48,500 --> 00:00:50,000
+in terms of contrast being a thing.
+
+29
+00:00:50,000 --> 00:00:50,500
+Yeah.
+
+30
+00:00:50,500 --> 00:00:52,000
+If there was a bit of a lighter color,
+
+31
+00:00:52,000 --> 00:00:53,500
+or if it was white on the color instead,
+
+32
+00:00:53,500 --> 00:00:55,000
+I think it would have worked better.
+
+33
+00:00:55,000 --> 00:00:55,500
+OK.
+
+34
+00:00:55,500 --> 00:00:58,000
+Yeah, I guess in that sense, as you mentioned,
+
+35
+00:00:58,000 --> 00:01:00,000
+now the icons I feel like are fine for me.
+
+36
+00:01:00,000 --> 00:01:03,000
+It's just like the text at the bottom kind of got blended.
+
+37
+00:01:03,000 --> 00:01:04,500
+For me, I'm just looking at it right now,
+
+38
+00:01:04,500 --> 00:01:06,000
+because when I did do the testing,
+
+39
+00:01:06,000 --> 00:01:07,500
+I didn't even look at the work.
+
+40
+00:01:07,500 --> 00:01:12,500
+But now I'm looking at it, the text blends in.
+
+41
+00:01:12,500 --> 00:01:15,000
+So yeah, probably like a lighter bit at the bottom.
+
+42
+00:01:15,000 --> 00:01:16,000
+OK, a lighter color.
+
+43
+00:01:16,000 --> 00:01:18,500
+It kind of gives you a good vibe on how to navigate.
+
+44
+00:01:18,500 --> 00:01:19,000
+Yeah.
+
+45
+00:01:19,000 --> 00:01:21,500
+That kind of leads quite nicely into our next question,
+
+46
+00:01:21,500 --> 00:01:24,000
+which is kind of describe your experience kind of navigating
+
+47
+00:01:24,000 --> 00:01:25,500
+about these tasks.
+
+48
+00:01:25,500 --> 00:01:28,000
+Like what are kind of some difficulties you had,
+
+49
+00:01:28,000 --> 00:01:30,000
+all that sort of benefits?
+
+50
+00:01:30,000 --> 00:01:32,000
+One issue that I heard, I'm actually
+
+51
+00:01:32,000 --> 00:01:34,000
+trying to remember what the task was.
+
+52
+00:01:34,000 --> 00:01:38,000
+OK, we had to go to this one, and then help and support.
+
+53
+00:01:38,000 --> 00:01:40,000
+Oh yeah, the help and support button doesn't work.
+
+54
+00:01:40,000 --> 00:01:41,000
+Yeah, I heard that issue.
+
+55
+00:01:41,000 --> 00:01:42,500
+OK, so in the menu, help and support
+
+56
+00:01:42,500 --> 00:01:44,000
+doesn't direct you to anything?
+
+57
+00:01:44,000 --> 00:01:44,500
+Yeah.
+
+58
+00:01:44,500 --> 00:01:45,000
+Yeah.
+
+59
+00:01:45,000 --> 00:01:46,000
+OK.
+
+60
+00:01:46,000 --> 00:01:47,500
+But everything else is fine.
+
+61
+00:01:47,500 --> 00:01:49,500
+I guess for me, since I didn't actually
+
+62
+00:01:49,500 --> 00:01:51,000
+even click on the help and support,
+
+63
+00:01:51,000 --> 00:01:53,500
+because I went to contact support immediately.
+
+64
+00:01:53,500 --> 00:01:55,000
+So it worked fine for me.
+
+65
+00:01:55,000 --> 00:01:58,500
+But yeah, I guess if we could link back
+
+66
+00:01:58,500 --> 00:02:02,000
+to this particular page here, it would make more sense
+
+67
+00:02:02,000 --> 00:02:07,500
+for a user just having more freedom into the app as well.
+
+68
+00:02:07,500 --> 00:02:08,000
+OK.
+
+69
+00:02:08,000 --> 00:02:10,000
+Oh, another thing within the app as well,
+
+70
+00:02:10,000 --> 00:02:14,500
+when it went to dark mode and high contrast,
+
+71
+00:02:14,500 --> 00:02:16,500
+you can't see the text.
+
+72
+00:02:16,500 --> 00:02:17,500
+Yes, yes, yes.
+
+73
+00:02:17,500 --> 00:02:19,500
+Yeah, like Cassie disappears.
+
+74
+00:02:19,500 --> 00:02:22,500
+So you don't know whether it's been typed out.
+
+75
+00:02:22,500 --> 00:02:24,500
+Yeah, that's a good bug.
+
+76
+00:02:24,500 --> 00:02:27,000
+Yeah, so that's one of the minor issues
+
+77
+00:02:27,000 --> 00:02:30,000
+that can be fixed immediately.
+
+78
+00:02:30,000 --> 00:02:32,500
+And also, I forgot to mention this within testing,
+
+79
+00:02:32,500 --> 00:02:35,000
+but it doesn't stay to the thing.
+
+80
+00:02:35,000 --> 00:02:37,500
+So you don't know whether that's right.
+
+81
+00:02:37,500 --> 00:02:39,500
+You can kind of, if you read it, you know.
+
+82
+00:02:39,500 --> 00:02:43,500
+But if you think about it, like, oh, is that what it is?
+
+83
+00:02:43,500 --> 00:02:44,500
+Sounds good.
+
+84
+00:02:44,500 --> 00:02:46,000
+What about other kind of tasks?
+
+85
+00:02:46,000 --> 00:02:47,500
+Did you have any trouble navigating things
+
+86
+00:02:47,500 --> 00:02:49,000
+besides settings?
+
+87
+00:02:49,000 --> 00:02:50,500
+Yes.
+
+88
+00:02:50,500 --> 00:02:53,000
+I know there's a whole button up here to go back.
+
+89
+00:02:53,000 --> 00:02:56,500
+But I was looking at buttons down.
+
+90
+00:02:56,500 --> 00:02:58,000
+For me, when I use my apps, I normally
+
+91
+00:02:58,000 --> 00:02:59,500
+have buttons down here.
+
+92
+00:02:59,500 --> 00:03:02,500
+I guess it's mainly the user on the other apps as well.
+
+93
+00:03:02,500 --> 00:03:03,500
+I use TikTok a lot.
+
+94
+00:03:03,500 --> 00:03:04,500
+Yeah, yeah, yeah.
+
+95
+00:03:04,500 --> 00:03:08,500
+It has all the, yeah, so I was kind of like, oh, OK.
+
+96
+00:03:08,500 --> 00:03:11,500
+OK, cool.
+
+97
+00:03:11,500 --> 00:03:16,500
+And also, it doesn't really have a home button.
+
+98
+00:03:16,500 --> 00:03:19,500
+It goes to user.
+
+99
+00:03:19,500 --> 00:03:22,500
+You can go back, but I don't know what happened here.
+
+100
+00:03:23,000 --> 00:03:24,000
+Yeah, right.
+
+101
+00:03:24,000 --> 00:03:25,000
+OK, cool.
+
+102
+00:03:25,000 --> 00:03:27,000
+And no other tasks?
+
+103
+00:03:27,000 --> 00:03:29,500
+Yeah, what are the things you liked about the navigation
+
+104
+00:03:29,500 --> 00:03:32,500
+that you would say would be kept?
+
+105
+00:03:32,500 --> 00:03:35,500
+I think the way that information is laid out
+
+106
+00:03:35,500 --> 00:03:39,000
+is quite good, especially on the payments.
+
+107
+00:03:39,000 --> 00:03:41,500
+I like that it's separate to today, past week, et cetera.
+
+108
+00:03:41,500 --> 00:03:43,000
+So it's not just one big block of text,
+
+109
+00:03:43,000 --> 00:03:44,500
+because it can be quite overwhelming.
+
+110
+00:03:44,500 --> 00:03:46,000
+People don't look through all that.
+
+111
+00:03:46,000 --> 00:03:48,000
+So I think the information is separate as well.
+
+112
+00:03:48,000 --> 00:03:51,500
+I like how there's also, for that information,
+
+113
+00:03:52,000 --> 00:03:53,500
+if you press down, it comes up here.
+
+114
+00:03:53,500 --> 00:03:56,500
+And for a quick, extra information for a user,
+
+115
+00:03:56,500 --> 00:03:58,000
+it would be like, OK, I paid this person.
+
+116
+00:03:58,000 --> 00:03:59,000
+Perfect.
+
+117
+00:03:59,000 --> 00:04:00,500
+And I'll go into another tab.
+
+118
+00:04:00,500 --> 00:04:02,000
+Yeah, easy.
+
+119
+00:04:02,000 --> 00:04:03,000
+So yeah.
+
+120
+00:04:03,000 --> 00:04:05,000
+I also liked how it was similar to past and future
+
+121
+00:04:05,000 --> 00:04:07,000
+at the top, more than other expenses.
+
+122
+00:04:07,000 --> 00:04:08,000
+Yeah.
+
+123
+00:04:08,000 --> 00:04:08,500
+Yeah.
+
+124
+00:04:08,500 --> 00:04:10,000
+Cool.
+
+125
+00:04:10,000 --> 00:04:12,500
+I appreciate that.
+
+126
+00:04:12,500 --> 00:04:15,000
+They're all on Discord.
+
+127
+00:04:15,000 --> 00:04:17,000
+Yeah, sorry about that.
+
+128
+00:04:17,000 --> 00:04:19,500
+OK, and a bit of a quicker question.
+
+129
+00:04:19,500 --> 00:04:23,500
+How do you feel about the color scheme?
+
+130
+00:04:23,500 --> 00:04:25,500
+No, I wouldn't choose it.
+
+131
+00:04:25,500 --> 00:04:27,000
+OK.
+
+132
+00:04:27,000 --> 00:04:31,000
+I think that the shades of green don't match well.
+
+133
+00:04:31,000 --> 00:04:33,500
+I like the darker greens, but I think
+
+134
+00:04:33,500 --> 00:04:36,500
+that the lighter green is a different hue,
+
+135
+00:04:36,500 --> 00:04:37,500
+if that makes sense.
+
+136
+00:04:37,500 --> 00:04:40,000
+So I think it's too lime.
+
+137
+00:04:40,000 --> 00:04:42,000
+It doesn't have enough blue in it.
+
+138
+00:04:42,000 --> 00:04:45,500
+So I would say I like the colors of this.
+
+139
+00:04:45,500 --> 00:04:48,500
+It's just the top and the bottom half of it,
+
+140
+00:04:48,500 --> 00:04:51,500
+which kind of doesn't go well with the app.
+
+141
+00:04:51,500 --> 00:04:52,500
+I would say that's fine.
+
+142
+00:04:52,500 --> 00:04:53,000
+OK, cool.
+
+143
+00:04:53,000 --> 00:04:55,000
+So if you were to change that, what would you guys
+
+144
+00:04:55,000 --> 00:04:56,000
+feel kind of matched?
+
+145
+00:04:56,000 --> 00:04:57,500
+I would take out the blue.
+
+146
+00:04:57,500 --> 00:05:00,500
+I would take out the navy blue, and I'd make it white.
+
+147
+00:05:00,500 --> 00:05:02,000
+I don't think any other color.
+
+148
+00:05:02,000 --> 00:05:04,000
+Something like white for the border on,
+
+149
+00:05:04,000 --> 00:05:06,500
+kind of like showing you, hey, you can add more things here.
+
+150
+00:05:06,500 --> 00:05:07,000
+OK.
+
+151
+00:05:07,000 --> 00:05:09,500
+Or maybe like having this lighter shades of green
+
+152
+00:05:09,500 --> 00:05:10,500
+or something similar to that.
+
+153
+00:05:10,500 --> 00:05:12,500
+Or I would make this white.
+
+154
+00:05:12,500 --> 00:05:14,500
+The dash would almost take white to contrast it.
+
+155
+00:05:14,500 --> 00:05:15,500
+Or white.
+
+156
+00:05:15,500 --> 00:05:18,500
+In fact, swapping the contrast colors, say, with orange,
+
+157
+00:05:18,500 --> 00:05:21,500
+would you say would be a better option?
+
+158
+00:05:21,500 --> 00:05:25,500
+Or maybe something more similar.
+
+159
+00:05:25,500 --> 00:05:27,000
+I would say that you come with the orange,
+
+160
+00:05:27,000 --> 00:05:29,500
+but I would say it would not go well with this.
+
+161
+00:05:29,500 --> 00:05:32,500
+I think contrast, well, it just wouldn't look that.
+
+162
+00:05:32,500 --> 00:05:34,000
+When it comes to color schemes, I
+
+163
+00:05:34,000 --> 00:05:36,500
+think it's better to be simpler rather than more complex.
+
+164
+00:05:36,500 --> 00:05:39,500
+So utilizing white and black and contrast
+
+165
+00:05:39,500 --> 00:05:41,500
+more and using the same two colors
+
+166
+00:05:41,500 --> 00:05:43,500
+rather than having lots of different shades
+
+167
+00:05:43,500 --> 00:05:44,500
+of the same color.
+
+168
+00:05:45,000 --> 00:05:49,500
+I would say having one bright color within the app
+
+169
+00:05:49,500 --> 00:05:52,000
+for buttons or maybe for something like these
+
+170
+00:05:52,000 --> 00:05:54,000
+to show, OK, we have color.
+
+171
+00:05:54,000 --> 00:05:57,500
+But having the two main, maybe black and white or black
+
+172
+00:05:57,500 --> 00:06:00,500
+and some other color that is focused on the app as well
+
+173
+00:06:00,500 --> 00:06:03,500
+could represent you as a company and the app as well.
+
+174
+00:06:03,500 --> 00:06:04,000
+Cool.
+
+175
+00:06:04,000 --> 00:06:05,000
+Appreciate it.
+
+176
+00:06:05,000 --> 00:06:05,500
+OK.
+
+177
+00:06:05,500 --> 00:06:07,500
+And final question.
+
+178
+00:06:07,500 --> 00:06:09,000
+If it's where we are, would you use it?
+
+179
+00:06:09,000 --> 00:06:10,000
+Why or why not?
+
+180
+00:06:10,000 --> 00:06:11,500
+What would be some good things and what
+
+181
+00:06:11,500 --> 00:06:14,000
+would be some drawbacks using it?
+
+182
+00:06:14,000 --> 00:06:16,000
+I actually have a really similar app to this
+
+183
+00:06:16,000 --> 00:06:18,000
+that I use with my flatmates.
+
+184
+00:06:18,000 --> 00:06:20,000
+And I think that this has more functionality
+
+185
+00:06:20,000 --> 00:06:22,500
+for doing different things because it tracks your upcoming
+
+186
+00:06:22,500 --> 00:06:24,000
+payments, which would be useful.
+
+187
+00:06:24,000 --> 00:06:26,500
+But the app that I use is definitely a lot simpler,
+
+188
+00:06:26,500 --> 00:06:29,000
+just because it focuses really on those really simple
+
+189
+00:06:29,000 --> 00:06:32,500
+add an expense and pay it with your flatmates.
+
+190
+00:06:32,500 --> 00:06:34,000
+So I'd probably stick with that just
+
+191
+00:06:34,000 --> 00:06:35,500
+because that's all that I need it for.
+
+192
+00:06:35,500 --> 00:06:37,000
+But if I wanted an app that could
+
+193
+00:06:37,000 --> 00:06:39,000
+track my expenses and my budget and stuff,
+
+194
+00:06:39,000 --> 00:06:41,500
+then I think this would be useful.
+
+195
+00:06:41,500 --> 00:06:42,000
+I would use it.
+
+196
+00:06:42,000 --> 00:06:43,500
+It kind of reminds me a little bit.
+
+197
+00:06:49,500 --> 00:06:52,500
+So any significant drawbacks to the experience using the app?
+
+198
+00:06:52,500 --> 00:06:55,000
+What does it show?
+
+199
+00:06:55,000 --> 00:06:57,500
+For me, not really.
+
+200
+00:06:57,500 --> 00:06:59,500
+Nothing in particular.
+
+201
+00:06:59,500 --> 00:07:02,000
+There were the minor issues that we had.
+
+202
+00:07:02,000 --> 00:07:05,000
+But other than that, it's pretty good app.
+
+203
+00:07:05,000 --> 00:07:05,500
+Thank you.
+
+204
+00:07:05,500 --> 00:07:06,000
+Cool.
+
+205
+00:07:06,000 --> 00:07:06,500
+Yeah.
+
+206
+00:07:06,500 --> 00:07:07,500
+I think that's pretty much it.
+
+207
+00:07:07,500 --> 00:07:09,000
+Rashid, Amish, nothing else?
+
+208
+00:07:09,000 --> 00:07:09,500
+No.
+
+209
+00:07:09,500 --> 00:07:10,000
+Cool.
+
+210
+00:07:10,000 --> 00:07:11,000
+Thank you for your time.
+
+211
+00:07:11,000 --> 00:07:11,500
+Thank you.
+
+212
+00:07:11,500 --> 00:07:12,500
+No worries.
+
+213
+00:07:12,500 --> 00:07:13,000
+Cool.
+
+214
+00:07:13,000 --> 00:07:15,000
+So what are all your names?
+
+215
+00:07:15,000 --> 00:07:15,500
+Rachel.
+
+216
+00:07:15,500 --> 00:07:16,000
+Rachel.
+
+217
+00:07:16,000 --> 00:07:17,000
+Arianna.
+
+218
+00:07:17,000 --> 00:07:18,500
+Karen.
+
+219
+00:07:18,500 --> 00:07:19,000
+Cool.
+
+220
+00:07:19,000 --> 00:07:20,500
+Yeah.
+

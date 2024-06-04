@@ -1,0 +1,755 @@
+WEBVTT
+
+00:00.000 --> 00:07.000
+Yeah, and we can also screen card all the phones to see where they're testing and stuff.
+
+00:07.000 --> 00:09.000
+Fuck, that's not a bad idea.
+
+00:09.000 --> 00:11.000
+Are you guys just doing it on your laptop?
+
+00:11.000 --> 00:13.000
+I don't know, yeah, that was our plan.
+
+00:13.000 --> 00:15.000
+I mean, you can just download the Figma app.
+
+00:15.000 --> 00:18.000
+Just download the Figma app, as long as you have the flows.
+
+00:18.000 --> 00:20.000
+Screen recording's good.
+
+00:20.000 --> 00:22.000
+It doesn't really matter too much for usability.
+
+00:22.000 --> 00:24.000
+You have to record that.
+
+00:24.000 --> 00:27.000
+For the testing, you can see how long it takes for each one.
+
+00:27.000 --> 00:29.000
+I suppose you can record on the laptop as well.
+
+00:29.000 --> 00:32.000
+Yeah, I'm not using my laptop, I'm using my phone.
+
+00:32.000 --> 00:34.000
+Oh, yeah, you can use that.
+
+00:34.000 --> 00:37.000
+So, officially we're going to start now.
+
+00:37.000 --> 00:41.000
+So, welcome to this testing, I guess.
+
+00:41.000 --> 00:46.000
+We're going to be testing our prototype, which is for a Flatmates Expense app.
+
+00:46.000 --> 00:47.000
+Really?
+
+00:47.000 --> 00:48.000
+Yeah, it is.
+
+00:48.000 --> 00:52.000
+So, just go through the app.
+
+00:52.000 --> 00:57.000
+I'm going to be giving you some tasks which you have to go through and try and complete them.
+
+00:57.000 --> 01:02.000
+Make sure you say what you're thinking and just go through your step, take your time.
+
+01:02.000 --> 01:07.000
+But just make sure you can tell me what you're thinking about in each step.
+
+01:07.000 --> 01:13.000
+Right, so I'm assuming you filled the consent form earlier, so that's all good.
+
+01:13.000 --> 01:22.000
+And we will be recording the voice and also your inputs, I guess, for this test for future use.
+
+01:22.000 --> 01:27.000
+But we will be leaving the data after the assignment is done, so that's all that.
+
+01:27.000 --> 01:30.000
+So, I'm just going to be setting this up.
+
+01:30.000 --> 01:35.000
+It's just going to take a minute.
+
+01:35.000 --> 01:38.000
+It's all good, just keep recording.
+
+01:38.000 --> 01:43.000
+We're just bashing you.
+
+01:43.000 --> 01:46.000
+Okay, okay, that's fine.
+
+01:46.000 --> 01:51.000
+Yeah, that's why we are here.
+
+01:51.000 --> 01:56.000
+I would go for the seat form.
+
+01:56.000 --> 02:00.000
+Yeah, I was confused for a second.
+
+02:00.000 --> 02:16.000
+And the screen recording will also record your voice and the things you answer.
+
+02:16.000 --> 02:20.000
+It's pretty cool, Figma, because that's how it looks.
+
+02:20.000 --> 02:25.000
+Okay, so I'm going to be starting the recording now, and I'm going to hand you the phone.
+
+02:25.000 --> 02:39.000
+So, this is the testing we're just going to start, and your first task will be verify the functionality of adding a new recurring expense.
+
+02:39.000 --> 02:44.000
+So, you'll be adding a new recurring expense and verifying that it has actually been added.
+
+02:44.000 --> 02:49.000
+And when adding the recurring expense, you'll be splitting it among household members.
+
+02:49.000 --> 02:58.000
+Okay, so I'm clicking add expense, because that's like the standard Google thing.
+
+02:58.000 --> 03:01.000
+I'm just making this up, right?
+
+03:01.000 --> 03:03.000
+Read.
+
+03:03.000 --> 03:07.000
+Category.
+
+03:07.000 --> 03:09.000
+What did you say it was again?
+
+03:09.000 --> 03:16.000
+Just any expense.
+
+03:16.000 --> 03:21.000
+1,200? I don't think any of ours work in that way either.
+
+03:21.000 --> 03:24.000
+There we go, there's our date done.
+
+03:24.000 --> 03:27.000
+And repeat. Did you say how often?
+
+03:27.000 --> 03:29.000
+It doesn't say how often, but just choose your favorite.
+
+03:29.000 --> 03:34.000
+Every week. I'm going to split it with Sam and Alex and me.
+
+03:34.000 --> 03:36.000
+My description.
+
+03:36.000 --> 03:39.000
+Whatever it says for me.
+
+03:39.000 --> 03:41.000
+I'm going to click create.
+
+03:41.000 --> 03:43.000
+Sweet.
+
+03:43.000 --> 03:45.000
+And then I'm done.
+
+03:45.000 --> 03:52.000
+I'm going to go into expenses and look at future expenses.
+
+03:52.000 --> 03:56.000
+And then, I can't remember what I even set it to.
+
+03:56.000 --> 03:59.000
+Just verify it's been added, I guess.
+
+03:59.000 --> 04:01.000
+What was it? 1,200 or something.
+
+04:01.000 --> 04:03.000
+I assume it would be there.
+
+04:03.000 --> 04:06.000
+Okay, that's fine.
+
+04:06.000 --> 04:13.000
+That's the first task which is done, so let's just go back to the homepage.
+
+04:13.000 --> 04:26.000
+The next task is to ensure the functionality of paying an existing expense and removing it from the list.
+
+04:26.000 --> 04:37.000
+Basically, there's going to be an existing expense which you already paid, but you're going to be paying up the expense to another person.
+
+04:37.000 --> 04:40.000
+Just making sure it's already been done.
+
+04:40.000 --> 04:42.000
+What would you be doing in this case?
+
+04:43.000 --> 04:48.000
+I assume these are my most recent expenses, so I'll go pay up.
+
+04:48.000 --> 04:51.000
+Then I'll pay Alex back for his rent.
+
+04:51.000 --> 04:52.000
+Okay.
+
+04:52.000 --> 04:54.000
+I'll click pay.
+
+04:54.000 --> 04:58.000
+What is it? Just the bottom one that works. Pay.
+
+04:58.000 --> 05:00.000
+Then I'm paying for power.
+
+05:00.000 --> 05:02.000
+Yep.
+
+05:02.000 --> 05:04.000
+And then what was the last bit?
+
+05:04.000 --> 05:06.000
+Just make sure it's been removed.
+
+05:06.000 --> 05:07.000
+It's been removed?
+
+05:07.000 --> 05:08.000
+Yep.
+
+05:08.000 --> 05:10.000
+Well, I'd just look in there.
+
+05:11.000 --> 05:14.000
+Okay, that's nice.
+
+05:14.000 --> 05:18.000
+Then go back to the homepage.
+
+05:18.000 --> 05:26.000
+Your third task is just view the past expenses and verify the payment history.
+
+05:26.000 --> 05:28.000
+How would you be doing that?
+
+05:28.000 --> 05:30.000
+Go expenses.
+
+05:30.000 --> 05:32.000
+Yep.
+
+05:32.000 --> 05:35.000
+Then verify payment history.
+
+05:35.000 --> 05:37.000
+Just verifying payment.
+
+05:37.000 --> 05:39.000
+Just looking through.
+
+05:40.000 --> 05:45.000
+Let's say you want to locate the expense for the garbage from the previous week.
+
+05:45.000 --> 05:46.000
+Yep.
+
+05:46.000 --> 05:48.000
+So how would you be doing that?
+
+05:48.000 --> 05:51.000
+I'd look through. I'd go into the past week section.
+
+05:51.000 --> 05:53.000
+Then look and open it.
+
+05:53.000 --> 05:56.000
+There we go. That's all our garbage info.
+
+05:57.000 --> 05:58.000
+Yeah.
+
+05:58.000 --> 06:00.000
+Nice. Okay.
+
+06:00.000 --> 06:03.000
+Now let's go back to the homepage again.
+
+06:03.000 --> 06:05.000
+Going to the fourth task.
+
+06:05.000 --> 06:11.000
+The fourth task is just look at the insights feature for the rent category.
+
+06:11.000 --> 06:15.000
+Is this still going to keep on recording while that's calling?
+
+06:15.000 --> 06:18.000
+I don't know if it's going to keep on recording or not.
+
+06:20.000 --> 06:22.000
+Sorry about that.
+
+06:22.000 --> 06:27.000
+The fourth task is just looking at the insights for the rent category
+
+06:27.000 --> 06:34.000
+and just making sure you can see a visual representation for the rent category.
+
+06:34.000 --> 06:37.000
+Okay, so I'm going to go to insights at the bottom.
+
+06:37.000 --> 06:39.000
+And then there's rent. That's the amount.
+
+06:39.000 --> 06:44.000
+And then at the top there's what percentage of it it is.
+
+06:44.000 --> 06:50.000
+And what if you want to go specifically and view the insights for rent itself?
+
+06:50.000 --> 06:52.000
+Can I just click on it?
+
+06:52.000 --> 06:53.000
+There we go.
+
+06:53.000 --> 06:57.000
+That's our week's rent or our month's rent.
+
+06:58.000 --> 07:01.000
+That's nice. Okay.
+
+07:01.000 --> 07:06.000
+And task five is just test the customizability.
+
+07:06.000 --> 07:12.000
+So test display accessibility features.
+
+07:12.000 --> 07:14.000
+So how would you be doing that?
+
+07:14.000 --> 07:18.000
+I'm going to click up here where I'm going to find, hopefully, settings or something.
+
+07:18.000 --> 07:19.000
+Yeah.
+
+07:19.000 --> 07:25.000
+Go in there, then app settings, then display settings.
+
+07:26.000 --> 07:28.000
+Then display settings.
+
+07:28.000 --> 07:31.000
+I'm going to change it to dark mode if that works.
+
+07:31.000 --> 07:32.000
+Okay.
+
+07:32.000 --> 07:34.000
+You actually coded that, don't you?
+
+07:34.000 --> 07:38.000
+So you can look at other features as well in the display settings.
+
+07:40.000 --> 07:45.000
+We've got contact, FAQs, managing categories.
+
+07:45.000 --> 07:48.000
+I'm not sure what week start day does.
+
+07:48.000 --> 07:49.000
+That's fine.
+
+07:49.000 --> 07:52.000
+Okay, so let's go back to the homepage again.
+
+07:53.000 --> 07:54.000
+Genuine hope, sorry.
+
+07:54.000 --> 07:56.000
+Yeah, yeah.
+
+07:58.000 --> 08:00.000
+I believe it was light mode.
+
+08:00.000 --> 08:01.000
+Yeah.
+
+08:01.000 --> 08:02.000
+Right.
+
+08:02.000 --> 08:09.000
+So now your sixth task, which I believe it's the last task, it's test the help and support functionalities.
+
+08:09.000 --> 08:12.000
+So imagine you require some help with the app.
+
+08:12.000 --> 08:14.000
+You want to look for some help within the app.
+
+08:14.000 --> 08:16.000
+So what would you be doing in that case?
+
+08:16.000 --> 08:20.000
+I'm going to go to the hamburger bar again.
+
+08:20.000 --> 08:21.000
+Yeah.
+
+08:21.000 --> 08:22.000
+What do you actually call that?
+
+08:22.000 --> 08:23.000
+I think it's a hamburger.
+
+08:23.000 --> 08:24.000
+Yeah, it is.
+
+08:24.000 --> 08:25.000
+It is called a hamburger.
+
+08:25.000 --> 08:29.000
+Okay, I'm going to go help and support.
+
+08:29.000 --> 08:31.000
+No, I'm going to go app settings.
+
+08:31.000 --> 08:32.000
+Okay.
+
+08:32.000 --> 08:35.000
+But we're going to assume that it did just take you there.
+
+08:35.000 --> 08:37.000
+So I assume that just wasn't coded in.
+
+08:37.000 --> 08:38.000
+Absolutely.
+
+08:38.000 --> 08:39.000
+Yeah.
+
+08:39.000 --> 08:43.000
+Then I'm going to look at the frequently asked questions.
+
+08:43.000 --> 08:45.000
+And then here's some of my answers.
+
+08:45.000 --> 08:47.000
+I don't know what I'm looking for, but I found it.
+
+08:47.000 --> 08:48.000
+That's nice.
+
+08:48.000 --> 08:51.000
+Or I'm going to contact support and send them an email.
+
+08:51.000 --> 08:53.000
+How would you send them the email?
+
+08:53.000 --> 08:56.000
+I'm going to put in my first name, Cassie.
+
+08:56.000 --> 08:57.000
+That's me.
+
+08:57.000 --> 08:59.000
+My email and my message.
+
+08:59.000 --> 09:03.000
+There we go.
+
+09:03.000 --> 09:04.000
+Sweet.
+
+09:04.000 --> 09:05.000
+Right.
+
+09:05.000 --> 09:07.000
+They'll get in contact with me.
+
+09:07.000 --> 09:08.000
+Right.
+
+09:08.000 --> 09:11.000
+So those were all the six tasks.
+
+09:11.000 --> 09:13.000
+I hope you remember how to go back to the homepage.
+
+09:13.000 --> 09:14.000
+Yeah.
+
+09:14.000 --> 09:15.000
+Yeah.
+
+09:15.000 --> 09:16.000
+Okay.
+
+09:16.000 --> 09:17.000
+Okay, that's fine.
+
+09:17.000 --> 09:18.000
+That's fine.
+
+09:18.000 --> 09:19.000
+Yeah.
+
+09:19.000 --> 09:20.000
+So how was your experience?
+
+09:20.000 --> 09:24.000
+Were there any sort of pain points or points you got confused?
+
+09:24.000 --> 09:27.000
+I mean, there's a couple of buttons that sort of just don't work.
+
+09:27.000 --> 09:30.000
+Can you remember which ones they were?
+
+09:30.000 --> 09:31.000
+Like, like there.
+
+09:31.000 --> 09:32.000
+Help and support.
+
+09:32.000 --> 09:33.000
+Yeah.
+
+09:33.000 --> 09:34.000
+Help and support.
+
+09:34.000 --> 09:35.000
+That doesn't do anything.
+
+09:35.000 --> 09:36.000
+Yeah.
+
+09:36.000 --> 09:40.000
+When you're, or some of the other ones.
+
+09:40.000 --> 09:42.000
+I've now just forgotten them all.
+
+09:42.000 --> 09:46.000
+Oh, it's just a little bit funky how like when you're putting in text it just auto fills
+
+09:46.000 --> 09:50.000
+it, but it's more of a like, like prototype type of thing.
+
+09:50.000 --> 09:51.000
+Yeah.
+
+09:51.000 --> 09:53.000
+It just doesn't have that functionality there.
+
+09:53.000 --> 09:54.000
+Yeah.
+
+09:54.000 --> 09:59.000
+Which one of the tasks do you think was the most like easiest, easiest to do?
+
+09:59.000 --> 10:01.000
+Like intuitive to do?
+
+10:01.000 --> 10:02.000
+Probably adding an expense.
+
+10:02.000 --> 10:03.000
+Adding expense.
+
+10:03.000 --> 10:04.000
+It's just right there.
+
+10:04.000 --> 10:09.000
+And which one of them was more difficult to kind of understand and do?
+
+10:09.000 --> 10:13.000
+Probably pay up because I could have gone in here.
+
+10:13.000 --> 10:15.000
+Like I never even went into the screen.
+
+10:15.000 --> 10:21.000
+I just did it on the home screen, but I'm guessing that the functionality is essentially
+
+10:21.000 --> 10:22.000
+the same.
+
+10:22.000 --> 10:23.000
+You can do it if you want.
+
+10:23.000 --> 10:24.000
+Yeah.
+
+10:24.000 --> 10:26.000
+I can just click pay and then pay for power.
+
+10:26.000 --> 10:27.000
+Yeah.
+
+10:27.000 --> 10:32.000
+So it's sort of the exact same, but in a way it's good that there's multiple ways to do
+
+10:32.000 --> 10:33.000
+it.
+
+10:33.000 --> 10:34.000
+That is one of the heuristics.
+
+10:34.000 --> 10:35.000
+That's nice.
+
+10:35.000 --> 10:38.000
+And then like, yeah, in this power screen, like only the bottom.
+
+10:38.000 --> 10:39.000
+Yeah.
+
+10:39.000 --> 10:41.000
+Only the bottom one actually works.
+
+10:41.000 --> 10:42.000
+Yeah.
+
+10:42.000 --> 10:48.000
+Do you have any sort of like visual details or like anything you didn't quite like?
+
+10:48.000 --> 10:51.000
+Regarding like the appearance or the colors used?
+
+10:51.000 --> 10:53.000
+The colors are fine.
+
+10:53.000 --> 10:57.000
+It's good to have like the, what should we call it?
+
+10:57.000 --> 10:59.000
+Like all the display settings and stuff.
+
+10:59.000 --> 11:00.000
+Yeah.
+
+11:00.000 --> 11:01.000
+Damn.
+
+11:01.000 --> 11:03.000
+I'm surprised you coded those.
+
+11:03.000 --> 11:07.000
+I only did one of mine.
+
+11:08.000 --> 11:14.000
+But yeah, so you can change the colors for like accessibility and all that.
+
+11:14.000 --> 11:15.000
+Yeah.
+
+11:15.000 --> 11:16.000
+That's nice.
+
+11:16.000 --> 11:17.000
+Okay.
+
+11:17.000 --> 11:18.000
+Yeah.
+
+11:18.000 --> 11:20.000
+So overall thoughts?
+
+11:20.000 --> 11:22.000
+It's pretty decent.
+
+11:22.000 --> 11:23.000
+Right.
+
+11:23.000 --> 11:24.000
+Yeah.
+
+11:24.000 --> 11:27.000
+Especially for a prototype, like obviously some things would have to be like kind of
+
+11:27.000 --> 11:31.000
+polished, but like that's sort of not what you're looking for, is it?
+
+11:31.000 --> 11:36.000
+It's just, it does everything you need to.
+
+11:37.000 --> 11:45.000
+The only thing that it's obviously missing is, yeah, just like an easy way to add like
+
+11:45.000 --> 11:51.000
+flatmates and stuff in, but that's more of a like setup type of thing than a day to day
+
+11:51.000 --> 11:52.000
+thing.
+
+11:52.000 --> 11:55.000
+Like we're kind of assuming this is already, you've been using it for a while, right?
+
+11:55.000 --> 11:56.000
+Yeah.
+
+11:56.000 --> 11:57.000
+That makes sense.
+
+11:57.000 --> 11:58.000
+Yes.
+
+11:58.000 --> 12:02.000
+But you've got the setting there, so it's not like it's hard to find or anything.
+
+12:02.000 --> 12:03.000
+Okay.
+
+12:03.000 --> 12:05.000
+That makes it nice.
+
+12:05.000 --> 12:06.000
+Yeah.
+
+12:06.000 --> 12:07.000
+I don't know.
+
+12:07.000 --> 12:08.000
+Right.
+
+12:08.000 --> 12:09.000
+Thank you for that.
+
+12:09.000 --> 12:15.000
+Thank you for giving us your time and to test our prototype.
+
+12:15.000 --> 12:16.000
+Thanks.
+
+12:16.000 --> 12:19.000
+Thanks for joining us and hope you have a nice day.
+
+12:19.000 --> 12:20.000
+Yeah.
+
+12:20.000 --> 12:24.000
+Not like you won't be getting big in five minutes time.
+
+12:24.000 --> 12:26.000
+Doing the exact same thing.
+
+12:26.000 --> 12:28.000
+That's exactly ten minutes.
+

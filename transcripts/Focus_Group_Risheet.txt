@@ -1,0 +1,220 @@
+We're all ready?
+Yep.
+Easy.
+You guys are all good?
+Yep.
+Sweet as.
+You have more to learn, by the way.
+OK, yeah.
+So just wondering, what were your first impressions
+using the app?
+I thought it was really intuitive.
+It wasn't hard to find the different screens
+that we need to navigate to or do the different ones.
+I really like the icons that are at the bottom,
+even across the entire page as well,
+telling you what each thing does.
+So it's pretty like, even if you don't read it, it's fine.
+You can still understand what's going on.
+OK, sweet.
+I think the only really big issue I had with this
+was the bottom part, the colors used.
+I think that the green at the bottom is a bit too dark,
+because it doesn't contrast that well with the black.
+So it can be a little hard to read the text,
+especially if you didn't have good vision.
+I see.
+So the bottom part kind of had an issue,
+in terms of contrast being a thing.
+Yeah.
+If there was a bit of a lighter color,
+or if it was white on the color instead,
+I think it would have worked better.
+OK.
+Yeah, I guess in that sense, as you mentioned,
+now the icons I feel like are fine for me.
+It's just like the text at the bottom kind of got blended.
+For me, I'm just looking at it right now,
+because when I did do the testing,
+I didn't even look at the work.
+But now I'm looking at it, the text blends in.
+So yeah, probably like a lighter bit at the bottom.
+OK, a lighter color.
+It kind of gives you a good vibe on how to navigate.
+Yeah.
+That kind of leads quite nicely into our next question,
+which is kind of describe your experience kind of navigating
+about these tasks.
+Like what are kind of some difficulties you had,
+all that sort of benefits?
+One issue that I heard, I'm actually
+trying to remember what the task was.
+OK, we had to go to this one, and then help and support.
+Oh yeah, the help and support button doesn't work.
+Yeah, I heard that issue.
+OK, so in the menu, help and support
+doesn't direct you to anything?
+Yeah.
+Yeah.
+OK.
+But everything else is fine.
+I guess for me, since I didn't actually
+even click on the help and support,
+because I went to contact support immediately.
+So it worked fine for me.
+But yeah, I guess if we could link back
+to this particular page here, it would make more sense
+for a user just having more freedom into the app as well.
+OK.
+Oh, another thing within the app as well,
+when it went to dark mode and high contrast,
+you can't see the text.
+Yes, yes, yes.
+Yeah, like Cassie disappears.
+So you don't know whether it's been typed out.
+Yeah, that's a good bug.
+Yeah, so that's one of the minor issues
+that can be fixed immediately.
+And also, I forgot to mention this within testing,
+but it doesn't stay to the thing.
+So you don't know whether that's right.
+You can kind of, if you read it, you know.
+But if you think about it, like, oh, is that what it is?
+Sounds good.
+What about other kind of tasks?
+Did you have any trouble navigating things
+besides settings?
+Yes.
+I know there's a whole button up here to go back.
+But I was looking at buttons down.
+For me, when I use my apps, I normally
+have buttons down here.
+I guess it's mainly the user on the other apps as well.
+I use TikTok a lot.
+Yeah, yeah, yeah.
+It has all the, yeah, so I was kind of like, oh, OK.
+OK, cool.
+And also, it doesn't really have a home button.
+It goes to user.
+You can go back, but I don't know what happened here.
+Yeah, right.
+OK, cool.
+And no other tasks?
+Yeah, what are the things you liked about the navigation
+that you would say would be kept?
+I think the way that information is laid out
+is quite good, especially on the payments.
+I like that it's separate to today, past week, et cetera.
+So it's not just one big block of text,
+because it can be quite overwhelming.
+People don't look through all that.
+So I think the information is separate as well.
+I like how there's also, for that information,
+if you press down, it comes up here.
+And for a quick, extra information for a user,
+it would be like, OK, I paid this person.
+Perfect.
+And I'll go into another tab.
+Yeah, easy.
+So yeah.
+I also liked how it was similar to past and future
+at the top, more than other expenses.
+Yeah.
+Yeah.
+Cool.
+I appreciate that.
+They're all on Discord.
+Yeah, sorry about that.
+OK, and a bit of a quicker question.
+How do you feel about the color scheme?
+No, I wouldn't choose it.
+OK.
+I think that the shades of green don't match well.
+I like the darker greens, but I think
+that the lighter green is a different hue,
+if that makes sense.
+So I think it's too lime.
+It doesn't have enough blue in it.
+So I would say I like the colors of this.
+It's just the top and the bottom half of it,
+which kind of doesn't go well with the app.
+I would say that's fine.
+OK, cool.
+So if you were to change that, what would you guys
+feel kind of matched?
+I would take out the blue.
+I would take out the navy blue, and I'd make it white.
+I don't think any other color.
+Something like white for the border on,
+kind of like showing you, hey, you can add more things here.
+OK.
+Or maybe like having this lighter shades of green
+or something similar to that.
+Or I would make this white.
+The dash would almost take white to contrast it.
+Or white.
+In fact, swapping the contrast colors, say, with orange,
+would you say would be a better option?
+Or maybe something more similar.
+I would say that you come with the orange,
+but I would say it would not go well with this.
+I think contrast, well, it just wouldn't look that.
+When it comes to color schemes, I
+think it's better to be simpler rather than more complex.
+So utilizing white and black and contrast
+more and using the same two colors
+rather than having lots of different shades
+of the same color.
+I would say having one bright color within the app
+for buttons or maybe for something like these
+to show, OK, we have color.
+But having the two main, maybe black and white or black
+and some other color that is focused on the app as well
+could represent you as a company and the app as well.
+Cool.
+Appreciate it.
+OK.
+And final question.
+If it's where we are, would you use it?
+Why or why not?
+What would be some good things and what
+would be some drawbacks using it?
+I actually have a really similar app to this
+that I use with my flatmates.
+And I think that this has more functionality
+for doing different things because it tracks your upcoming
+payments, which would be useful.
+But the app that I use is definitely a lot simpler,
+just because it focuses really on those really simple
+add an expense and pay it with your flatmates.
+So I'd probably stick with that just
+because that's all that I need it for.
+But if I wanted an app that could
+track my expenses and my budget and stuff,
+then I think this would be useful.
+I would use it.
+It kind of reminds me a little bit.
+So any significant drawbacks to the experience using the app?
+What does it show?
+For me, not really.
+Nothing in particular.
+There were the minor issues that we had.
+But other than that, it's pretty good app.
+Thank you.
+Cool.
+Yeah.
+I think that's pretty much it.
+Rashid, Amish, nothing else?
+No.
+Cool.
+Thank you for your time.
+Thank you.
+No worries.
+Cool.
+So what are all your names?
+Rachel.
+Rachel.
+Arianna.
+Karen.
+Cool.
+Yeah.
