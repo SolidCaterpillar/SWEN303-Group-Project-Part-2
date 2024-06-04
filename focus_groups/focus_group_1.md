@@ -1,9 +1,10 @@
 # Focus Group 1 Summary
 
 ## Participants:
-- Kiera
-- Rachel
-- Ariana
+
+- Keira Malan
+- Rachel Correa
+- Arianna Case
 
 ### Key Questions and Responses:
 
