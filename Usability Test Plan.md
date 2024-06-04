@@ -100,14 +100,14 @@ Test Subject: Hugo Blair
 ### Focus Group Assignments 
 
 Test Subjects: Rachel Correa, Arianna Case, Keira Malan
-Z'arn Payne: Facilitator 
-Risheet Peri: Recorder 
-Hamish Burke: Recorder 
+- Facilitator: Z'arn Payne 
+- Recorder: Risheet Peri 
+- Recorder: Hamish Burke 
 
 Test Subjects: Baxter Alexander, Hugo Blair, Kayi Erol-Watt
-Mazen Khallaf: Facilitator 
-Alvien Salvador: Recorder 
-Ricky Fong: Recorder
+- Facilitator: Mazen Khallaf  
+- Recorder: Alvien Salvador: Recorder 
+- Recorder: Ricky Fong
 
 # Tasks
 
