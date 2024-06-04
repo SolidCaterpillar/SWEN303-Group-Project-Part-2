@@ -26,7 +26,7 @@
   
 - **Areas for Improvement:**
 	- The help and support button in the hamburger menu did not function.
-	- Suggestion: Include a link to contact support.
+	- Suggestion: Include link help and support button to contact support page.
 
 #### 3. Were There Any Parts of the App that You Found Confusing or Hard to Use?
 
