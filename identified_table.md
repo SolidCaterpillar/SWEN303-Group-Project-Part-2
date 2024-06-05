@@ -13,7 +13,7 @@
 | 3   | Task 1| Unable to verify the addition of the expense due to unclear location.                                    | 2        |        Z'arn          |
 | 6   | Task 2| No feedback on homepage or pay-up page after payment confused.                                           | 2        |         Z'arn         |
 | 7   | Task 2| Colours made it seem like they were uninteractable on the pay up page.                                   | 2        |     Hamish/Risheet/Ricky            |
-| 9   | Task 3| Confusion in navigating to expenses page.                                                                | 1        |                 |
+| 9   | Task 3| Confusion in navigating to expenses page.                                                                | 1        |       Z'arn          |
 | 14  | Task 5| User looked for a 'Customizability' button first, then was unsure what to choose between settings.       | 2        |                 |
 | 16  | Task 6| Difficulty in finding support resources.                                                                 | 2        |                 |
 | 25  | FG    | Considered the "insight" name confusing.                                                                 | 2        |                 |
@@ -32,6 +32,6 @@
 | 34  | FG    | Blue is too dark (on the add expenses).                                                                  | 1        |                 |
 | 35  | FG    | Lack of intuitive design elements. Lack of consistency overall.                                          | 1        |                 |
 | 37  | All   | Layout of the payments page was well-received, but issues with colour scheme and navigation functionality.| ?        |                 |
-| 38  | All   | Lack of an onboarding process made it difficult for users to discover certain features.                  | ?        |                 |
+| 38  | All   | Lack of an onboarding process made it difficult for users to discover certain features.                  | ?        |    Alvien/Mazen/Z'arn             |
 
 FG: Focus Group
