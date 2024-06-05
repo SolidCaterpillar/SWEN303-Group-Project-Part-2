@@ -45,9 +45,6 @@ df_long$SUS_Score <- ifelse(df_long$QuestionType == "Negative",
                             5 - df_long$Score, 
                             df_long$Score - 1)
 
-# Sum up the scores and multiply by 2.5
-df_long$SUS_Score <- (df_long$SUS_Score) * 2.5
-
 sus_by_person <- df_long %>%
   group_by(Full.Name) %>%
   summarise("NormScore"=sum(SUS_Score) * 2.5)
