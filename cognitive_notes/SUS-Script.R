@@ -3,6 +3,7 @@ library(ggplot2)
 library(dplyr)
 library(tidyverse)
 library(knitr)
+library(patchwork)
 
 data <- read.csv("Swen303_System_Usability_Scale (Responses) - Form Responses 1.csv")
 
@@ -28,7 +29,7 @@ df_long$Question <- factor(df_long$Question, levels = c("Question 1", "Question 
 df_long$QuestionType <- ifelse(as.integer(gsub("Question ", "", df_long$Question)) %% 2 == 0, "Negative", "Positive")
 
 # Create ggplot
-ggplot(df_long, aes(x = Question, y = Score, fill = QuestionType)) +
+p1 <- ggplot(df_long, aes(x = Question, y = Score, fill = QuestionType)) +
   geom_boxplot() +
   scale_fill_manual(values = c("Positive" = "green", "Negative" = "red"), a = 0.5) +
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1)) +
@@ -50,7 +51,7 @@ sus_by_person <- df_long %>%
   summarise("NormScore"=sum(SUS_Score) * 2.5)
 
 # Create boxplot
-ggplot(sus_by_person, aes(y = NormScore)) +
+p2 <- ggplot(sus_by_person, aes(y = NormScore)) +
   geom_boxplot(fill="lightblue", width=0.5, alpha=0.9) +
   labs(title = "Distribution of Normalized SUS Scores by Participant", 
        y = "Normalized SUS Score") +
@@ -62,3 +63,6 @@ summary_stdev <- sd(sus_by_person$NormScore)
 
 print(summary_stats)
 print(cat("Standard Deviation: ", summary_stdev))
+
+plot <- p1 + p2
+print(plot)
