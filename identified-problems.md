@@ -184,6 +184,13 @@ As earlier
 **Problem**: Was confused between household settings and app setting\
 **Severity Scale**: 2
 
+As earlier
+
+**Problem**: There was no implementation to manage flatmates or groups, even though there was a button for "Household Settings".\
+**Severity Scale**: 2
+
+It was not one of our tested user flows, however, testers said it would be useful
+
 ### How did you feel about the colour scheme of the app?
 **Problem**: The colours used in the navigation bar and header were not appealing, and participants suggested removing the blue colour.\
 **Severity Scale**: 3
@@ -232,5 +239,6 @@ Highlights an overall themes with our colours and navigation indicators
 **Severity Scale**: ?
 
 User's had issue with understanding the purpose of key functionalities. This induces a sense of complexity that decreases the positive UX of the app.
+
 
 ## Sentiment

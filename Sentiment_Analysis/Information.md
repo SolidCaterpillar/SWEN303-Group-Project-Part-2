@@ -10,16 +10,17 @@ Determine the amount of negativity, neutrality and positivity of the test subjec
 6. Output `csv` files with the scores
 7. Visualise the data using these output files
 
+## Models
 We are using 2 models:
 
-1. ## _Vader Model_ by NLTK
+1. ### _Vader Model_ by NLTK
   - Valence Aware Dictionary and sEntiment Reasoner
   - https://ojs.aaai.org/index.php/ICWSM/article/download/14550/14399/18068
   - Less Smart Model
     - Bag-of-Words Approach
     - analyses every word without context
 
-2. ## _Roberta Model_ by Hugging Face
+2. ### _Roberta Model_ by Hugging Face
   - Robustly Optimized BERT Pretraining Approach
   - variant of the BERT (Bidirectional Encoder Representations from Transformers)
   - https://huggingface.co/docs/transformers/en/model_doc/roberta
