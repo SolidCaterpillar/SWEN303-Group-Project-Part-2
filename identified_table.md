@@ -31,7 +31,7 @@
 | 33  | FG    | The different tones were good but green overall was not bad -> could be better.                          | 1        |                 |
 | 34  | FG    | Blue is too dark (on the add expenses).                                                                  | 1        |                 |
 | 35  | FG    | Lack of intuitive design elements. Lack of consistency overall.                                          | 1        |                 |
-| 39  | FG    |  here was no implementation to manage flatmates or groups, even though there was a button for "Household Settings"                                       | 2        |   Risheet              |
+| 39  | FG    |  There was no implementation to manage flatmates or groups, even though there was a button for "Household Settings"                                       | 2        |   Risheet              |
 | 37  | All   | Layout of the payments page was well-received, but issues with colour scheme and navigation functionality.| ?        |        Risheet/Ricky/Hamish         |
 | 38  | All   | Lack of an onboarding process made it difficult for users to discover certain features.                  | ?        |    Alvien/Mazen/Z'arn             |
 
