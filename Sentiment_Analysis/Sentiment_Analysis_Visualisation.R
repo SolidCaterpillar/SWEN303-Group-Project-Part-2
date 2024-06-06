@@ -122,9 +122,9 @@ p1_roberto <- ggplot(t_negative_roberto) +
   geom_boxplot(aes(x = task, y = Roberto.Model.Negative, fill = "red"), alpha = 0.9) + 
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
         legend.position = "none") +
-  labs(title = "Boxplot of Negative Responses By Task Using the Roberto Model", 
+  labs(title = "Boxplot of Negative Responses By Task Using the RoBERTa Model", 
        x = "Task", 
-       y = "Roberto Model Negative (0 - 1)") +
+       y = "RoBERTa Model Negative (0 - 1)") +
   ylim(0, 1)
 
 p2_roberto <- ggplot(t_neutral_roberto) +
@@ -132,9 +132,9 @@ p2_roberto <- ggplot(t_neutral_roberto) +
   scale_fill_manual(values = c("orange")) +
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
         legend.position = "none") +
-  labs(title = "Boxplot of Neutral Responses By Task Using the Roberto Model", 
+  labs(title = "Boxplot of Neutral Responses By Task Using the RoBERTa Model", 
        x = "Task", 
-       y = "Roberto Model Neutral (0 - 1)") +
+       y = "RoBERTa Model Neutral (0 - 1)") +
   ylim(0, 1)
 
 p3_roberto <- ggplot(t_positive_roberto) +
@@ -142,9 +142,9 @@ p3_roberto <- ggplot(t_positive_roberto) +
   scale_fill_manual(values = c("lightblue")) +
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
         legend.position = "none") +
-  labs(title = "Boxplot of Positive Responses By Task Using the Roberto Model", 
+  labs(title = "Boxplot of Positive Responses By Task Using the RoBERTa Model", 
        x = "Task", 
-       y = "Roberto Model Positive (0 - 1)") +
+       y = "RoBERTa Model Positive (0 - 1)") +
   ylim(0, 1)
 
 p4_roberto <- ggplot(overall_long_roberto, aes(x = Score_Type, y = Score, fill = Score_Type)) +
@@ -152,7 +152,7 @@ p4_roberto <- ggplot(overall_long_roberto, aes(x = Score_Type, y = Score, fill =
   scale_fill_manual(values = c("Negative" = "red", "Neutral" = "orange", "Positive" = "lightblue")) +
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
         legend.position = "none") +
-  labs(title = "Boxplot of Responses By Score Type Using the Roberto Model", 
+  labs(title = "Boxplot of Responses By Score Type Using the RoBERTa Model", 
        x = "Score Type", 
        y = "Score (0 - 1)") +
   ylim(0, 1)
