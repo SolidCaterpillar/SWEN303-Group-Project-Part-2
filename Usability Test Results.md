@@ -5,9 +5,9 @@
 
 ## 1. Speed of Navigation (Synchronous/Quantitative/Objective)
 
-We realised that this would not be a very precise or accurate metric as everyone had different reaction times and a different perception of when a task had started and ended. Also, the test subject was encouraged to explain their decisions throughout the testing process and answering the question asked by the faciltator, which adds extra time to the total.\
+We realised that this would not be a very precise or accurate metric as everyone had different reaction times and a different perception of when a task had started and ended. Also, the test subject was encouraged to explain their decisions throughout the testing process and answering the question asked by the faciltator, which adds extra time to the total.
 
-However, we recorded some times:\
+However, we recorded some times:
 
 | Temporal Insights | Test Subject 1 | Test Subject 2 | Average |
 | ------ | ------ | ------ | ------ |
@@ -102,7 +102,7 @@ Based on the comments and reactions of the test-subject during the test, we came
 
 ### Task 2:
 5. **Problem**: User initially tried clicking pay card on homepage, only then did they press the pay icon.\
-**Frequency**: 2 
+**Frequency**: 2 \
 **Severity Scale**: 3
 
     Makes sense, did not respond well to feedback on the app. 
@@ -162,8 +162,8 @@ Based on the comments and reactions of the test-subject during the test, we came
     Rename catories for more explicit categories, for example "flat management" and "App Settings"
 
 ### Task 6:
-15. **Problem**: User confused due to a non-functional help and support button in hamburger menu.\ 
-**Frequency:**
+15. **Problem**: User confused due to a non-functional help and support button in hamburger menu. \
+**Frequency: 5** \
 **Severity Scale**: 4
 
     Major issue, should reorganise the app for this.
@@ -200,8 +200,8 @@ Based on the Focus Groups' answers to our questions, we identified more issues:
 
     Cosmetic thing, recurring issue
 
-21. **Problem**: considered the homepage too crowed\
-**Frequency**: 1
+21. **Problem**: considered the homepage too crowded \
+**Frequency**: 1 \
 **Severity Scale**:  1
 
     People in focus group liked that, other didn't like.
@@ -217,17 +217,17 @@ Based on the Focus Groups' answers to our questions, we identified more issues:
 
     Format issue from earlier
 
-24. **Problem**: Navigation in the top left in settings, expected to use system back button
+24. **Problem**: Navigation in the top left in settings, expected to use system back button. \
 **Severity Scale**: 1
 
     Something we would implement in a production prototype, not something figma would do
 
-25. **Problem**: Considered the "insight" name confusing
+25. **Problem**: Considered the "insight" name confusing. \
 **Severity Scale**: 2
 
     Could have a different name, relatively minor and most people understood.
 
-26. **Problem**: Would want more "insight" stuff on the home page
+26. **Problem**: Would want more "insight" stuff on the home page. \
 **Severity Scale**: 0
 
     More graphs, and previews. We wanted more visual stuff.
@@ -240,12 +240,12 @@ Based on the Focus Groups' answers to our questions, we identified more issues:
 
     As earlier, same score
 
-28. **Problem**: Pay up was confusing -> incoming and upcoming are in separate places could be in one place
+28. **Problem**: Pay up was confusing -> incoming and upcoming are in separate places could be in one place. \
 **Severity Scale**: 3
 
     This is in the homepage, upcoming expenses was confusing to users. Shows the need for a tutorial or clear seperation.
 
-29. **Problem**: The help and support tab was separate in the settings
+29. **Problem**: The help and support tab was separate in the settings. \
 **Severity Scale**: 4
 
     As earlier
@@ -271,12 +271,12 @@ Based on the Focus Groups' answers to our questions, we identified more issues:
 
     It's a feeling cosmetic.
 
-34. **Problem**: The different tones was good but green overall was not bad -> could be better
+34. **Problem**: The different tones was good but green overall was not bad -> could be better. \
 **Severity Scale**: 1
 
     Good colour theory, just green is a bad vibe.
 
-35. **Problem**: blue is too dark(on the add expenses)
+35. **Problem**: The blue is too dark on the add expenses. \
 **Severity Scale**: 1
 
     No-one had trouble, just looked bad against the green.
@@ -290,12 +290,12 @@ Based on the Focus Groups' answers to our questions, we identified more issues:
 
     Our team disagees as they serve different functions, profile icons weren't going to be similar to nav-bar.
 
-37. **Problem**: pay up was unclear, did not know what that meant
+37. **Problem**: "Pay Up" was unclear, did not know what that meant. \
 **Severity Scale**: 2
 
     The word pay-up is confusing. 
 
-    This shows the importance of an onboarding tutorial for the app **SOLVES PROBLEMS**
+    This shows the importance of an onboarding tutorial for the app, since it solves many of the mentionned problems.
 
 ### Overall Issues
 
