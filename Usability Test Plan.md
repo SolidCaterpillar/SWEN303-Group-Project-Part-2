@@ -194,7 +194,37 @@ We decided on both quantitative and qualitative metrics so that the test subject
 
       - #### Sentiment Analysis
 
-         We will record the test subjects' responses as they evaluate the prototype synchronously and asynchronously in the focus groups. We will use AI tools like OpenAI’s Whisper to receive an accurate transcript, but we will remove the sections where the test-giver speaks. We will divide this transcript by each sub-task. We will upload these mini transcripts to a CSV file along with the task and sub-task ID. We will then use Python libraries like NLTK Vader and Roberto to calculate the sentiment analysis scores (positive, neutral, and negative). The responses by the test subjects themselves will be qualitative, but the Python libraries mentioned can convert them to quantitative responses which we can analyse and visualise using graphs using Python’s NumPy, Pandas, and Matplotlib libraries. This is a subjective, but an AI data-driven metric. This is important as it reduces the inconsistency in our evaluation of data.
+         We will record the test subjects' responses as they evaluate the prototype synchronously and asynchronously in the focus groups. We will use AI tools like OpenAI’s Whisper to receive an accurate transcript, but we will remove the sections where the test-giver speaks. We will divide this transcript by each sub-task. We will upload these mini transcripts to a CSV file along with the task and sub-task ID. We will then use Python libraries like NLTK Vader and Roberta to calculate the sentiment analysis scores (positive, neutral, and negative). The responses by the test subjects themselves will be qualitative, but the Python libraries mentioned can convert them to quantitative responses which we can analyse and visualise using graphs using Python’s NumPy, Pandas, and Matplotlib libraries. This is a subjective, but an AI data-driven metric. This is important as it reduces the inconsistency in our evaluation of data.
+
+         ##### Objective
+         Determine the amount of negativity, neutrality and positivity of the test subject's responses during each task. This involves:
+         1. Recording the test-subjects voice during the test
+         2. Converting these recordings into transcripts using Whisper AI (https://openai.com/index/whisper/)
+         3. Manually dividing these transcripts per task, removing any unncessary words
+         4. Placing these sub-transcripts into a `csv` file
+         5. Writing a python script that conducts the Sentiment Analysis per task per member
+         6. Output `csv` files with the scores
+         7. Visualise the data using these output files
+
+         ##### Models
+         We are using 2 models:
+
+         1. ##### _Vader Model_ by NLTK
+         - Valence Aware Dictionary and sEntiment Reasoner
+         - https://ojs.aaai.org/index.php/ICWSM/article/download/14550/14399/18068
+         - Less Smart Model
+            - Bag-of-Words Approach
+            - analyses every word without context
+
+         2. ##### _Roberta Model_ by Hugging Face
+         - Robustly Optimized BERT Pretraining Approach
+         - variant of the BERT (Bidirectional Encoder Representations from Transformers)
+         - https://huggingface.co/docs/transformers/en/model_doc/roberta
+         - Smarter Model
+            - Self-Attention
+            - GPT-2 tokeniser
+            - trained on 160GB of text
+            - determines the Sentiment based in the context
 
 - ## Post Test/Asynchronous
 
@@ -228,7 +258,7 @@ We have decided thresholds, that if met, means that our prototype passed our use
 
       - #### Sentiment Analysis
 
-         Each sentiment will get a rating from 0-1 for a negative, neutral, and positive factor. We will use the maximum of these ratings to determine the overall sentiment, but we will use the numerical value to plot the trend in user-friendliness per wireframe. We used two different models—Vader (which uses Bag-of-Words without previous context) and Roberto (which is more accurate since it uses context)—to help us clearly identify any anomalies. The actual sentiment analysis will take place after the test, but the recording of the live reaction/responses is synchronous to the test. We decided that over 0.7 for one aspect, with more than 0.3 difference with the other aspects, is a significant result, using the Roberto model. We will aim for over 70% being positive responses.
+         Each sentiment will get a rating from 0-1 for a negative, neutral, and positive factor. We will use the maximum of these ratings to determine the overall sentiment, but we will use the numerical value to plot the trend in user-friendliness per wireframe. We used two different models—Vader (which uses Bag-of-Words without previous context) and Roberto (which is more accurate since it uses context)—to help us clearly identify any anomalies. The actual sentiment analysis will take place after the test, but the recording of the live reaction/responses is synchronous to the test. We decided that over 0.7 for one aspect, with more than 0.3 difference with the other aspects, is a significant result, using the Roberta model. We will aim for over 70% being positive responses.
 
 - ## Post Test/Asynchronous
 
