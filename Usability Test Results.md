@@ -1,18 +1,8 @@
 # Usability Test Results
 
-We are using the severity rating for a usability problem based on Jakob Nielsen (For **Focus Groups** and **Cognitive Walkthrough**):
+# _Usability Metrics_
 
-- 0 = I don’t agree that this is a usability problem at all
-- 1 = Cosmetic problem only: need not be fixed unless extra time is available on project
-- 2 = Minor usability problem: fixing this should be given low priority
-- 3 = Major usability problem: important to fix, so should be given high priority
-- 4 = Usability catastrophe: imperative to fix this before the product can be released
-
-We chose this because we have used it in the previous part of the group project to evaluate our team’s wireframe. We are going to use it to evaluate the different team members on our group’s prototype. We will be using the frequencies of people running into pain points/confusion and factor them into our decision.
-
-We believe that anything that is a purely Figma issue should be a 1. We will keep these in mind if they come up in future prototypes, especially ones using different technologies.
-
-## Speed of Navigation (Synchronous/Quantitative/Objective)
+## 1. Speed of Navigation (Synchronous/Quantitative/Objective)
 
 We realised that this would not be a very precise or accurate metric as everyone had different reaction times and a different perception of when a task had started and ended. Also, the test subject was encouraged to explain their decisions throughout the testing process and answering the question asked by the faciltator, which adds extra time to the total.\
 
@@ -26,19 +16,21 @@ However, we recorded some times:\
 
 According to our **Usability Test Plan**, we aimed for each task to be completed in **below 1 minute**, which we have accomplished with an average task completion time of **approx. 52.9 seconds**, including the time for explanations and comments by the test subject and facilitator. 
 
-## Sentiment Analysis (Synchronous/Qualitative/Subjective)
+## 2. Sentiment Analysis (Synchronous/Qualitative/Subjective)
 
 We recorded the transcripts of the test subjects and used 2 models for sentiment analysis.\
 All the detailed results are in the `Sentiment_Analysis/Results` directory, but the following graphs are an overview of negative, neutral, and positive responses:
 
-![Sentiment Analysis Results using the Vader Model](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Graphs/vader_model.png?ref_type=heads "Sentiment Analysis Results using the Vader Model")
+### Vader Model Sentiment Analysis Results
+![Sentiment Analysis Results using the Vader Model](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/raw/main/Graphs/vader_model.png?ref_type=heads "Sentiment Analysis Results using the Vader Model")
 
-![Sentiment Analysis Results using the Roberta Model](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Graphs/roberta_model.png?ref_type=heads "Sentiment Analysis Results using the Roberta Model")
+### Roberta Model Sentiment Analysis Results
+![Sentiment Analysis Results using the Roberta Model](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/raw/main/Graphs/roberta_model.png?ref_type=heads "Sentiment Analysis Results using the Roberta Model")
 
 
 Most of the results are positive according to the Roberta Model and more results are positive according to the Vader model, so we believe that our prototype was successful in this way. We expected most of our tasks to have more of a neutral or positive factor (as they turned out to be), since most of the comments by the test subjects was simply describing what they were doing with the occasional appreciation or pain point.
 
-## SUS (System Usability Scale) (Asynchronous/Quantitative/Subjective) 
+## 3. SUS (System Usability Scale) (Asynchronous/Quantitative/Subjective) 
 
 The SUS scores were calculated as mentionned in the Usability Test Plan. This is the overview:
 
@@ -54,13 +46,26 @@ Mean: 80.0
 Standard Deviation = 11.937336386313323
 
 ```
-![Analysis of SUS scores](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Graphs/SUS_results.png?ref_type=heads "Analysis of SUS scores")
+![Analysis of SUS scores](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/raw/main/Graphs/SUS_results.png?ref_type=heads "Analysis of SUS scores")
 
 In the Usability Test Plan, we determined that we would be aiming for **an average SUS Score of 65 with none less than 50**.\
-We have satisfied this condition, since our **median and mean score were 81.25 and 80.0 respectively**, both whih are greater than **65**. Also each score was above **50** by at least **10**.
+We have satisfied this condition, since our **median and mean score were 81.25 and 80.0 respectively**, both whih are greater than **65**. Also each SUS score was above **50** by at least **10**.
 
+## Note: Severity Rating
 
-## Cognitive Walkthrough (Synchronous/Qualitative/Subjective)
+We are using the severity rating for a usability problem based on Jakob Nielsen (For **Cognitive Walkthrough** and **Focus Groups**):
+
+- 0 = I don’t agree that this is a usability problem at all
+- 1 = Cosmetic problem only: need not be fixed unless extra time is available on project
+- 2 = Minor usability problem: fixing this should be given low priority
+- 3 = Major usability problem: important to fix, so should be given high priority
+- 4 = Usability catastrophe: imperative to fix this before the product can be released
+
+We chose this because we have used it in the previous part of the group project to evaluate our team’s wireframe. We are going to use it to evaluate the different team members on our group’s prototype. We will be using the frequencies of people running into pain points/confusion and factor them into our decision.
+
+We believe that anything that is a purely Figma issue should be a 1. We will keep these in mind if they come up in future prototypes, especially ones using different technologies.
+
+## 4. Cognitive Walkthrough (Synchronous/Qualitative/Subjective)
 
 Based on the comments and reactions of the test-subject during the test, we came up with some problems/issues to focus on:\
 
@@ -170,7 +175,7 @@ Based on the comments and reactions of the test-subject during the test, we came
     They didn't like the FAQ content, it is purely cosmteic as it would be covered in fleshed out in a finished app.
 
 
-## Focus Groups (Asynchronous/Qualitative/Subjective)
+## 5. Focus Groups (Asynchronous/Qualitative/Subjective)
 
 Based on the Focus Groups' answers to our questions, we identified more issues:
 
@@ -335,4 +340,3 @@ Based on the Focus Groups' answers to our questions, we identified more issues:
 | 39  | All   | Lack of an onboarding process made it difficult for users to discover certain features.                  | ?        |    Alvien/Mazen/Z'arn             |
 
 FG: Focus Group
-
