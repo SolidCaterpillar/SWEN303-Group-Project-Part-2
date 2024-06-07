@@ -196,7 +196,7 @@ We decided on both quantitative and qualitative metrics so that the test subject
 
          We will record the test subjects' responses as they evaluate the prototype synchronously and asynchronously in the focus groups. We will use AI tools like OpenAI’s Whisper to receive an accurate transcript, but we will remove the sections where the test-giver speaks. We will divide this transcript by each sub-task. We will upload these mini transcripts to a CSV file along with the task and sub-task ID. We will then use Python libraries like NLTK Vader and Roberta to calculate the sentiment analysis scores (positive, neutral, and negative). The responses by the test subjects themselves will be qualitative, but the Python libraries mentioned can convert them to quantitative responses which we can analyse and visualise using graphs using Python’s NumPy, Pandas, and Matplotlib libraries. This is a subjective, but an AI data-driven metric. This is important as it reduces the inconsistency in our evaluation of data.
 
-         #### <u>Objective <\u>
+         #### _Objective_
          Determine the amount of negativity, neutrality and positivity of the test subject's responses during each task. This involves:
          1. Recording the test-subjects voice during the test
          2. Converting these recordings into transcripts using Whisper AI (https://openai.com/index/whisper/)
@@ -206,7 +206,7 @@ We decided on both quantitative and qualitative metrics so that the test subject
          6. Output `csv` files with the scores
          7. Visualise the data using these output files
 
-         #### <u>Models<\u>
+         #### _Models_
          We are using 2 models:
 
          1. #### _Vader Model_ by NLTK
