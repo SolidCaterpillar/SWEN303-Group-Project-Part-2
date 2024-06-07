@@ -1,6 +1,7 @@
 # Usability Test Results
 
-# _Usability Metrics_
+## _Usability Metrics_
+
 
 ## 1. Speed of Navigation (Synchronous/Quantitative/Objective)
 
@@ -16,6 +17,8 @@ However, we recorded some times:\
 
 According to our **Usability Test Plan**, we aimed for each task to be completed in **below 1 minute**, which we have accomplished with an average task completion time of **approx. 52.9 seconds**, including the time for explanations and comments by the test subject and facilitator. 
 
+<br>
+
 ## 2. Sentiment Analysis (Synchronous/Qualitative/Subjective)
 
 We recorded the transcripts of the test subjects and used 2 models for sentiment analysis.\
@@ -29,6 +32,8 @@ All the detailed results are in the `Sentiment_Analysis/Results` directory, but 
 
 
 Most of the results are positive according to the Roberta Model and more results are positive according to the Vader model, so we believe that our prototype was successful in this way. We expected most of our tasks to have more of a neutral or positive factor (as they turned out to be), since most of the comments by the test subjects was simply describing what they were doing with the occasional appreciation or pain point.
+
+<br>
 
 ## 3. SUS (System Usability Scale) (Asynchronous/Quantitative/Subjective) 
 
@@ -51,6 +56,8 @@ Standard Deviation = 11.937336386313323
 In the Usability Test Plan, we determined that we would be aiming for **an average SUS Score of 65 with none less than 50**.\
 We have satisfied this condition, since our **median and mean score were 81.25 and 80.0 respectively**, both whih are greater than **65**. Also each SUS score was above **50** by at least **10**.
 
+<br>
+
 ## Note: Severity Rating
 
 We are using the severity rating for a usability problem based on Jakob Nielsen (For **Cognitive Walkthrough** and **Focus Groups**):
@@ -64,6 +71,8 @@ We are using the severity rating for a usability problem based on Jakob Nielsen 
 We chose this because we have used it in the previous part of the group project to evaluate our team’s wireframe. We are going to use it to evaluate the different team members on our group’s prototype. We will be using the frequencies of people running into pain points/confusion and factor them into our decision.
 
 We believe that anything that is a purely Figma issue should be a 1. We will keep these in mind if they come up in future prototypes, especially ones using different technologies.
+
+<br>
 
 ## 4. Cognitive Walkthrough (Synchronous/Qualitative/Subjective)
 
@@ -174,6 +183,7 @@ Based on the comments and reactions of the test-subject during the test, we came
 
     They didn't like the FAQ content, it is purely cosmteic as it would be covered in fleshed out in a finished app.
 
+<br>
 
 ## 5. Focus Groups (Asynchronous/Qualitative/Subjective)
 
@@ -299,8 +309,9 @@ Based on the Focus Groups' answers to our questions, we identified more issues:
 
     Users had issues with understanding the purpose of key functionalities. This induces a sense of complexity that decreases the positive UX of the app.
 
+<br>
 
-## Table of Tasks/Issues
+## _Table of Tasks/Issues_
 
 | ID  | Task  | Description                                                                                             | Severity | Assigned To     |
 |-----|-------|---------------------------------------------------------------------------------------------------------|----------|-----------------|
