@@ -31,9 +31,9 @@ According to our **Usability Test Plan**, we aimed for each task to be completed
 We recorded the transcripts of the test subjects and used 2 models for sentiment analysis.\
 All the detailed results are in the `Sentiment_Analysis/Results` directory, but the following graphs are an overview of negative, neutral, and positive responses:
 
-![Sentiment Analysis Results using the Vader Model](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/tree/main/Graphs/vader_model.png "Sentiment Analysis Results using the Vader Model")
+![Sentiment Analysis Results using the Vader Model](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Graphs/vader_model.png?ref_type=heads "Sentiment Analysis Results using the Vader Model")
 
-![Sentiment Analysis Results using the Roberta Model](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/tree/main/Graphs/roberta_model.png "Sentiment Analysis Results using the Roberta Model")
+![Sentiment Analysis Results using the Roberta Model](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Graphs/roberta_model.png?ref_type=heads "Sentiment Analysis Results using the Roberta Model")
 
 
 Most of the results are positive according to the Roberta Model and more results are positive according to the Vader model, so we believe that our prototype was successful in this way. We expected most of our tasks to have more of a neutral or positive factor (as they turned out to be), since most of the comments by the test subjects was simply describing what they were doing with the occasional appreciation or pain point.
@@ -43,7 +43,6 @@ Most of the results are positive according to the Roberta Model and more results
 The SUS scores were calculated as mentionned in the Usability Test Plan. This is the overview:
 
 ```
-
 SUS Scores = [82.5, 75.0, 95.0, 87.5, 80.0, 60.0]
 Lowest: 60.0
 Highest: 95.0
@@ -55,7 +54,7 @@ Mean: 80.0
 Standard Deviation = 11.937336386313323
 
 ```
-![Analysis of SUS scores](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/tree/main/Graphs/SUS_results.png "Analysis of SUS scores")
+![Analysis of SUS scores](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Graphs/SUS_results.png?ref_type=heads "Analysis of SUS scores")
 
 In the Usability Test Plan, we determined that we would be aiming for **an average SUS Score of 65 with none less than 50**.\
 We have satisfied this condition, since our **median and mean score were 81.25 and 80.0 respectively**, both whih are greater than **65**. Also each score was above **50** by at least **10**.
