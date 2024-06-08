@@ -273,7 +273,7 @@ We have decided thresholds, that if met, means that our prototype passed our use
          - Even-numbered statements: 5 - User_Response
       2. Sum all the sub-scores to get the SUS score for each user
       3. Normalise the SUS score (out of 100): SUS_Score * 2.5
-      4. According to the Interaction Design Foundation, a normalised SUS Score:
+      4. According to the Interaction Design Foundation (https://www.interaction-design.org/literature/article/system-usability-scale), a normalised SUS Score:
          - ≥ 70 is considered good
          - ≥ 85 is considered excellent
       5. Since our prototype is not a finished application, we will be aiming for an average SUS Score of 65 with none less than 50.
