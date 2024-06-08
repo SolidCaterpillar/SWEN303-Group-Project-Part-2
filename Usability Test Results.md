@@ -56,7 +56,7 @@ Standard Deviation = 11.937336386313323
 ![Analysis of SUS scores](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/raw/main/Images/SUS_results.png?ref_type=heads "Analysis of SUS scores")
 
 In the Usability Test Plan, we determined that we would be aiming for **an average SUS Score of 65 with none less than 50**.\
-We have satisfied this condition, since our **median and mean score were 81.25 and 80.0 respectively**, both whih are greater than **65**. Also each SUS score was above **50** by at least **10**.
+We have satisfied this condition, since our **median and mean score were 81.25 and 80.0 respectively**, both where equal or greater than **65**. Also each SUS score was above **50** by at least **10**.
 
 <br>
 
