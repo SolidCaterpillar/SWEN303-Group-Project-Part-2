@@ -33,6 +33,8 @@ All the detailed results are in the `Sentiment_Analysis/Results` directory, but 
 
 Most of the results are positive according to the Roberta Model and more results are positive according to the Vader model, so we believe that our prototype was successful in this way. We expected most of our tasks to have more of a neutral or positive factor (as they turned out to be), since most of the comments by the test subjects was simply describing what they were doing with the occasional appreciation or pain point.
 
+While this is not a statistically significant sample, the sentiment with what we observed lines up with what we saw during the user walkthroughs. Slight difficulties with the expense form resulted in more negative feedback, as well as one user having problems with the expenses page. Positive respenses were seen with the customisation options, as user's really liked these features. 
+
 <br>
 
 ## 3. SUS (System Usability Scale) (Asynchronous/Quantitative/Subjective) 
