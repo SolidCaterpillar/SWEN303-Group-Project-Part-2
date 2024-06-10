@@ -348,7 +348,7 @@ Based on the Focus Groups' answers to our questions, we identified more issues:
 | 34  | FG    | The different tones were good but green overall was not bad -> could be better.                          | 1        |                 |
 | 35  | FG    | Blue is too dark (on the add expenses).                                                                  | 1        |                 |
 | 36  | FG    | Lack of intuitive design elements. Lack of consistency overall.                                          | 1        |                 |
-| [31] (https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/12)  | FG    |  There was no implementation to manage flatmates or groups, even though there was a button for "Household Settings"                                       | 2        |   Risheet              |
+| [31](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/12)  | FG    |  There was no implementation to manage flatmates or groups, even though there was a button for "Household Settings"                                       | 2        |   Risheet              |
 | 38  | All   | Layout of the payments page was well-received, but issues with colour scheme and navigation functionality.| ?        |        Risheet/Ricky/Hamish         |
 | 39  | All   | Lack of an onboarding process made it difficult for users to discover certain features.                  | ?        |    Alvien/Mazen/Z'arn             |
 
