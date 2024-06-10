@@ -317,7 +317,7 @@ Based on the Focus Groups' answers to our questions, we identified more issues:
 
 | ID  | Task  | Description                                                                                             | Severity | Assigned To     |
 |-----|-------|---------------------------------------------------------------------------------------------------------|----------|-----------------|
-| 13  | Task 5| High contrast had issues with text. Noticed in the homepage and FAQ.                                     | 4        |      Ricky           |
+| [13](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/1)  | Task 5| High contrast had issues with text. Noticed in the homepage and FAQ.                                     | 4        |      Ricky           |
 | 15  | Task 6/FG| User confused due to a non-functional help and support button in hamburger menu.                         | 4        |         Mazen        |
 | 27  | FG    | In dark mode, some text was not visible.                                                                 | 4        |      Hamish           |
 | 29  | FG    | The help and support tab was separate in the settings.                                                   | 4        |     Mazen            |
