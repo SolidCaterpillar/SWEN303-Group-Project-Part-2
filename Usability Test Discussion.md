@@ -1,8 +1,9 @@
 #Usability Test Discussion
+
 ###What were the most interesting things you found from user testing?
 
 ###What did you learn from conducting the user testing? (use process, refer to prototype)
-####**User Testing Organisation - Time Complexity and Clarity**
+####User Testing Organisation - Time Complexity and Clarity
 As we began our testing, it became apparent that we underestimated the need to manage communication and complexity for our users. This showed up in two major areas: management of our script and organisation of our tasks. 
 
 When it came to how we managed communication, we didn’t have a uniform script for facilitators, but rather a set of bullet points that would go through the key points of our testing. This led to many of us using different approaches, significantly impacting user performance. Some facilitators prompted users more than others, leading to variations in user experience. This underscores the need for a **standardised script**  to ensure **consistency** and **fairness** in testing. In doing this, we would get more consistent outcomes among all our users. 
