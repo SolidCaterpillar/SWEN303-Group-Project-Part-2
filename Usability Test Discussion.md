@@ -3,7 +3,7 @@
 ### What were the most interesting things you found from user testing?
 
 ### What did you learn from conducting the user testing? (use process, refer to prototype)
-#### User Testing Organisation - Time Complexity and Clarity
+#### 1. User Testing Organisation - Time Complexity and Clarity
 As we began our testing, it became apparent that we underestimated the need to manage communication and complexity for our users. This showed up in two major areas: management of our script and organisation of our tasks. 
 
 When it came to how we managed communication, we didn’t have a uniform script for facilitators, but rather a set of bullet points that would go through the key points of our testing. This led to many of us using different approaches, significantly impacting user performance. Some facilitators prompted users more than others, leading to variations in user experience. This underscores the need for a **standardised script**  to ensure **consistency** and **fairness** in testing. In doing this, we would get more consistent outcomes among all our users. 
@@ -12,7 +12,7 @@ User testing is a complex and time-consuming process that requires careful plann
 
 including the creation of clear, concise tasks and the need for multiple testing sessions to gather comprehensive feedback.
 
-#### 2. Data-Driven UX:**
+#### 2. Data-Driven UX:
 The necessity of data-driven UX design was reinforced. Collecting and analysing various types of data, such as: data types, time as well as the objectivity of data. In addition, we thought about what tools we could use to help speed up and access different measurements.
 
 Qualitative feedback and quantitative metrics were essential for understanding user needs and improving the design. Quantitative metrics allowed us to get an objective view of our data, and use it as a point of comparison to other designs. By using SUS, we could get a point of **comparison** to existing UX standards. On the other hand, when we thought about getting more **contextual insights**, we made sure that we had qualitative data from testing. Our use of focus groups allowed for a more flexible method of data collection, allowing us to focus on **key concerns** from users.
