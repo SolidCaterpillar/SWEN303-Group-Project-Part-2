@@ -34,7 +34,7 @@ All the detailed results are in the `Sentiment_Analysis/Results` directory, but 
 ### Discussion of Sentiment Score results
 The sentiment analysis of responses by task provides valuable insights into the user experience with our prototype. By utilizing both the Roberta and Vader models, we can compare and contrast the sentiment across various tasks to identify strengths and areas for improvement.
 
-#### [Roberta Model](url) Analysis
+#### [Roberta Model Analysis](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Usability%20Test%20Plan.md?ref_type=heads#models) (Link to test plan model)
 - Negative Responses: The boxplot of negative responses shows variability across tasks. Task three, in particular, stands out with a higher median and wider interquartile range (IQR), indicating more frequent and diverse negative feedback. Tasks one and two also show some variability, but to a lesser extent.
 
 - Neutral Responses: The neutral responses exhibit a more consistent distribution across tasks. However, tasks one and two have slightly higher median scores compared to other tasks, suggesting that participants had more neutral experiences with these tasks.
@@ -43,7 +43,7 @@ The sentiment analysis of responses by task provides valuable insights into the 
 
 - Overall Responses: When examining the responses by score type, we observe that positive responses dominate, followed by neutral and negative responses. This distribution aligns with our expectations and indicates a generally positive user experience.
 
-#### Vader Model Analysis
+#### [Vader Model Analysis](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Usability%20Test%20Plan.md?ref_type=heads#models) (Link to test plan model)
 - Negative Responses: Similar to the Roberta model, the Vader model shows that negative responses are relatively low across all tasks, with some variability. Task two has a slightly higher median compared to other tasks, indicating more negative feedback.
 
 - Neutral Responses: Neutral responses are more evenly distributed across tasks, with task one showing a higher median and a wider IQR. This suggests that participants had more neutral reactions to task one.
