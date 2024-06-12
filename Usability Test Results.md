@@ -35,6 +35,39 @@ Most of the results are positive according to the Roberta Model and more results
 
 While this is not a statistically significant sample, the sentiment with what we observed lines up with what we saw during the user walkthroughs. Slight difficulties with the expense form resulted in more negative feedback, as well as one user having problems with the expenses page. Positive respenses were seen with the customisation options, as user's really liked these features. 
 
+### Discussion of Sentiment Score results
+The sentiment analysis of responses by task provides valuable insights into the user experience with our prototype. By utilizing both the Roberta and Vader models, we can compare and contrast the sentiment across various tasks to identify strengths and areas for improvement.
+
+#### Roberta Model Analysis
+- Negative Responses: The boxplot of negative responses shows variability across tasks. Task three, in particular, stands out with a higher median and wider interquartile range (IQR), indicating more frequent and diverse negative feedback. Tasks one and two also show some variability, but to a lesser extent.
+
+- Neutral Responses: The neutral responses exhibit a more consistent distribution across tasks. However, tasks one and two have slightly higher median scores compared to other tasks, suggesting that participants had more neutral experiences with these tasks.
+
+- Positive Responses: Positive responses are generally higher across all tasks, with tasks four and five showing particularly high medians and narrow IQRs. This indicates strong positive feedback for these tasks. Task one has a lower median and wider IQR, suggesting more varied positive feedback.
+
+- Overall Responses: When examining the responses by score type, we observe that positive responses dominate, followed by neutral and negative responses. This distribution aligns with our expectations and indicates a generally positive user experience.
+
+#### Vader Model Analysis
+- Negative Responses: Similar to the Roberta model, the Vader model shows that negative responses are relatively low across all tasks, with some variability. Task two has a slightly higher median compared to other tasks, indicating more negative feedback.
+
+- Neutral Responses: Neutral responses are more evenly distributed across tasks, with task one showing a higher median and a wider IQR. This suggests that participants had more neutral reactions to task one.
+
+- Positive Responses: Positive responses are generally high across all tasks, with tasks four and five showing the highest medians and narrow IQRs. This indicates that these tasks were well-received by participants.
+
+- Overall Responses: The distribution by score type shows a clear predominance of positive responses, followed by neutral and negative responses. This further supports the overall positive sentiment observed in the Roberta model analysis.
+
+### Sentiment Results against Usability Goals
+Both the Roberta and Vader models indicate a predominantly positive user experience with our prototype. The consistent high positive responses and relatively low negative responses suggest that the prototype is well-received by users. The neutral responses also indicate that while there are areas for improvement, users generally did not experience significant issues. This meets our initial goal of ensuring that our users largely have a neutral-to-positive experience with our application. 
+
+Conducting this analysis however, we noticed some points of resistance:
+- **Expense form and page:** The expense form and expenses page received more negative feedback, indicating areas that require attention. Improving the usability of these features will likely enhance the overall user experience.
+
+We also noticed some positive areas:
+- **Customisation options:** Customisation options received high praise from users, contributing to the positive responses. These features should be retained and potentially expanded.
+
+### Next Steps
+To build further on these results, we should look at expanding the scope of our testing and the number of tests. By increasing the scope, we allow for a broader emotional understanding of users as they navigate the app. By increasing the number of tests, we can reduce any potential variabilities, allowing us to have a more accurate view of the application.
+
 <br>
 
 ## 3. SUS (System Usability Scale) (Asynchronous/Quantitative/Subjective) 
@@ -63,12 +96,12 @@ When we look at the breakdown of SUS scores by question, we can get more targete
 
 - Negative Questions: Questions 2, 4, 6, 8, and 10 (indicated in red) show more variability in scores. Specifically, Questions 2 and 4 have broader IQRs and lower median scores, suggesting that participants found these aspects more problematic. Question 4, in particular, has a low median score and includes an outlier, indicating significant usability issues identified by multiple participants.
 
-### SUS Scores Results
-In our Usability Test Plan, we set a target average SUS score of 65, with a stipulation that no individual score should fall below 50. This benchmark was established based on widely accepted UX guidelines which suggest that a SUS score of 68 is considered average, and scores above this threshold indicate good usability. By these standards, our target of 65 was already conservative, aiming to ensure that our product delivers at least an above-average user experience.
+### SUS Scores Against Usability Goals
+In our Usability Test Plan, we set a target average SUS score of 65, with a stipulation that no individual score should fall below 50. This benchmark was established based on widely accepted UX guidelines which suggest that a SUS score of 68 is considered average [1], and scores above this threshold indicate good usability. By these standards, our target of 65 was already conservative, aiming to ensure that our product delivers at least an above-average user experience.
 
 Our results significantly exceed these targets, with both the median and mean scores (81.25 and 80.0, respectively) well above the 65 threshold. Furthermore, each individual SUS score was above 50, with the lowest score being 60.0, which is 10 points higher than our minimum acceptable score. This indicates not only that our product has met the baseline usability criteria but also that it provides a highly satisfactory user experience for a majority of users.
 
-Comparing our results to industry standards and expectations, we can see that our app performs to a high-level of usability. As discussed by Draphite Digital [1], our SUS score puts us in the 81st percentile for usability. This indicates that we have an excellent foundation to improve from and develop the UX of our design. Future improvements could also involve decreasing variability in our results by increasing our usability over all personas.
+Reflecting on this high SUS score. This indicates that we have an excellent foundation to improve from and develop the UX of our design. Future improvements could also involve decreasing variability in our results by increasing our usability over all personas.
 
 ### Next Steps
 
