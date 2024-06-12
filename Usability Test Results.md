@@ -55,9 +55,6 @@ Standard Deviation = 11.937336386313323
 ```
 ![Analysis of SUS scores](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/raw/main/Images/SUS_results.png?ref_type=heads "Analysis of SUS scores")
 
-In the Usability Test Plan, we determined that we would be aiming for **an average SUS Score of 65 with none less than 50**.\
-We have satisfied this condition, since our **median and mean score were 81.25 and 80.0 respectively**; both were equal or greater than **65**. Additionally, each SUS score was above **50** by at least **10**.
-
 ### Discussion of SUS Score Results
 The System Usability Scale (SUS) scores derived from our usability testing have provided substantial insights into the usability of our product. The calculated SUS scores are [82.5, 75.0, 95.0, 87.5, 80.0, 60.0], yielding a range from a minimum score of 60.0 to a maximum of 95.0. Our analysis further reveals a lower quartile of 76.25 and an upper quartile of 86.25, with an interquartile range of 10.0, indicating a relatively tight clustering of scores within this range. The median score stands at 81.25, and the mean is 80.0, with a standard deviation of 11.937, reflecting a generally high level of usability with some variability in user experiences.
 
@@ -70,6 +67,8 @@ When we look at the breakdown of SUS scores by question, we can get more targete
 In our Usability Test Plan, we set a target average SUS score of 65, with a stipulation that no individual score should fall below 50. This benchmark was established based on widely accepted UX guidelines which suggest that a SUS score of 68 is considered average, and scores above this threshold indicate good usability. By these standards, our target of 65 was already conservative, aiming to ensure that our product delivers at least an above-average user experience.
 
 Our results significantly exceed these targets, with both the median and mean scores (81.25 and 80.0, respectively) well above the 65 threshold. Furthermore, each individual SUS score was above 50, with the lowest score being 60.0, which is 10 points higher than our minimum acceptable score. This indicates not only that our product has met the baseline usability criteria but also that it provides a highly satisfactory user experience for a majority of users.
+
+Comparing our results to industry standards and expectations, we can see that our app performs to a high-level of usability. As discussed by Draphite Digital [1], our SUS score puts us in the 81st percentile for usability. This indicates that we have an excellent foundation to improve from and develop the UX of our design. Future improvements could also involve decreasing variability in our results by increasing our usability over all personas.
 
 ### Next Steps
 
@@ -149,3 +148,7 @@ We believe that anything that is a purely Figma issue should be a 1. We will kee
 | 39  | All   | Lack of an onboarding process made it difficult for users to discover certain features.                  | ?        |    Alvien/Mazen/Z'arn             |
 
 FG: Focus Group
+
+
+### References
+[1] Benchmark the usability of your digital products: SUS scores. (n.d.). Graphite Digital. [Online]. Available: https://www.graphitedigital.com/insights/sus-scores-usability#:~:text=The%20average%20SUS%20score%20is,with%20minimal%20need%20for%20improvements. [Accessed: June 12, 2024].
