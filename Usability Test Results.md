@@ -130,14 +130,12 @@ As a result of our fidings from our SUS Scores, we can get some overall insight 
 
 ## 4. User Walkthrough (Synchronous/Qualitative/Subjective)
 
-When user's were doing walkthrough, we collected any pain points ore issues that they identified as they went through the user tasks. We aggregated them into the following document [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/User_Walkthroughs/All_Walkthroughs.md?plain=0). 
-
-Based on the comments and reactions of the test-subject during the test, we came up with some problems/issues to focus on.\
+During the user walkthroughs, we collected feedback on pain points and issues identified by users as they navigated through the tasks. The gathered data was compiled into a comprehensive document available [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/User_Walkthroughs/All_Walkthroughs.md?plain=0). This document includes detailed observations and severity ratings of each problem encountered. By analysing the comments and reactions of the test subjects, we identified key areas of concern. These insights have helped us pinpoint specific problems to focus on, ensuring that we address the most critical issues to enhance the user experience effectively. This systematic approach allows us to prioritise fixes and improvements based on real user feedback, ultimately leading to a more intuitive and user-friendly application.
 
 
 ## 5. Focus Groups (Asynchronous/Qualitative/Subjective)
 
-From our focus groups, we aggregated all the information gained from them in the document [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Focus_Groups/All_Focus_Groups.md).
+Our focus groups provided valuable insights into user experiences and preferences, which we have aggregated into the following document [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Focus_Groups/All_Focus_Groups.md). Participants highlighted several issues, such as the navigation bar's low contrast and the "swampy" colour scheme. Additionally, there were concerns about the crowded homepage and the confusing layout of the expense page. Users also pointed out functional problems, like the non-functional help and support button and difficulties navigating settings. The feedback underscored the need for better visual indicators, clearer navigation, and a more intuitive design to enhance user satisfaction and ease of use. These insights are critical as we refine our application to better meet user expectations and improve overall usability.
 
 ## Note: Severity Rating
 
