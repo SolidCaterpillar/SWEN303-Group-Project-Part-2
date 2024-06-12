@@ -30,3 +30,6 @@ AI-driven sentiment analysis was pivotal in our data-driven UX approach, providi
 
 
 ### References
+[1] D. E. Team, "Differences between objective and subjective data," Differences Between Objective and Subjective Data, March 9, 2023. [Online]. Available: https://dovetail.com/research/objective-vs-subjective-data/
+
+[2] C. Anslow, SWEN303 Lecture 18 Data-Driven UX[Lecture notes]. Available: https://nuku.wgtn.ac.nz/courses/17706/files/2697449?wrap=1
