@@ -191,6 +191,9 @@ We decided on both quantitative and qualitative metrics so that the test subject
         We will start the timer as soon as we reveal the task to the test subject and lap the time it takes for the test subject to reach the next wireframe, i.e., the test subject finishes the sub-task. This time would involve the processes of understanding the sub-task, locating the appropriate button, and pressing it. The faster the response time, the more intuitive the user interface of our prototype is what we are assuming. However, there may be a lot of bias and a small sample group to be able to use these results for accurate testing. This is an example of an objective metric.
 
    - ### Qualitative
+      - #### Note-taking 
+         While the test subject is performing the task, we will take note on their behaviour, reactions, and interactions with the prototype. This will include observing **confusion** or **pain points** to see where user is unsure of where to click next or spend time looking for the button to where to interact. While these observations will be recorded, We are not going to record all their behaviour, reactions, and interactions throughout the task as we cannot take note in real-time. We will only focus the specific sub-task that user cannot perform or unsure of. 
+
 
       - #### Sentiment Analysis
 
