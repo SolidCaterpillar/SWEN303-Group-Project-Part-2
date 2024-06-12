@@ -78,11 +78,14 @@ We believe that anything that is a purely Figma issue should be a 1. We will kee
 
 ## 4. User Walkthrough (Synchronous/Qualitative/Subjective)
 
-When user's were doing walkthrough, we collected any pain points ore issues that they identified as they went through the user tasks. We aggregated them into the following document [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/User_Walkthroughs/All_Walkthroughs.md?plain=0).
+When user's were doing walkthrough, we collected any pain points ore issues that they identified as they went through the user tasks. We aggregated them into the following document [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/User_Walkthroughs/All_Walkthroughs.md?plain=0). \
+
 Based on the comments and reactions of the test-subject during the test, we came up with some problems/issues to focus on.\
 
 
 ## 5. Focus Groups (Asynchronous/Qualitative/Subjective)
+
+From our focus groups, we aggregated all the information gained from them in the document [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Focus_Groups/All_Focus_Groups.md).\
 
 Based on the Focus Groups' answers to our questions, we identified more issues:
 
