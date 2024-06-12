@@ -35,22 +35,40 @@ All the detailed results are in the `Sentiment_Analysis/Results` directory, but 
 The sentiment analysis of responses by task provides valuable insights into the user experience with our prototype. By utilizing both the Roberta and Vader models, we can compare and contrast the sentiment across various tasks to identify strengths and areas for improvement.
 
 #### [Roberta Model Analysis](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Usability%20Test%20Plan.md?ref_type=heads#models) (Link to test plan model)
-- Negative Responses: The boxplot of negative responses shows variability across tasks. Task three, in particular, stands out with a higher median and wider interquartile range (IQR), indicating more frequent and diverse negative feedback. Tasks one and two also show some variability, but to a lesser extent.
 
-- Neutral Responses: The neutral responses exhibit a more consistent distribution across tasks. However, tasks one and two have slightly higher median scores compared to other tasks, suggesting that participants had more neutral experiences with these tasks.
+**Negative Responses:** 
 
-- Positive Responses: Positive responses are generally higher across all tasks, with tasks four and five showing particularly high medians and narrow IQRs. This indicates strong positive feedback for these tasks. Task one has a lower median and wider IQR, suggesting more varied positive feedback.
+The variability of negative responses is significant across tasks. Task three notably has a higher median and a wider interquartile range (IQR), indicating more frequent and diverse negative feedback. Tasks one and two also show variability, but to a lesser extent.
 
-- Overall Responses: When examining the responses by score type, we observe that positive responses dominate, followed by neutral and negative responses. This distribution aligns with our expectations and indicates a generally positive user experience.
+**Neutral Responses:** 
+
+Neutral responses are more consistent across tasks. However, tasks one and two have slightly higher median scores, suggesting participants had more neutral experiences with these tasks.
+
+**Positive Responses:** 
+
+Positive responses are high across all tasks, with tasks four and five having particularly high medians and narrow IQRs, indicating strong positive feedback. Task one, however, has a lower median and a wider IQR, suggesting more varied positive feedback.
+
+**Overall Responses:** 
+
+Positive responses dominate overall, followed by neutral and negative responses. This distribution aligns with our expectations, indicating a generally positive user experience.
 
 #### [Vader Model Analysis](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Usability%20Test%20Plan.md?ref_type=heads#models) (Link to test plan model)
-- Negative Responses: Similar to the Roberta model, the Vader model shows that negative responses are relatively low across all tasks, with some variability. Task two has a slightly higher median compared to other tasks, indicating more negative feedback.
 
-- Neutral Responses: Neutral responses are more evenly distributed across tasks, with task one showing a higher median and a wider IQR. This suggests that participants had more neutral reactions to task one.
+**Negative Responses:** 
 
-- Positive Responses: Positive responses are generally high across all tasks, with tasks four and five showing the highest medians and narrow IQRs. This indicates that these tasks were well-received by participants.
+Similar to the Roberta model, the Vader model indicates relatively low negative responses across all tasks, though some variability exists. Task two has a slightly higher median compared to other tasks, suggesting more negative feedback for this task.
 
-- Overall Responses: The distribution by score type shows a clear predominance of positive responses, followed by neutral and negative responses. This further supports the overall positive sentiment observed in the Roberta model analysis.
+**Neutral Responses:** 
+
+Neutral responses are more evenly distributed across tasks. Task one has a higher median and a wider interquartile range (IQR), indicating that participants had more neutral reactions to this task.
+
+**Positive Responses:** 
+
+Positive responses are generally high across all tasks. Tasks four and five show the highest medians and narrow IQRs, indicating that these tasks were particularly well-received by participants.
+
+**Overall Responses:** 
+
+The distribution of responses by score type shows a clear predominance of positive responses, followed by neutral and negative responses. This supports the overall positive sentiment observed in the Roberta model analysis.
 
 ### Sentiment Results against Usability Goals
 Both the Roberta and Vader models indicate a predominantly positive user experience with our prototype. The consistent high positive responses and relatively low negative responses suggest that the prototype is well-received by users. The neutral responses also indicate that while there are areas for improvement, users generally did not experience significant issues. This meets our initial goal of ensuring that our users largely have a neutral-to-positive experience with our application. 
