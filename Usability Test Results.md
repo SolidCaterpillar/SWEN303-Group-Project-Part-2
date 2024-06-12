@@ -31,14 +31,10 @@ All the detailed results are in the `Sentiment_Analysis/Results` directory, but 
 ![Sentiment Analysis Results using the Roberta Model](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/raw/main/Images/roberta_model.png?ref_type=heads "Sentiment Analysis Results using the Roberta Model")
 
 
-Most of the results are positive according to the Roberta Model and more results are positive according to the Vader model, so we believe that our prototype was successful in this way. We expected most of our tasks to have more of a neutral or positive factor (as they turned out to be), since most of the comments by the test subjects was simply describing what they were doing with the occasional appreciation or pain point.
-
-While this is not a statistically significant sample, the sentiment with what we observed lines up with what we saw during the user walkthroughs. Slight difficulties with the expense form resulted in more negative feedback, as well as one user having problems with the expenses page. Positive respenses were seen with the customisation options, as user's really liked these features. 
-
 ### Discussion of Sentiment Score results
 The sentiment analysis of responses by task provides valuable insights into the user experience with our prototype. By utilizing both the Roberta and Vader models, we can compare and contrast the sentiment across various tasks to identify strengths and areas for improvement.
 
-#### Roberta Model Analysis
+#### [Roberta Model](url) Analysis
 - Negative Responses: The boxplot of negative responses shows variability across tasks. Task three, in particular, stands out with a higher median and wider interquartile range (IQR), indicating more frequent and diverse negative feedback. Tasks one and two also show some variability, but to a lesser extent.
 
 - Neutral Responses: The neutral responses exhibit a more consistent distribution across tasks. However, tasks one and two have slightly higher median scores compared to other tasks, suggesting that participants had more neutral experiences with these tasks.
