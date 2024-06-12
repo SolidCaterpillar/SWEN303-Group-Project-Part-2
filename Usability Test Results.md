@@ -71,7 +71,27 @@ In our Usability Test Plan, we set a target average SUS score of 65, with a stip
 
 Our results significantly exceed these targets, with both the median and mean scores (81.25 and 80.0, respectively) well above the 65 threshold. Furthermore, each individual SUS score was above 50, with the lowest score being 60.0, which is 10 points higher than our minimum acceptable score. This indicates not only that our product has met the baseline usability criteria but also that it provides a highly satisfactory user experience for a majority of users.
 
+### Next Steps
+
+As a result of our fidings from our SUS Scores, we can get some overall insight on our application.
+
+**High Usability Indicated by High Scores:** The high average SUS score indicates that our product is perceived as user-friendly and meets the needs of our target audience effectively. We can also see this with the spread of positive questions, with its high scores and low variability. This suggests that the core functionalities and positive interactions within the product are well-implemented.
+
+**Addressing Negative Feedback:** The greater variability and lower scores on the negative questions highlight areas for improvement. Focus should be placed on understanding the specific issues raised by Questions 2 and 4, as they exhibit the most significant negative feedback. Conducting follow-up user interviews or qualitative studies can provide deeper insights into the specific pain points. While it's crucial to address the negative feedback, maintaining and enhancing the positive aspects identified by the high scores is also important. This balanced approach will ensure comprehensive usability improvements.
+
 <br>
+
+
+## 4. User Walkthrough (Synchronous/Qualitative/Subjective)
+
+When user's were doing walkthrough, we collected any pain points ore issues that they identified as they went through the user tasks. We aggregated them into the following document [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/User_Walkthroughs/All_Walkthroughs.md?plain=0). 
+
+Based on the comments and reactions of the test-subject during the test, we came up with some problems/issues to focus on.\
+
+
+## 5. Focus Groups (Asynchronous/Qualitative/Subjective)
+
+From our focus groups, we aggregated all the information gained from them in the document [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Focus_Groups/All_Focus_Groups.md).
 
 ## Note: Severity Rating
 
@@ -89,16 +109,6 @@ We believe that anything that is a purely Figma issue should be a 1. We will kee
 
 <br>
 
-## 4. User Walkthrough (Synchronous/Qualitative/Subjective)
-
-When user's were doing walkthrough, we collected any pain points ore issues that they identified as they went through the user tasks. We aggregated them into the following document [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/User_Walkthroughs/All_Walkthroughs.md?plain=0). 
-
-Based on the comments and reactions of the test-subject during the test, we came up with some problems/issues to focus on.\
-
-
-## 5. Focus Groups (Asynchronous/Qualitative/Subjective)
-
-From our focus groups, we aggregated all the information gained from them in the document [here](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/blob/main/Focus_Groups/All_Focus_Groups.md).
 ## _Table of Tasks/Issues_
 
 | ID  | Task  | Description                                                                                             | Severity | Assigned To     |
