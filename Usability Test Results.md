@@ -160,42 +160,41 @@ We believe that anything that is a purely Figma issue should be a 1. We will kee
 | ID  | Task  | Description                                                                                             | Severity | Assigned To     |
 |-----|-------|---------------------------------------------------------------------------------------------------------|----------|-----------------|
 | [13](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/1)  | Task 5| High contrast had issues with text. Noticed in the homepage and FAQ.                                     | 4        |      Ricky           |
-| [15](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/2)  | Task 6/FG| User confused due to a non-functional help and support button in hamburger menu.                         | 4        |         Mazen        |
-| [27](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/3)  | FG    | In dark mode, some text was not visible.                                                                 | 4        |      Hamish           |
-| [29](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/2)  | FG    | The help and support tab was separate in the settings.                                                   | 4        |     Mazen            |
+| [15](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/2)  | Task 6/ Focus Group| User confused due to a non-functional help and support button in hamburger menu.                         | 4        |         Mazen        |
+| [27](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/3)  | Focus Group    | In dark mode, some text was not visible.                                                                 | 4        |      Hamish           |
+| [29](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/2)  | Focus Group    | The help and support tab was separate in the settings.                                                   | 4        |     Mazen            |
 | [5](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/4)   | Task 2| User initially tried clicking pay card on homepage, only then did they press the pay icon.               | 3        |     Alvien            |
 | [11](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/5)  | Task 4| Used the fab at the top and looked at the pie chart for all insights. Did not access the category.       | 3        |     Hamish            |
-| [19](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/6)  | FG    | Navigation bar was considered too dark, and low contrast between the icons and the background.           | 3        |        Hamish/Risheet/Ricky         |
-| [28](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/7)  | FG    | Pay up was confusing -> incoming and upcoming are in separate places could be in one place.              | 3        |      Mazen           |
-| [32](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | FG    | The colours used in the navigation bar and header were not appealing. Suggested removing the blue colour.| 3        |       Hamish/Risheet/Ricky          |
+| [19](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/6)  | Focus Group    | Navigation bar was considered too dark, and low contrast between the icons and the background.           | 3        |        Hamish/Risheet/Ricky         |
+| [28](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/7)  | Focus Group    | Pay up was confusing -> incoming and upcoming are in separate places could be in one place.              | 3        |      Mazen           |
+| [32](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | Focus Group    | The colours used in the navigation bar and header were not appealing. Suggested removing the blue colour.| 3        |       Hamish/Risheet/Ricky          |
+| [39](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/15)  | All   | Lack of an onboarding process made it difficult for users to discover certain features like "Pay Up"                | 2        |    Alvien/Mazen/Z'arn             |
 | [2](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/9)   | Task 1| Expense form was confusing for the user. They wanted to split everything immediately and got lost.       | 2        |   Z'arn              |
 | [3](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/10)   | Task 1| Unable to verify the addition of the expense due to unclear location.                                    | 2        |        Z'arn          |
-| 6   | Task 2| No feedback on homepage or pay-up page after payment confused.                                           | 2        |         Z'arn         |
-| 7   | Task 2| Colours made it seem like they were uninteractable on the pay up page.                                   | 2        |     Hamish/Risheet/Ricky            |
-| 9   | Task 3| Confusion in navigating to expenses page.                                                                | 1        |       Z'arn          |
-| 14  | Task 5| User looked for a 'Customizability' button first, then was unsure what to choose between settings.       | 2        |                 |
-| 16  | Task 6| Difficulty in finding support resources.                                                                 | 2        |                 |
-| 25  | FG    | Considered the "insight" name confusing.                                                                 | 2        |                 |
-| 30  | FG    | Was confused between household settings and app setting.                                                 | 2        |                 |
-| 37  | FG    | Pay up was unclear, did not know what that meant.                                                        | 2        |                 |
+| [6](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/11)   | Task 2| No feedback on homepage or pay-up page after payment confused.                                           | 2        |         Z'arn         |
+| [7](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/13)   | Task 2| Colours made it seem like they were uninteractable on the pay up page.                                   | 2        |     Hamish/Risheet/Ricky            |
+| [38](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/13)  | All   | Layout of the payments page was well-received, but issues with colour scheme and navigation functionality.| 2        |        Risheet/Ricky/Hamish         |
+| [14](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/14)  | Task 5| User looked for a 'Customizability' button first, then was unsure what to choose between settings.       | 2        |                 |
+| [16](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/2)  | Task 6| Difficulty in finding support resources.                                                                 | 2        |                 |
+| [25](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/16)  | Focus Group    | Considered the "insight" name confusing.                                                                 | 2        |                 |
+| [30](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/14)  | Focus Group    | Was confused between household settings and app setting.                                                 | 2        |                 |
+| [37](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/15)  | Focus Group    | Pay up was unclear, did not know what that meant.                                                        | 2        |                 |
+| [31](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/12)  | Focus Group    |  There was no implementation to manage flatmates or groups, even though there was a button for "Household Settings"                                       | 2        |   Risheet              |
+| [9](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/9)   | Task 3| Confusion in navigating to expenses page.                                                                | 1        |       Z'arn          |
+| [33](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | Focus Group    | The colour was swampy.                                                                                   | 1        |                 |
+| [34](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | Focus Group    | The different tones were good but green overall was not bad -> could be better.                          | 1        |                 |
+| [35](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | Focus Group    | Blue is too dark (on the add expenses).                                                                  | 1        |                 |
 | 1   | Task 1| Expense creation broke the first time. Create button did not work.                                       | 1        |                 |
 | 4   | Task 1| Found trouble with interacting with the form (Could be a Figma issue).                                   | 1        |                 |
+| 36  | Focus Group    | Lack of intuitive design elements. Lack of consistency overall.                                          | 1        |                 |
 | 8   | Task 3| Difficulty in viewing past/future expenses.                                                              | 0        |                 |
 | 10  | Task 3| Misinterpretation of expenses summary.                                                                   | 0        |                 |
 | 12  | Task 5| User was confused, expected system to be the default setting for colour.                                 | 0        |                 |
 | 18  | Task 6| No guidance for troubleshooting.                                                                         | 0        |                 |
-| 22  | FG    | Did not like the past/future on the expense page.                                                        | 0        |                 |
-| 26  | FG    | Would want more "insight" stuff on the home page.                                                        | 0        |                 |
-| 33  | FG    | The colour was swampy.                                                                                   | 1        |                 |
-| 34  | FG    | The different tones were good but green overall was not bad -> could be better.                          | 1        |                 |
-| 35  | FG    | Blue is too dark (on the add expenses).                                                                  | 1        |                 |
-| 36  | FG    | Lack of intuitive design elements. Lack of consistency overall.                                          | 1        |                 |
-| [31](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/12)  | FG    |  There was no implementation to manage flatmates or groups, even though there was a button for "Household Settings"                                       | 2        |   Risheet              |
-| 38  | All   | Layout of the payments page was well-received, but issues with colour scheme and navigation functionality.| ?        |        Risheet/Ricky/Hamish         |
-| 39  | All   | Lack of an onboarding process made it difficult for users to discover certain features.                  | ?        |    Alvien/Mazen/Z'arn             |
+| 22  | Focus Group    | Did not like the past/future on the expense page.                                                        | 0        |                 |
+| 26  | Focus Group    | Would want more "insight" stuff on the home page.                                                        | 0        |                 |
 
-FG: Focus Group
-
+**P.S:** IDs are linked to Issues
 
 ### References
 [1] Benchmark the usability of your digital products: SUS scores. (n.d.). Graphite Digital. [Online]. Available: https://www.graphitedigital.com/insights/sus-scores-usability#:~:text=The%20average%20SUS%20score%20is,with%20minimal%20need%20for%20improvements. [Accessed: June 12, 2024].
