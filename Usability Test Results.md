@@ -153,6 +153,8 @@ We chose this because we have used it in the previous part of the group project 
 
 We believe that anything that is a purely Figma issue should be a 1. We will keep these in mind if they come up in future prototypes, especially ones using different technologies.
 
+We have decided to focus on issues with a **Severity Rating >= 2**, and some **Severity 1** issues.
+
 <br>
 
 ## _Table of Tasks/Issues_
@@ -173,17 +175,17 @@ We believe that anything that is a purely Figma issue should be a 1. We will kee
 | [3](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/10)   | Task 1| Unable to verify the addition of the expense due to unclear location.                                    | 2        |        Z'arn          |
 | [6](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/11)   | Task 2| No feedback on homepage or pay-up page after payment confused.                                           | 2        |         Z'arn         |
 | [7](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/13)   | Task 2| Colours made it seem like they were uninteractable on the pay up page.                                   | 2        |     Hamish/Risheet/Ricky            |
-| [38](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/13)  | All   | Layout of the payments page was well-received, but issues with colour scheme and navigation functionality.| 2        |        Risheet/Ricky/Hamish         |
-| [14](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/14)  | Task 5| User looked for a 'Customizability' button first, then was unsure what to choose between settings.       | 2        |                 |
-| [16](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/2)  | Task 6| Difficulty in finding support resources.                                                                 | 2        |                 |
-| [25](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/16)  | Focus Group    | Considered the "insight" name confusing.                                                                 | 2        |                 |
-| [30](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/14)  | Focus Group    | Was confused between household settings and app setting.                                                 | 2        |                 |
-| [37](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/15)  | Focus Group    | Pay up was unclear, did not know what that meant.                                                        | 2        |                 |
+| [38](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/13)  | All   | Layout of the payments page was well-received, but issues with colour scheme and navigation functionality.| 2        |        Hamish/Risheet/Ricky         |
+| [14](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/14)  | Task 5| User looked for a 'Customizability' button first, then was unsure what to choose between settings.       | 2        |     Mazen            |
+| [16](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/2)  | Task 6| Difficulty in finding support resources.                                                                 | 2        |      Mazen           |
+| [25](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/16)  | Focus Group    | Considered the "insight" name confusing.                                                                 | 2        |     Z'arn            |
+| [30](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/14)  | Focus Group    | Was confused between household settings and app setting.                                                 | 2        |      Mazen           |
+| [37](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/15)  | Focus Group    | Pay up was unclear, did not know what that meant.                                                        | 2        |     Alvien/Mazen/Z'arn            |
 | [31](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/12)  | Focus Group    |  There was no implementation to manage flatmates or groups, even though there was a button for "Household Settings"                                       | 2        |   Risheet              |
 | [9](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/9)   | Task 3| Confusion in navigating to expenses page.                                                                | 1        |       Z'arn          |
-| [33](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | Focus Group    | The colour was swampy.                                                                                   | 1        |                 |
-| [34](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | Focus Group    | The different tones were good but green overall was not bad -> could be better.                          | 1        |                 |
-| [35](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | Focus Group    | Blue is too dark (on the add expenses).                                                                  | 1        |                 |
+| [33](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | Focus Group    | The colour was swampy.                                                                                   | 1        |   Hamish/Risheet/Ricky              |
+| [34](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | Focus Group    | The different tones were good but green overall was not bad -> could be better.                          | 1        |    Hamish/Risheet/Ricky             |
+| [35](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2024/project1/t7/swen303-part2/-/issues/8)  | Focus Group    | Blue is too dark (on the add expenses).                                                                  | 1        |    Hamish/Risheet/Ricky             |
 | 1   | Task 1| Expense creation broke the first time. Create button did not work.                                       | 1        |                 |
 | 4   | Task 1| Found trouble with interacting with the form (Could be a Figma issue).                                   | 1        |                 |
 | 36  | Focus Group    | Lack of intuitive design elements. Lack of consistency overall.                                          | 1        |                 |
