@@ -22,6 +22,8 @@
 
     User testing is a complex and time-consuming process that requires careful planning and execution. As we conducted our tests, it highlighted the importance of thorough preparation. If we were scaling this process, we would need to ensure that we would have a **more streamlined process**. Currently, it was disorganised with people switching roles during testing for greater breadth in experience. If we were to expand our user testing, especially with more time-consuming forms of measurement such as user-walkthroughs and focus groups, it would be imperative to have set roles to **reduce confusion**. This would reduce wasted time for both test subjects and testers, allowing for us to go through a larger volume of users.
 
+    On the plus side, one thing we did do quite well was scheduling. We were quick to set up our testing plan and schedule a meeting with our testers, enabling us to make good progress and analyse our testing results well ahead of schedule.
+
 2. #### Data-Driven UX:
     The necessity of data-driven UX design was reinforced. Collecting and analysing various types of data, such as: data types, time as well as the objectivity of data. In addition, we thought about what tools we could use to help speed up and access different measurements.
 
